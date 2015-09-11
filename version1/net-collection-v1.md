@@ -5,17 +5,17 @@ A long time ago in a galaxy far far away, there was a television station called 
 
 
 ## Series 
-[A Number of Things](net-collection/a-number-of-things.md)
-[A Time to Dance](net-collection/a-time-to-dance.md)
-[Aaron Copland: Music in the Twenties](net-collection/aaron-copland-music-in-the-twenties.md)
-[About Ceramics](net-collection/about-ceramics.md)
-About People
-About People
-Action at Law
-Adventures in Moving
-Adventures in Numbers and Space
-Adventures in the Arts
-Adventures of Danny Dee
+[A Number of Things](net-collection/a-number-of-things.md)</br>
+[A Time to Dance](net-collection/a-time-to-dance.md)</br>
+[Aaron Copland: Music in the Twenties](net-collection/aaron-copland-music-in-the-twenties.md)</br>
+[About Ceramics](net-collection/about-ceramics.md)</br>
+About People</br>
+About People</br>
+Action at Law</br>
+Adventures in Moving</br>
+Adventures in Numbers and Space</br>
+Adventures in the Arts</br>
+Adventures of Danny Dee</br>
 
 
 ##Individual Programs
