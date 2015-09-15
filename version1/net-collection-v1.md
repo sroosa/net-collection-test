@@ -9,8 +9,7 @@ A long time ago in a galaxy far far away, there was a television station called 
 [A Time to Dance](net-collection/a-time-to-dance.md)</br>
 [Aaron Copland: Music in the Twenties](net-collection/aaron-copland-music-in-the-twenties.md)</br>
 [About Ceramics](net-collection/about-ceramics.md)</br>
-About People</br>
-About People</br>
+[About People](net-collection/about-people.md)</br>
 Action at Law</br>
 Adventures in Moving</br>
 Adventures in Numbers and Space</br>
