@@ -1,7 +1,7 @@
 # NET Collection
 
 ## About People
-About Ceramics is a series of 10 half hour episodes, produced in 1963 by WTTW. It was originally shot on videotape in color. 
+About People is a series of 10 half hour episodes, produced in 1963 by WTTW. It was originally shot on videotape in color. 
 
 ### Episodes
 Episode 1: What is Normal</br>
