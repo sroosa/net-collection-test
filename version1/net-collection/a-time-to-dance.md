@@ -4,7 +4,7 @@
 
 A Time to Dance is a series of 9 half hour episodes, produced in 196 by WGBH.
 
-#Episodes
+###Episodes
 
 Episode 1: A Time to Dance</br>
 Episode 2: Classical Ballet</br>
