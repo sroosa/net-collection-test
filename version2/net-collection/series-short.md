@@ -220,12 +220,12 @@
 **Great Issues of Conscience in Modern Medicine**: 3 ninety-minute episodes produced in 1961 by WGBH</br>
 **The Great Plains Trilogy**: 39 half-hour episodes produced in 1954 by University of Nebraska</br>
 **Great Plays in Rehearsal**: 10 hour-long episodes produced in 1959-1960 by WHA-TV</br>
-**The Great Society **: 8 half-hour episodes produced in 1966 by WETA</br>
+**The Great Society**: 8 half-hour episodes produced in 1966 by WETA</br>
 **Hardware**: 13 episodes</br>
 **Hats in the Ring (1956)**: 10 half-hour episodes produced in 1956 by Johns Hopkins University</br>
 **Hats in the Ring (1960)**: 7 half-hour episodes produced in 1960 by Elliot, Unger and Elliot</br>
 **Heifetz Master Class**: 8 half-hour episodes produced in 1963 by Nathan Kroll</br>
-**Here is the Past **: 13 half-hour episodes produced by New York University</br>
+**Here is the Past**: 13 half-hour episodes produced by New York University</br>
 **Heredity**: 9 half-hour episodes produced in 1960 by KUHT</br>
 **Heritage**: 131 half-hour episodes produced in 1957-1962 by WQED and Various Producers</br>
 **Heritage of the Land**: 13 half-hour episodes produced by WOI-TV</br>
