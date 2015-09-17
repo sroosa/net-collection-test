@@ -30,7 +30,7 @@ A long time ago in a galaxy far far away, there was a television station called 
 **Eins Zwei Drei**: 24 half-hour episodes produced in 1955 by WOI-TV</br>
 **Asia in Ferment**: 11 half-hour episodes produced in 1956 by Cine-Video Productions</br>
 **Hats in the Ring (1956)**: 10 half-hour episodes produced in 1956 by Johns Hopkins University</br>
-**Horizons Down **: 13 half-hour episodes produced in 1956 by KHUT</br>
+**Horizons Down**: 13 half-hour episodes produced in 1956 by KHUT</br>
 **The Elements**: 10 half-hour episodes produced in 1956 by KQED</br>
 **Buckskin Bob**: 39 half-hour episodes produced in 1956 by KQED</br>
 **Great Ideas**: 52 half-hour episodes produced in 1956 by San Francisco Prod.</br>
@@ -92,6 +92,7 @@ A long time ago in a galaxy far far away, there was a television station called 
 **Jazz Meets the Classics**: 17 half-hour episodes produced in 1958 by WGBH</br>
 **The Graphic Arts**: 22 half-hour episodes produced in 1958 by WGBH</br>
 **Psychology One**: 38 half-hour episodes produced in 1958 by WGBH</br>
+
 
 ## Individual Programs
 **1967 Carnegie Commission Report: Public Television: A Program for Action**: produced in 1967 by NET</br>
