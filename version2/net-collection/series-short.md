@@ -1,6 +1,179 @@
 #The NET Collection
 
 ## Series
+**A Generation of Leaves**: 8 episodes</br>
+**A Number of Things**: 52-58 episodes</br>
+**A Time to Dance**: 9 half-hour episodes produced in 1960 by by WGBH</br>
+**Aaron Copland: Music in the Twenties**: 12 half-hour episodes produced in 1965 by WGBH for NET</br>
+**About Ceramics**: 6 half-hour episodes produced in 1962 by WGTV</br>
+**About People**: 10 half-hour episodes produced in 1963 by WTTW for NET</br>
+**Action at Law**: 5 half-hour episodes produced in 1958 by KETC</br>
+**Adventures in Moving**: 12 episodes</br>
+**Adventures in Numbers and Space**: 7 episodes</br>
+**Adventures in the Arts**: 4 half-hour episodes</br>
+**Adventures of Danny Dee**: 40 half-hour episodes produced in 1960 by Cinema-Vue Corporation, NY</br>
+**Adventures of Sir Upton**: 6 episodes</br>
+**Adventures of Tom Sawyer**: 7 episodes</br>
+**Adventuring in the Hand Arts**: 10 half-hour episodes produced in 1958 by NBC-ETRC and Girl Scouts</br>
+**African Writers of Today**: 6 half-hour episodes produced in 1964 by NET in collaboration with the Transcription Center, London</br>
+**After Hours**: 29 hour-long episodes</br>
+**Age of Overkill**: 13 half-hour episodes produced in 1961 by WGBH for NET</br>
+**Alaska: The New Frontier**: 6 half-hour episodes produced in 1961 by KCTA-TV</br>
+**Alexander Schreiner at the Tabernacle Organ**: 3 half-hour episodes produced in 1960 by KUED</br>
+**All About Animals**: 9 episodes</br>
+**Almanac**: 9 fifteen-minute episodes produced in 1958 by KETC</br>
+**America in the Making**: 26 half-hour episodes produced in 1958 by New York University and WCBS</br>
+**America Looks Abroad **: 24 half-hour episodes produced in 1957 by WTTW</br>
+**America's Crises**: 19 hour-long episodes produced in 1964 by WGBH and Various Others</br>
+**America's Town Meeting of the Air**: 2  produced in 1956 and 1959 by Town Hall Inc.</br>
+**America's Waterways**: 2 episodes</br>
+**American Album**: 15 half-hour episodes produced in 1956 by Ford Foundation's TV-Radio Workshop</br>
+**American Art Today**: 13 half-hour episodes produced in 1956 by Hofstra College in coopertation with WOR-TV</br>
+**American Assembly for Advancement of Science 1970**: 4  produced in 1970 by </br>
+**American Business System**: 10 half-hour episodes produced in 1963 by Arthur Lodge Productions, Inc.</br>
+**American Government: The Pursuit of Happiness**: 8 episodes</br>
+**American Issues**: 18 half-hour episodes produced in 1958 by WGBH</br>
+**American Memoir**: 12 half-hour episodes produced in 1961 by WTTW</br>
+**American Perspective**: 19 half-hour episodes produced in 1960-1961 by KQED</br>
+**American Political Parties**: 13 episodes</br>
+**American Politics**: 15 half-hour episodes produced in 1960 by KETC</br>
+**Americans at Work**: 3 episodes</br>
+**An Age of Kings**: 15 75-ninety-minute episodes produced in 1961 by BBC</br>
+**Anatomy of a Hit**: 3 half-hour episodes produced in 1964 by KQED</br>
+**Anatomy of a Revolution**: 15 half-hour episodes produced in 1961 by WGBH</br>
+**Animals of the Seashore**: 15 half-hour episodes produced in 1959 by KCTS</br>
+**Arab Ferment**: 3 half-hour episodes produced in 1964 by TV Reporters International, Ltd</br>
+**Archaeology and the Bible**: 10 half-hour episodes produced in 1960 by WCET</br>
+**Arms Control**: 4 half-hour episodes produced in 1962 by New York University</br>
+**Art and Man**: 12 hour-long episodes produced in 1964 by Radiodiffusion Television Francaise and NET coproduction</br>
+**Art in Living**: 13 half-hour episodes produced in 1957 by WUNC</br>
+**Artists in America**: 13 episodes</br>
+**Arts and Artists: Great Britain**: 10 episodes produced in 1959 by BBC</br>
+**Arts and the University**: 4 episodes</br>
+**Arts Project**: 20-21 episodes</br>
+**As Fairs Go**: 3 half-hour episodes produced in 1964 by WNDT</br>
+**Asia in Ferment**: 11 half-hour episodes produced in 1956 by Cine-Video Productions</br>
+**Astronomy for You**: 13 half-hour episodes produced in 1959 by META</br>
+**At Home with your Child**: 12 half-hour episodes produced in 1956 by WQED</br>
+**At Issue**: 69 half hour and hour-long episodes produced in 1963-1966 by NET</br>
+**Atomic Age Physics**: 48 episodes</br>
+**Atomic Energy Commission Films**: 14 fifteen to forty-five minute episodes produced in 1958 by Atomic Energy Commission</br>
+**Atomic Energy Films**: 6 ten to thirty minute episodes produced in 1962 by Atomic Energy Commission</br>
+**Atomic Primer**: 13 half-hour episodes produced in 1958 by WTTW</br>
+**Auto Mechanics**: 20 half-hour episodes produced in 1967 by WENH</br>
+**Ballets de France**: 26 fifteen-minute episodes produced in 1955 by March of Time</br>
+**Basic Issues of Man**: 12 half-hour episodes produced in 1963 by WGTV</br>
+**Beberman Math**: 20 episodes</br>
+**Before there was a USA**: 12 half-hour episodes produced in 1955 by KETC</br>
+**Beginnings**: 13 half-hour episodes produced in 1960 by WTTW</br>
+**Behind the Lines**: more the 73 half-hour episodes</br>
+**Beyond the Earth**: 25 half-hour episodes produced in 1963 by University of Southern California in corportation with KNXT</br>
+**Biblical Masterpieces**: 13 half-hour episodes produced in 1961 by KUNC</br>
+**Biology**: 20 episodes</br>
+**Black Journal**: more than 70 hour-long episodes produced in 1968-1977 by WNET</br>
+**Books and Ideas**: 20 half-hour episodes produced in 1956 by Syracuse University</br>
+**Boston Symphony**: 6 episodes produced in 1958 by WGBH</br>
+**Buckskin Bob**: 39 half-hour episodes produced in 1956 by KQED</br>
+**Buddhism**: 3 episodes</br>
+**Camera on Washington**: 10 half-hour episodes produced in 1958 by NBC and NET</br>
+**Casals Master Class**: 25 half-hour episodes, except the first episode is one hour produced in 1961 by Kroll</br>
+**Challenge**: 22 half-hour episodes produced in 1962 by Ross-McElroy</br>
+**Championship Debate**: 7 half-hour episodes produced in 1964 by WTTW</br>
+**Changing World**: 13 hour-long episodes produced in 1964-1966 by Various Producers</br>
+**Chemical World of Man**: 5 half-hour episodes produced in 1968 by KQED and the American Chemical Society</br>
+**Chez Mimi**: 13 fifteen-minute episodes produced in 1954 by WKAR</br>
+**Chicago Festival**: 6 half-hour episodes produced in 1970 by WTTE</br>
+**Chicago Jazz**: 4 half-hour episodes</br>
+**Child Beyond**: 13 half-hour episodes produced in 1957 by University of Texas</br>
+**Children at the UN**: 5 episodes</br>
+**Children Growing**: 39 half-hour episodes produced in 1959 by </br>
+**Children's Corner**: 52 half-hour episodes produced in 1958 by WQED</br>
+**China: The Awakened Giant**: 4-5 ninety-minute episodes produced in 1966 by WTTW</br>
+**Choice: Challenge for the Modern Woman**: 12 half-hour episodes produced in 1966 by KCET</br>
+**Circus**: 10 half-hour episodes produced in 1964 by NET</br>
+**Cities of the World**: 6 hour-long episodes produced in 1968 by Various Producers</br>
+**City Makers**: 8 half-hour episodes produced in 1969 by WGBH for NET</br>
+**Civilization**: 13 hour-long episodes produced in 1970 by BBC</br>
+**College Bound**: 5 half-hour episodes produced in 1966 by WGBH</br>
+**College News Conference**: 13 half-hour episodes produced in 1961 by </br>
+**Command in Battle**: 8 half-hour episodes produced in 1960 by BBC</br>
+**Community of the Condemned**: 26 half-hour episodes produced in 1958 by WTTW</br>
+**Compass Rose**: 26 fifteen-minute episodes produced in 1958 by KING</br>
+**Conservative Viewpoint**: 4  produced in 1970 by WTTW</br>
+**Constitution and Human Rights**: 16 episodes produced in 1958 by WGBH</br>
+**Conversation with James Day**: 4 half-hour episodes produced in 1970 by KQED</br>
+**Conversations 1965**: 6 half-hour episodes produced in 1965 by NET</br>
+**Conversations 1967**: 6 half-hour episodes produced in 1967 by KQED and WGBH</br>
+**Conversations with Arnold Toynbee**: 5 half-hour episodes produced in 1967 by KQED</br>
+**Conversations with Clare Booth Luce**: 4 half-hour episodes produced in 1969 by KAET</br>
+**Conversations with Eric Hoffer**: 12 half-hour episodes produced in 1963-1964 by KQED</br>
+**Court of Reason**: 6 hour-long episodes produced in 1963 by WNDT</br>
+**Cover Story**: 13 half-hour episodes</br>
+**Cowboy's West**: 6 episodes</br>
+**Creative Man**: 6 half-hour episodes produced in 1960 by KQED</br>
+**Creative Person**: 83 half-hour episodes produced in 1965-1968 by NET</br>
+**Creativity**: 3 half-hour episodes produced in 1960 by KQED</br>
+**Criminal Man**: 20 half-hour episodes produced in 1958 by KQED</br>
+**Crisis of Modern Man**: 4 half-hour episodes produced in 1967 by KCET for NET</br>
+**Crossroads of the World**: 7 half-hour episodes produced in 1963 by National Film Board of Canada (Acquisition)</br>
+**Cultures and Continents**: 13 half-hour episodes produced in 1964 by WNDT</br>
+**Dateline USSR**: 2 half-hour episodes produced by Center for Mass Communication, New York</br>
+**David Copperfield**: 13 half-hour episodes produced in 1959 by BBC</br>
+**Decision for Research**: 12 half-hour episodes produced in 1958 by NBC and the Educational Television and Radio Center</br>
+**Decision: The Constitution in Action**: 7 half-hour episodes produced in 1959 by SHARFF</br>
+**Denis W. Brogan on America**: 2 half-hour episodes produced in 1962 by WMSB</br>
+**Design Workshop**: 13 half-hour episodes produced in 1959 by KQED</br>
+**Destruction of the Indian**: 3 half-hour episodes produced in 1963 by Global Television, London</br>
+**Dialogues: Roles of Man**: 10 half-hour episodes produced in 1958 by Columbia University</br>
+**Discovery**: 39 half-hour episodes produced in 1957 by WGBH</br>
+**Discovery at Brookfield Zoo**: 13 half-hour episodes produced by WTTW</br>
+**Doctor Reports**: 12-13 five-minute episodes produced by WRC-TV, Washington DC</br>
+**Doctors in Space**: 13 half-hour episodes produced in 1958 by KUHT</br>
+**Dollar Diplomacy**: 6 half-hour episodes produced in 1965 by WGBH for NET</br>
+**Dollars and Sense**: 4 half-hour episodes produced in 1966 by NET</br>
+**Dr. Posin's Giants**: 27 half-hour episodes produced in 1961 by WTTW</br>
+**Driver Education**: 29-33 half-hour episodes produced in 1959 by WCET</br>
+**Dynamics of Desegregation**: 15 half-hour episodes produced in 1962 by WGBH</br>
+**Dynamics of Leadership**: 5 half-hour episodes produced in 1961 by WGBH</br>
+**Earth and Mankind**: 6 half-hour episodes produced in 1961 by National Film Board of Canada (Acquisition)</br>
+**East-West Philosophers Conference**: 8 half-hour episodes</br>
+**Eastern Wisdom and Modern Life**: 34 half-hour episodes produced in 1959 by KQED</br>
+**Eins Zwei Drei**: 24 half-hour episodes produced in 1955 by WOI-TV</br>
+**Electricity at Work**: 19 fifteen-minute episodes produced by WKAR</br>
+**Elliot Norton Interviews**: 9  produced by WGBH</br>
+**English: Fact and Fancy**: 7  produced by WETA</br>
+**Escape from the Cage**: 11 half-hour episodes produced in 1960 by BBC</br>
+**Essentials of Freedom**: 6 half-hour episodes produced in 1958 by WOSU</br>
+**European Common Market**: 11 episodes</br>
+**Experiment**: 8 half-hour episodes produced in 1966 by Prism Productions</br>
+**Experiment in Progress**: 4 half-hour episodes produced by Science Services, Inc.</br>
+**Exploring Nature**: 30 episodes</br>
+**Exploring the Universe**: 11 half-hour episodes produced in 1963 by Mayer-Sklar Productions</br>
+**Eyes for the Future**: 10 half-hour episodes produced in 1959 by KRMA in cooperation with the Colorado Society for the Preservation of Blindness</br>
+**Face of Sweden**: 8 half-hour episodes produced in 1963 by Swedish Institute for Cultural Relations and the Swedish Broadcasting Corporation for NET</br>
+**Face of the Earth**: 10 half-hour episodes produced in 1959 by KQED</br>
+**Face to Face**: 6 half-hour episodes produced in 1962 by BBC</br>
+**Faces of Asia**: 6-8 hour-long episodes produced by Nord Deutsche Rundfunk</br>
+**Fact and Fancy**: 10-13 episodes</br>
+**Facts of Medicine**: 16 half-hour episodes produced in 1956 by WGBH</br>
+**Family Doctor**: 6 half-hour episodes produced in 1961 by Troy-Beaumont Company of New York</br>
+**Famous Dancers**: 2 ninety-minute episodes produced in 1965 by Bavarian TV</br>
+**Fanfare**: 51 episodes of various lengths produced in 1969-1971 by various producers</br>
+**Far Eastern Art**: 4 half-hour episodes produced in 1964 by WUFT</br>
+**Fignewton's Newspaper**: 24 fifteen-minute episodes produced in 1958 by KETC</br>
+**Flaherty and Film**: 4 half-hour episodes produced in 1961 by WGBH</br>
+**Flaherty Features**: 4 half-hour episodes produced in 1962 by WGBH</br>
+**Focus on Behavior**: 10 half-hour episodes produced in 1963 by Mayer-Skylar for NET</br>
+**Focus on the United Nations**: 7 half-hour episodes produced in 1964 by UN Television</br>
+**Food for Life**: 22 half-hour episodes produced in 1961 by WMSB</br>
+**Forsyte Saga**: 26 hour-long episodes produced in 1969-1970 by BBC</br>
+**Forty-five Years with Fitzpatrick**: 16 half-hour episodes produced in 1960 by KETC</br>
+**Four Score**: 8 half-hour episodes produced in 1961 by WTTW</br>
+**Freedom to Learn**: 6 half-hour episodes produced in 1962 by Various Producers</br>
+**French Chef **: at least 117 half-hour episodes produced by WGBH</br>
+**French through TV**: 48 to 62 half-hour episodes produced in 1957 by WGBH</br>
+**From Capitol Hill: Party Government and the United States Congress **: 8 half-hour episodes produced in 1958 by WYES</br>
+**From Haydn to Hi Fi**: 8 half-hour episodes produced in 1959 by University of Michigan</br>
 **Frontier to Space**: 26 fifteen-minute episodes produced in 1957 by New Mexico College of Agriculture and Mechanic Arts</br>
 **Frontiers of Health**: 30 half-hour episodes produced in 1956 by University of Michigan TV Center</br>
 **Frontiers of the Sea**: 10 fifteen-minute episodes produced in 1956 by University of Miami</br>
