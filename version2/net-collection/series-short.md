@@ -21,7 +21,7 @@
 **All About Animals**: 9 episodes</br>
 **Almanac**: 9 fifteen-minute episodes produced in 1958 by KETC</br>
 **America in the Making**: 26 half-hour episodes produced in 1958 by New York University and WCBS</br>
-**America Looks Abroad **: 24 half-hour episodes produced in 1957 by WTTW</br>
+**America Looks Abroad**: 24 half-hour episodes produced in 1957 by WTTW</br>
 **America's Crises**: 19 hour-long episodes produced in 1964 by WGBH and Various Others</br>
 **America's Town Meeting of the Air**: 2  produced in 1956 and 1959 by Town Hall Inc.</br>
 **America's Waterways**: 2 episodes</br>
