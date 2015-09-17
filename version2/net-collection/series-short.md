@@ -189,10 +189,10 @@
 **Forty-five Years with Fitzpatrick**: 16 half-hour episodes produced in 1960 by KETC</br>
 **Four Score**: 8 half-hour episodes produced in 1961 by WTTW</br>
 **Freedom to Learn**: 6 half-hour episodes produced in 1962 by Various Producers</br>
-**French Chef **: at least 117 half-hour episodes produced by WGBH</br>
+**French Chef**: at least 117 half-hour episodes produced by WGBH</br>
 **French through TV**: 48 to 62 half-hour episodes produced in 1957 by WGBH</br>
 **The Friendly Giant**: 415-455 fifteen-minute episodes</br>
-**From Capitol Hill: Party Government and the United States Congress **: 8 half-hour episodes produced in 1958 by WYES</br>
+**From Capitol Hill: Party Government and the United States Congress**: 8 half-hour episodes produced in 1958 by WYES</br>
 **From Haydn to Hi Fi**: 8 half-hour episodes produced in 1959 by University of Michigan</br>
 **Frontier to Space**: 26 fifteen-minute episodes produced in 1957 by New Mexico College of Agriculture and Mechanic Arts</br>
 **Frontiers of Health**: 30 half-hour episodes produced in 1956 by University of Michigan TV Center</br>
