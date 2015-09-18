@@ -32,7 +32,7 @@
 **Advanced Science: Challenge of the 60s**</br>
 **Adventures in Learning**: 30 minute program, produced in 1967 by Encyclopedia Britannica</br>
 **AEC Report: Man and the Atom**: 1 hour program, produced in 1964 by Harold Meyer Productions, Inc.</br>
-**Africa, My Africa **: 1 hour program, produced in 1964 by Canadian Broadcasting Corporation</br>
+**Africa, My Africa**: 1 hour program, produced in 1964 by Canadian Broadcasting Corporation</br>
 **Africa's Twilight Kingdom**: 30 minute program, produced in 1959</br>
 **African Revolutionary**: 30 minute program, produced in 1966 by BBC</br>
 **Age of Dissent: Young Men with Opinions**: 1 hour program, produced in 1961 by National Film Board of Canada</br>
@@ -46,7 +46,7 @@
 **Alvin Ailey: Memories and Visions**</br>
 **American Ballet Theatre**</br>
 **American Christmas**: 1 hour program</br>
-**American Indian **: 1 hour program</br>
+**American Indian**: 1 hour program</br>
 **American University**</br>
 **American Values**</br>
 **American Voter**</br>
@@ -56,11 +56,11 @@
 **An Essay on Death: A Memorial to John F. Kennedy**: 1 hour program, produced in 1964 by NET</br>
 **Anatomy of Violets**</br>
 **And All That Jazz**: 30 minute program, produced in 1964 by KRMA</br>
-**And No Bells Ring **: 1 hour program, produced by Ford Foundation</br>
+**And No Bells Ring**: 1 hour program, produced by Ford Foundation</br>
 **And There Was Light**: 30 minute program</br>
 **Andersonville Interview**: 30 minute program</br>
 **Angotee: A Day in June**</br>
-**Any Resemblances **: 1 hour program, produced in 1970 by Tom McDonough Films, Inc.</br>
+**Any Resemblances**: 1 hour program, produced in 1970 by Tom McDonough Films, Inc.</br>
 **Appalachian Spring**: 1 hour program, produced in 1960 by WQED</br>
 **Arab Summer**</br>
 **Art in Seattle**: 1 hour program</br>
@@ -74,15 +74,15 @@
 **Atomic Energy**: 30 minute program</br>
 **Atoms for Peace**</br>
 **Atoms for Power**: 30 minute program, produced in 1958 by META</br>
-**Attica: The Official Report of the New York State Special Commission **: 2 hours, plus a 30 minute spinoff program, produced in 1972</br>
+**Attica: The Official Report of the New York State Special Commission**: 2 hours, plus a 30 minute spinoff program, produced in 1972</br>
 **Aviation Weather**</br>
 **Ayub Khan's Pakistan**</br>
 **Bach and His Sons: Overwhelming Legacy**: 1 hour program, produced in 1966 by WNDT</br>
 **Bach Mass in B Minor**: 1 hours program</br>
 **Back Stage**: 30 minute program</br>
-**Background to Berlin **: 30 minute program, produced in 1967 by North Atlantic Treaty Organization</br>
+**Background to Berlin**: 30 minute program, produced in 1967 by North Atlantic Treaty Organization</br>
 **Background to Latin America**: 1 hour program, produced in 1965 by National Film Board of Canada</br>
-**Baghdad by the Bay **: 90 minute program, produced in 1961</br>
+**Baghdad by the Bay**: 90 minute program, produced in 1961</br>
 **Ballet Mit Balanchine**</br>
 **Ballet, Child of Dance**</br>
 **Bandolero**</br>
@@ -92,7 +92,7 @@
 **Battle of Belfast**: 30 minute program, produced in 1969 by National Educational Television</br>
 **Battle Over the Migrant**: 30 minute program, produced in 1965</br>
 **Beethoven Archduke Trio**: 75 minute program</br>
-**Beethoven Personality **: 40 minute program, produced in 1970 by WGBH</br>
+**Beethoven Personality**: 40 minute program, produced in 1970 by WGBH</br>
 **Beethoven's Fifth Symphony**: 1 hour program</br>
 **Beethoven's Seventh Symphony**: 1 hour program</br>
 **Before Saturn**: 15 minute program, produced in 1963 by NASA</br>
@@ -113,9 +113,9 @@
 **Black Radicalism**</br>
 **Bolt Current Resistance**</br>
 **Born Chinese**: 1 hour program, produced in 1965 by British Broadcasting Corporation</br>
-**Boston Pops I **: 135 minute program, produced in 1961 by WGBH</br>
-**Boston Pops II **: 90 minute program, produced in 1967 by WGBH</br>
-**Boston Pops III **: 105 minute program, produced in 1968 by WGBH</br>
+**Boston Pops I**: 135 minute program, produced in 1961 by WGBH</br>
+**Boston Pops II**: 90 minute program, produced in 1967 by WGBH</br>
+**Boston Pops III**: 105 minute program, produced in 1968 by WGBH</br>
 **Boston Symphony Orchestra II**</br>
 **Boulez: A Portrait in Three Movements**: 90 minute program, produced in 1971 by Educational Broadcasting Corporation</br>
 **Bridge on the Jordan**: 1 hour program, produced in 1967 by NET and the UN</br>
@@ -129,13 +129,13 @@
 **But Names Will Never Hurt Me**</br>
 **Cable Revolution: Tomorrow's Pattern of Communication**</br>
 **California Chamber Symphony Orchestra**: 1 hour program, produced in 1965 by KCET</br>
-**Cambodia: Progress Report **: 1 hour program, produced in 1970 by NET</br>
+**Cambodia: Progress Report**: 1 hour program, produced in 1970 by NET</br>
 **Campus Crossroads**: 30 minute program, produced in 1962 by Yale University</br>
-**Canadian-Russian Hockey **: 150 minute program</br>
+**Canadian-Russian Hockey**: 150 minute program</br>
 **Cancer: A Case for Treatment**</br>
 **Carmen**</br>
 **Carmina Burana**: 1 hour program, produced in 1964</br>
-**Case Studies in Practical Politics **: produced in 1958 by WQED</br>
+**Case Studies in Practical Politics**: produced in 1958 by WQED</br>
 **Casino Society**</br>
 **Ceremony of Innocence**: 90 minute program, produced in 1970</br>
 **Challenge of Change: Case for Counseling**: 30 minute program, produced in 1962 by Louis de Rochemont</br>
@@ -151,7 +151,7 @@
 **Children's Puppet Special**</br>
 **China and the US: The Next Decade**: 1 hour program, produced in 1969 by NET</br>
 **China in the 70s**: 1 hour program, produced in 1970 by University of Minnesota in cooperation with KTCA</br>
-**Chinese Art **: 1 hour program</br>
+**Chinese Art**: 1 hour program</br>
 **Chinese in the Far East**</br>
 **Chou En-Lai**: 90 minute program, produced in 1960 by WGBH</br>
 **Christmas in New England**: 30 minute program, produced in 1958 by WGBH</br>
@@ -167,7 +167,7 @@
 **Close Up on Germany**</br>
 **Colette: My Mother's House**: 90 minute program, produced in 1972 by EBC</br>
 **Colloquy**: 30 minute program</br>
-**Color by Design/Color and Brightness **: 15 minute program, produced in 1967 by CBS</br>
+**Color by Design/Color and Brightness**: 15 minute program, produced in 1967 by CBS</br>
 **Color Her Sunshine**</br>
 **Color Us Black**: 1 hour program, produced in 1968 by NET</br>
 **Comden and Green**</br>
@@ -185,7 +185,7 @@
 **Congressional Clinic**: 30 minute program, produced in 1959 by Potomac Films</br>
 **Congressional Clinic II**: 30 minute program</br>
 **Conservative Mr. Buckely**: 1 hour program, produced in 1969 by NET</br>
-**Consumer Information Pilot **: 30 minute program, produced in 1963</br>
+**Consumer Information Pilot**: 30 minute program, produced in 1963</br>
 **Conversation with Dean Rusk**: 1 hour program, produced in 1967 by NET</br>
 **Conversation with Earl Warren**: 1 hour program, produced in 1969 by McClatchy Broadcasting Co.</br>
 **Conversation with George London and Marcia Davenport**: 30 minute program, produced in 1970 by NET</br>
@@ -197,10 +197,10 @@
 **Conversation with Richard Nixon**: 1 hour program, produced in 1967 by NET</br>
 **Conversation with Saul Alinsky**: 1 hour program, produced in 1965 by WTTW</br>
 **Conversation with Sir Laurence Olivier**: 1 hour program, produced in 1967 by WGBH</br>
-**Count Ory **: 100 minute program, produced in 1962 by Radio-Televisione Italiana (RAI)</br>
+**Count Ory**: 100 minute program, produced in 1962 by Radio-Televisione Italiana (RAI)</br>
 **Countdown: NORAD**: 95 minute program, produced in 1962 by WRKB</br>
-**Courts, Warts, and All **: 30 minute program, produced in 1970 by KCET</br>
-**Crime and Punishment **: 2 hours program, produced in 1966 by Rediffusion Television, London</br>
+**Courts, Warts, and All**: 30 minute program, produced in 1970 by KCET</br>
+**Crime and Punishment**: 2 hours program, produced in 1966 by Rediffusion Television, London</br>
 **Crime and the Urban Crisis**: 1 hour program, produced in 1969 by KQED</br>
 **Crisis in the Skies**</br>
 **Crisis of the American Newspaper**: 1 hour program, produced in 1965 by NET</br>
@@ -230,7 +230,7 @@
 **Devil in the Backlands**: 1 hour, originally 90 minute program, produced in 1965 by Adrian Cowell</br>
 **Dialogue on Red China**: 1 hour program, produced in 1964 by NET</br>
 **Dialogue with Malcolm Boyd**: 1 hour program</br>
-**Dialogue: Martin Buber and Israel **</br>
+**Dialogue: Martin Buber and Israel**</br>
 **Dick Gregroy is Alive and Well**: 1 hour program, produced in 1970 by NET</br>
 **Dies Irae**</br>
 **Divided We Stand**: 1 hour program</br>
@@ -242,7 +242,7 @@
 **Don Pasquale**: 1 hour program, produced by KRMA-TV</br>
 **Don't Shoot the Composer**</br>
 **Done**</br>
-**Downeast Smile-In **: 30 minute program, produced in 1970 by Maine ETV Network</br>
+**Downeast Smile-In**: 30 minute program, produced in 1970 by Maine ETV Network</br>
 **Dr. John H. Knowles: A Case of Politics**: 30 minute program, produced in 1969 by NET</br>
 **Dr. Stanton's Speech**: 18 minute program</br>
 **Drugs are Like That**</br>
@@ -255,17 +255,17 @@
 **Eastman Theatre Gala**</br>
 **Ed and Frank**: 34 minute program, produced in 1962 by BBC and NET</br>
 **Educational Television 1959**: 15 minute program, produced in 1959</br>
-**Edward Weeks **: produced in 1960</br>
+**Edward Weeks**: produced in 1960</br>
 **Einstein**: 1 hour program, produced in 1966 by BBC</br>
 **Einstein: Story of the Man**</br>
-**Eisenhower vs. Khrushchev: The Issues **: 30 minute program, produced in 1959</br>
+**Eisenhower vs. Khrushchev: The Issues**: 30 minute program, produced in 1959</br>
 **Eleanor Roosevelt**: 10 minute program, produced in 1960 by USIA</br>
 **Election in Britain**: 30 minute program, produced by Rediffusion Television Ltd. - England</br>
 **Election Specials**: produced in 1970</br>
 **Elections '70. Part 1: Mandate for Tomorrow**</br>
 **Elections '70. Part 2**</br>
 **Elementary Russian**: 30 minute program</br>
-**Elizabeth R **: 90 minute program, produced by BBC</br>
+**Elizabeth R**: 90 minute program, produced by BBC</br>
 **Elizabeth Schwarzkopf**</br>
 **End of a Revolution**: 1 hour program, produced in 1968 by NET</br>
 **Enemies**: 2 hours program</br>
@@ -280,7 +280,7 @@
 **Explorations Decemeber 24, 1954**</br>
 **Face of the World**: 30 minute program, produced in 1962 by Lewis Jacobs Productions</br>
 **Face to Face: Albert Finney**</br>
-**Family Finance **: 30 minute program, produced in 1964 by Visions Associates</br>
+**Family Finance**: 30 minute program, produced in 1964 by Visions Associates</br>
 **Fashion**</br>
 **Father and Son**</br>
 **Faure Requiem**</br>
@@ -291,7 +291,7 @@
 **Fischer-Dieskau Recital**</br>
 **Fisk Jubilee Singers**</br>
 **Five College Presidents: An Exchange of Views**: 1 hour program, produced in 1965 by WNDT</br>
-**Florence: Days of Destruction **: 1 hour program, produced in 1966 by Radiotelevisione Italiana</br>
+**Florence: Days of Destruction**: 1 hour program, produced in 1966 by Radiotelevisione Italiana</br>
 **For Those Who Stay**: 24 minute program, produced in 1964 by Woodrow Wilson School of Public and International Affairs, Princeton University</br>
 **Formosa and Chiang Kai-shek's Dream**: 1 hour program, produced in 1965 by ZDF - Germany</br>
 **Four Billion Puppets - Count 'em!**: 1 hour program, produced in 1970 by NET</br>
@@ -315,7 +315,7 @@
 **Glenn Gould: Off the Record**: 30 minute program, produced in 1962 by National Film Board of Canada</br>
 **Glenn Gould: On the Record**: 30 minute program, produced by National Film Board of Canada</br>
 **God in Japan**</br>
-**Good Housing in Good Neighborhoods **: 30 minute program, produced in 1960 by WQED</br>
+**Good Housing in Good Neighborhoods**: 30 minute program, produced in 1960 by WQED</br>
 **Good Things Happen over Coffee**: 30 minute program</br>
 **Goodbye, City Hall**: 1 hour program, produced in 1969 by NET's special projects unit</br>
 **Governor's Collin's Address: Man's Responsibility to Man**: 15 minute program</br>
@@ -327,7 +327,7 @@
 **Harold Urey: The Man and the Moon**: 1 hour program, produced in 1969 by KEBS, San Diego</br>
 **Haydn Workshop**: 1 hour program</br>
 **Heartmakers: Life Insurance**: 1 hour program, produced in 1969 by NET</br>
-**Her Majesty, Queen Elizabeth Christmas Message to the Commonwealth **: 25 minute program</br>
+**Her Majesty, Queen Elizabeth Christmas Message to the Commonwealth**: 25 minute program</br>
 **Herbert Hoover Obituary**: 10 minute program, produced in 1960</br>
 **Hidden Frontiers**</br>
 **Higher Education in the USSR**: 30 minute program, produced in 1959 by University of Pittsburgh</br>
@@ -359,7 +359,7 @@
 **International Indian Ocean Expedition**: 30 minute program, produced in 1967 by Screen Presentations, Inc.</br>
 **Intolleranza**: 90 minute program, produced in 1966 by WGBH</br>
 **Introducing Roy Buchanan**: 90 minute program, produced in 1971 by NET Division, Educational Broadcasting Corporation</br>
-**Irregular Verb to Love **: 100 minute program, produced in 1965 by Majestic Productions</br>
+**Irregular Verb to Love**: 100 minute program, produced in 1965 by Majestic Productions</br>
 **Island of Fronzen Sea**</br>
 **Isolation: Two Views**: 90 minute program, produced in 1971 by WMPB</br>
 **Israel Philharmonic Orchestra with Leonard Bernstein**</br>
@@ -459,7 +459,7 @@
 **Moor's Payene**</br>
 **Morning Incident**</br>
 **Moscow Story**: 1 hour program, produced in 1963 by Australian TV</br>
-**Mountain **</br>
+**Mountain**</br>
 **Moving On**</br>
 **Mozart Concertos: Lili Kraus**: 90 minute program</br>
 **Mozart's Requiem**: 90 minute program</br>
@@ -480,7 +480,7 @@
 **Navajo: White Arrow**</br>
 **NDEA**: 90 minute program</br>
 **Nepal: Experiment in Education**: 30 minute program</br>
-**NET Opera: Abduction from the Seraglio **: produced in 1970 by NET</br>
+**NET Opera: Abduction from the Seraglio**: produced in 1970 by NET</br>
 **NET: That Other TV**: produced by NET</br>
 **New Conservatism**</br>
 **New Dimensions of Learning in a Free Society**: 30 minute program</br>
@@ -660,13 +660,13 @@
 **The Expanding City**</br>
 **The Exploding Culture**: 30  minute program, produced by WQED</br>
 **The Fall and Rise of the House of Krupp**: 30 minute program, produced in 1965 by Incorporated Television Company Ltd.</br>
-**The Far Right in Southern California **: produced in 1964</br>
+**The Far Right in Southern California**: produced in 1964</br>
 **The Federal Government and NET**</br>
 **The Fifty First State: Harlem Schools**</br>
 **The Films of George Melies**: 1 hour program, produced in 1964 by KQED</br>
 **The First Priority**: 30 minute program, produced in 1961 by UN-TV</br>
 **The Forgotten War**: 1 hour program</br>
-**The Fourth R **: 30 minute program, produced in 1962 by WSBT-TV, South Bend, IN</br>
+**The Fourth R**: 30 minute program, produced in 1962 by WSBT-TV, South Bend, IN</br>
 **The Future of the Liberal Arts College**: 1 hour program, produced in 1967 by NET</br>
 **The Golden Gate**: 10 minute program</br>
 **The Golden Ring**: 90 minute program, produced in 1967 by BBC and Austrian Television Service</br>
@@ -769,7 +769,7 @@
 **Two Orchestras**: 50 minute program, produced in 1965 by NET</br>
 **Two Roads to the Center**: 1 hour program</br>
 **Two Trumpets for St. Andrew**: 1 hour program, produced in 1969 by Australian TV</br>
-**U.N. Special: The Congo Crisis **</br>
+**U.N. Special: The Congo Crisis**</br>
 **Un Ballo in Maschera**: 90 minute program</br>
 **UN Hearing on Skyjacking**: 1 hour program</br>
 **Unfolding Vision**</br>
@@ -821,7 +821,7 @@
 **William Blake: As a Man is**</br>
 **Win, Place and Show**</br>
 **Winston Churchill Obituary**: 30 minute program</br>
-**WNET Opera Theater: The Death Goddess **</br>
+**WNET Opera Theater: The Death Goddess**</br>
 **Years Without Harvest**: 30 minute program, produced in 1963 by WNDT</br>
 **You Can't Back Down**: 30 minute program, produced in 1968 by NFB</br>
 **Young Audience: NY Woodwind Quartet**: 1 hour program</br>
