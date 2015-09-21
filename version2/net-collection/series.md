@@ -1,9 +1,9 @@
 #The NET Collection
 
 ## Series
-**Aaron Copland: Music in the Twenties**: 12 half-hour episodes produced in 1965 by WGBH for NET</br>
+**Aaron Copland: Music in the Twenties**: 12 half-hour episodes produced in 1965 by WGBH</br>
 **About Ceramics**: 6 half-hour episodes produced in 1962 by WGTV</br>
-**About People**: 10 half-hour episodes produced in 1963 by WTTW for NET</br>
+**About People**: 10 half-hour episodes produced in 1963 by WTTW</br>
 **Action at Law**: 5 half-hour episodes produced in 1958 by KETC</br>
 **Adventures in Moving**: 12 episodes</br>
 **Adventures in Numbers and Space**: 7 episodes</br>
@@ -14,8 +14,8 @@
 **Adventuring in the Hand Arts**: 10 half-hour episodes produced in 1958 by NBC-ETRC and Girl Scouts</br>
 **African Writers of Today**: 6 half-hour episodes produced in 1964 by NET in collaboration with the Transcription Center, London</br>
 **After Hours**: 29 hour-long episodes</br>
-**An Age of Kings**: 15 75-to-90-minute episodes produced in 1961 by BBC</br>
-**Age of Overkill**: 13 half-hour episodes produced in 1961 by WGBH for NET</br>
+**An Age of Kings**: 15 75-ninety-minute episodes produced in 1961 by BBC</br>
+**Age of Overkill**: 13 half-hour episodes produced in 1961 by WGBH</br>
 **Alaska: The New Frontier**: 6 half-hour episodes produced in 1961 by KCTA-TV</br>
 **Alexander Schreiner at the Tabernacle Organ**: 3 half-hour episodes produced in 1960 by KUED</br>
 **All About Animals**: 9 episodes</br>
@@ -101,7 +101,7 @@
 **Choice: Challenge for the Modern Woman**: 12 half-hour episodes produced in 1966 by KCET</br>
 **Circus**: 10 half-hour episodes produced in 1964 by NET</br>
 **Cities of the World**: 6 hour-long episodes produced in 1968 by Various Producers</br>
-**City Makers**: 8 half-hour episodes produced in 1969 by WGBH for NET</br>
+**City Makers**: 8 half-hour episodes produced in 1969 by WGBH</br>
 **Civilization**: 13 hour-long episodes produced in 1970 by BBC</br>
 **The Classical Tradition**: 3 hour-long episodes produced in 1958 by Indiana University, Radio and TV Service</br>
 **College Bound**: 5 half-hour episodes produced in 1966 by WGBH</br>
@@ -125,7 +125,7 @@
 **Creative Person**: 83 half-hour episodes produced in 1965-1968 by NET</br>
 **Creativity**: 3 half-hour episodes produced in 1960 by KQED</br>
 **Criminal Man**: 20 half-hour episodes produced in 1958 by KQED</br>
-**Crisis of Modern Man**: 4 half-hour episodes produced in 1967 by KCET for NET</br>
+**Crisis of Modern Man**: 4 half-hour episodes produced in 1967 by KCET</br>
 **Crossroads of the World**: 7 half-hour episodes produced in 1963 by National Film Board of Canada (Acquisition)</br>
 **Cultures and Continents**: 13 half-hour episodes produced in 1964 by WNDT</br>
 **Dateline USSR**: 2 half-hour episodes produced by Center for Mass Communication, New York</br>
@@ -141,7 +141,7 @@
 **The Dissenters**: 6 half-hour episodes produced in 1967 by WGBH</br>
 **Doctor Reports**: 12-13 five-minute episodes produced by WRC-TV, Washington DC</br>
 **Doctors in Space**: 13 half-hour episodes produced in 1958 by KUHT</br>
-**Dollar Diplomacy**: 6 half-hour episodes produced in 1965 by WGBH for NET</br>
+**Dollar Diplomacy**: 6 half-hour episodes produced in 1965 by WGBH</br>
 **Dollars and Sense**: 4 half-hour episodes produced in 1966 by NET</br>
 **Dr. Posin's Giants**: 27 half-hour episodes produced in 1961 by WTTW</br>
 **Driver Education**: 29-33 half-hour episodes produced in 1959 by WCET</br>
@@ -164,7 +164,7 @@
 **Exploring Nature**: 30 episodes</br>
 **Exploring the Universe**: 11 half-hour episodes produced in 1963 by Mayer-Sklar Productions</br>
 **Eyes for the Future**: 10 half-hour episodes produced in 1959 by KRMA in cooperation with the Colorado Society for the Preservation of Blindness</br>
-**Face of Sweden**: 8 half-hour episodes produced in 1963 by Swedish Institute for Cultural Relations and the Swedish Broadcasting Corporation for NET</br>
+**Face of Sweden**: 8 half-hour episodes produced in 1963 by Swedish Institute for Cultural Relations and the Swedish Broadcasting Corporation</br>
 **Face of the Earth**: 10 half-hour episodes produced in 1959 by KQED</br>
 **Face to Face**: 6 half-hour episodes produced in 1962 by BBC</br>
 **Faces of Asia**: 6-8 hour-long episodes produced by Nord Deutsche Rundfunk</br>
@@ -182,7 +182,7 @@
 **The Fine Arts Quartet Plays Beethoven**: 6 hour-long episodes produced in 1959 by WTTW</br>
 **Flaherty and Film**: 4 half-hour episodes produced in 1961 by WGBH</br>
 **Flaherty Features**: 4 half-hour episodes produced in 1962 by WGBH</br>
-**Focus on Behavior**: 10 half-hour episodes produced in 1963 by Mayer-Skylar for NET</br>
+**Focus on Behavior**: 10 half-hour episodes produced in 1963 by Mayer-Skylar</br>
 **Focus on the United Nations**: 7 half-hour episodes produced in 1964 by UN Television</br>
 **Food for Life**: 22 half-hour episodes produced in 1961 by WMSB</br>
 **Forsyte Saga**: 26 hour-long episodes produced in 1969-1970 by BBC</br>
@@ -269,7 +269,7 @@
 **Language in Action**: 13 half-hour episodes produced by KQED</br>
 **Last Continent: Antartica**: 12 half-hour episodes produced in 1959 by KCTA</br>
 **The Latin Americas**: 15 half-hour episodes produced in 1958 by KETC</br>
-**Layman and the Arts**: at least 1 half-hour episodes</br>
+**Layman and the Arts**: at least 1 half-hour episode</br>
 **Layman's Guide to Modern Art**: 4 half-hour episodes produced in 1961 by WGBH</br>
 **Legacy**: 10 episodes</br>
 **Live and Learn: Focus on Physics**: 12 half-hour episodes produced in 1959 by CBC</br>
