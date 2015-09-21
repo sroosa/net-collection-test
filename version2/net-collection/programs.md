@@ -460,7 +460,7 @@
 **Magic Lantern Christmas**: 30 minute program, produced in 1961 by KRMA</br>
 **Main Street: Lansing**</br>
 **Majesty in Mantua**</br>
-**A Man Alone: Charles deGaulle**: 1 hour program, produced in 1965 by CBC</br>
+**A Man Alone: Charles de Gaulle**: 1 hour program, produced in 1965 by CBC</br>
 **Man at the Met**</br>
 **The Man From Independence: Harry S. Truman Obituary**</br>
 **Man Meets Duck**</br>
