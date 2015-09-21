@@ -14,7 +14,7 @@
 **Adventuring in the Hand Arts**: 10 half-hour episodes produced in 1958 by NBC-ETRC and Girl Scouts</br>
 **African Writers of Today**: 6 half-hour episodes produced in 1964 by NET in collaboration with the Transcription Center, London</br>
 **After Hours**: 29 hour-long episodes</br>
-**An Age of Kings**: 15 75-ninety-minute episodes produced in 1961 by BBC</br>
+**An Age of Kings**: 15 75-to-90-minute episodes produced in 1961 by BBC</br>
 **Age of Overkill**: 13 half-hour episodes produced in 1961 by WGBH</br>
 **Alaska: The New Frontier**: 6 half-hour episodes produced in 1961 by KCTA-TV</br>
 **Alexander Schreiner at the Tabernacle Organ**: 3 half-hour episodes produced in 1960 by KUED</br>
