@@ -14,7 +14,7 @@
 **Adventuring in the Hand Arts**: 10 half-hour episodes produced in 1958 by NBC-ETRC and Girl Scouts</br>
 **African Writers of Today**: 6 half-hour episodes produced in 1964 by NET in collaboration with the Transcription Center, London</br>
 **After Hours**: 29 hour-long episodes</br>
-**An Age of Kings**: 15 75-to-90-minute episodes produced in 1961 by BBC</br>
+**An Age of Kings**: 15 75-ninety-minute episodes produced in 1961 by BBC</br>
 **Age of Overkill**: 13 half-hour episodes produced in 1961 by WGBH</br>
 **Alaska: The New Frontier**: 6 half-hour episodes produced in 1961 by KCTA-TV</br>
 **Alexander Schreiner at the Tabernacle Organ**: 3 half-hour episodes produced in 1960 by KUED</br>
@@ -23,11 +23,11 @@
 **America in the Making**: 26 half-hour episodes produced in 1958 by New York University and WCBS</br>
 **America Looks Abroad**: 24 half-hour episodes produced in 1957 by WTTW</br>
 **America's Crises**: 19 hour-long episodes produced in 1964 by WGBH and Various Others</br>
-**America's Town Meeting of the Air**: 2  produced in 1956 and 1959 by Town Hall Inc.</br>
+**America's Town Meeting of the Air**: 2 episodes produced in 1956 and 1959 by Town Hall Inc.</br>
 **America's Waterways**: 2 episodes</br>
 **American Album**: 15 half-hour episodes produced in 1956 by Ford Foundation's TV-Radio Workshop</br>
 **American Art Today**: 13 half-hour episodes produced in 1956 by Hofstra College in coopertation with WOR-TV</br>
-**American Assembly for Advancement of Science 1970**: 4  produced in 1970 by </br>
+**American Assembly for Advancement of Science 1970**: 4 episodes produced in 1970 by </br>
 **American Business System**: 10 half-hour episodes produced in 1963 by Arthur Lodge Productions, Inc.</br>
 **The American Economy**: 29 hour-long episodes produced in 1962 by Learning Resource Institute</br>
 **American Government: The Pursuit of Happiness**: 8 episodes</br>
@@ -110,7 +110,7 @@
 **Community of the Condemned**: 26 half-hour episodes produced in 1958 by WTTW</br>
 **Compass Rose**: 26 fifteen-minute episodes produced in 1958 by KING</br>
 **The Computer and the Mind of Man**: 6 half-hour episodes produced in 1962 by KQED</br>
-**Conservative Viewpoint**: 4  produced in 1970 by WTTW</br>
+**Conservative Viewpoint**: 4 episodes produced in 1970 by WTTW</br>
 **Constitution and Human Rights**: 16 episodes produced in 1958 by WGBH</br>
 **Conversation with James Day**: 4 half-hour episodes produced in 1970 by KQED</br>
 **Conversations 1965**: 6 half-hour episodes produced in 1965 by NET</br>
@@ -153,8 +153,8 @@
 **Eins Zwei Drei**: 24 half-hour episodes produced in 1955 by WOI-TV</br>
 **Electricity at Work**: 19 fifteen-minute episodes produced by WKAR</br>
 **The Elements**: 10 half-hour episodes produced in 1956 by KQED</br>
-**Elliot Norton Interviews**: 9  produced by WGBH</br>
-**English: Fact and Fancy**: 7  produced by WETA</br>
+**Elliot Norton Interviews**: 9 episodes produced by WGBH</br>
+**English: Fact and Fancy**: 7 episodes produced by WETA</br>
 **Escape from the Cage**: 11 half-hour episodes produced in 1960 by BBC</br>
 **Essentials of Freedom**: 6 half-hour episodes produced in 1958 by WOSU</br>
 **European Common Market**: 11 episodes</br>
@@ -236,7 +236,7 @@
 **Horizons of Science**: 10 half-hour episodes produced in 1962 by </br>
 **The House We Live in**: 22 half-hour episodes produced in 1962-1963 by WCAU</br>
 **How Do your Children Grow**: 69 half-hour episodes produced in 1970-1973 by WNET</br>
-**Humanties**: 13  produced in 1963 by WTTW</br>
+**Humanties**: 13 episodes produced in 1963 by WTTW</br>
 **Images of Art**: 26 fifteen-minute episodes produced in 1957 by Radiodiffusion Television Francaise, Paris</br>
 **In My Opinion**: 18 half-hour episodes produced in 1966-1967 by NET</br>
 **In Today's World**: 3 episodes</br>
@@ -254,7 +254,7 @@
 **Invitation to the Dance**: 3 episodes</br>
 **Israel, Land of Miracles**: 5 half-hour episodes produced in 1963 by Swedish Broadcasting Corporation</br>
 **Japan: Changing Years**: 10 half-hour episodes produced in 1961 by Michigan TV</br>
-**Japanese Brush Painting**: 13  produced by KQED</br>
+**Japanese Brush Painting**: 13 episodes produced by KQED</br>
 **Jazz Alley**: 6 half-hour episodes produced in 1969 by WTTW</br>
 **Jazz Casual**: 26 half-hour episodes produced in 1963 by KQED</br>
 **Jazz Meets the Classics**: 17 half-hour episodes produced in 1958 by WGBH</br>
@@ -265,7 +265,7 @@
 **Know How**: 9 episodes</br>
 **Land of their Own**: 3 half-hour episodes produced by KUON</br>
 **Land to be Free**: 8 half-hour episodes produced in 1958 by Michigan TV</br>
-**Language and Linguistics**: 13  produced by University of Buffalo</br>
+**Language and Linguistics**: 13 episodes produced by University of Buffalo</br>
 **Language in Action**: 13 half-hour episodes produced by KQED</br>
 **Last Continent: Antartica**: 12 half-hour episodes produced in 1959 by KCTA</br>
 **The Latin Americas**: 15 half-hour episodes produced in 1958 by KETC</br>
@@ -278,7 +278,7 @@
 **The Long Voyage**: 24 fifteen-minute episodes produced by WOI-TV</br>
 **Looking at Modern Art**: 12 half-hour episodes produced in 1958 by WQED</br>
 **Lorentz on Film**: 4 ninety-minute episodes produced by WGBH</br>
-**Lotte Lehmann Master Class**: 7  produced by KQED</br>
+**Lotte Lehmann Master Class**: 7 episodes produced by KQED</br>
 **Lyrics and Legends**: 15 half-hour episodes produced in 1963 by WHYY</br>
 **Magic Doorways**: 65 fifteen-minute episodes produced in 1958 by KUOM</br>
 **Magic Window**: 26 half-hour episodes</br>
@@ -300,13 +300,13 @@
 **Menuhin Teaches**: 6 half-hour episodes produced in 1967 by BBC</br>
 **Merck, Sharpe, Dohme Films**: 5 half-hour episodes produced in 1962 by Merck, Sharpe and Dohme</br>
 **Metroplex**: 6 half-hour episodes produced in 1961 by WQED</br>
-**Metropolis**: 8  produced by Stoney Assoc.</br>
+**Metropolis**: 8 episodes produced by Stoney Assoc.</br>
 **Mexicana**: 12 episodes</br>
-**Mighty and Mystical**: 4  produced in 1963 by Granada</br>
+**Mighty and Mystical**: 4 episodes produced in 1963 by Granada</br>
 **Miklos Schwalb Plays Brahms**: 4 half-hour episodes</br>
-**Minds Behind the War**: 3  produced in 1966 by TWW</br>
+**Minds Behind the War**: 3 episodes produced in 1966 by TWW</br>
 **Mission Possible**: 3 hour-long episodes</br>
-**Modern Chemistry**: 4  produced in 1964 by </br>
+**Modern Chemistry**: 4 episodes produced in 1964 by </br>
 **The Modern USA**: 36 half-hour episodes</br>
 **Monterey Jazz**: 4 hour-long episodes</br>
 **The Months Before Birth**: 8 half-hour episodes produced in 1958 by WQED</br>
@@ -317,9 +317,9 @@
 **Music for Young People**: 13 half-hour episodes produced by Art and Audiences</br>
 **Music in Close Up**: 5 hour-long episodes</br>
 **Music in Focus**: 10 half-hour episodes</br>
-**Music of America**: 2  produced by Craven</br>
-**Music on Telelvision**: 5-6  produced in 1970 by NET</br>
-**Music Strip**: 18  produced in 1962-1968 by Various Producers</br>
+**Music of America**: 2 episodes produced by Craven</br>
+**Music on Television**: 5-6 episodes produced in 1970 by NET</br>
+**Music Strip**: 18 episodes produced in 1962-1968 by Various Producers</br>
 **Musical Forms**: 6 half-hour episodes produced in 1958 by USC</br>
 **Musically Speaking**: 2 half-hour episodes produced in 1958 by </br>
 **National Agricultural Policy**: 8 half-hour episodes produced by NET</br>
@@ -328,11 +328,11 @@
 **Nature of Life**: 12 half-hour episodes produced in 1958 by KUHT</br>
 **NBC Briefing Session**: 13 half-hour episodes produced by NBC</br>
 **NET Apollo**: at least 1 episodes</br>
-**NET Drama Festival**: at least 25  produced in 1961-1964 by Various Producers</br>
-**NET Festival**: at least 69  produced in 1964-1970 by Various Producers</br>
+**NET Drama Festival**: at least 25 episodes produced in 1961-1964 by Various Producers</br>
+**NET Festival**: at least 69 episodes produced in 1964-1970 by Various Producers</br>
 **NET Jazz**: 7 episodes</br>
-**NET Journal**: at least 88  produced in 1966-1970 by Various Producers</br>
-**NET Playhouse**: at least 124  produced in 1966-1971 by Various Producers</br>
+**NET Journal**: at least 88 episodes produced in 1966-1970 by Various Producers</br>
+**NET Playhouse**: at least 124 episodes produced in 1966-1971 by Various Producers</br>
 **NET Playhouse Biography**: 21 episodes</br>
 **NET Symphony**: 28 episodes</br>
 **The New Biology**: 4 episodes</br>
@@ -349,7 +349,7 @@
 **Odyssey**: 25 episodes</br>
 **Of Men and Ideas**: 18 half-hour episodes produced in 1958 by WOI-TV</br>
 **Of People and Politics**: 21 half-hour episodes produced in 1964 by NET</br>
-**Of Poets and Poetry**: 8  produced by META</br>
+**Of Poets and Poetry**: 8 episodes produced by META</br>
 **Of Science and Scientists**: 23 half-hour episodes produced in 1960 by WGBH</br>
 **Olympiad**: 4 hour-long episodes produced in 1968 by NET</br>
 **The Olympians**: 4 episodes</br>
@@ -366,7 +366,7 @@
 **Our Nation's Roots**: 26 half-hour episodes produced in 1957 by WCBS</br>
 **Our Neighbor the Moon**: 5 half-hour episodes produced in 1961 by KRMA</br>
 **Our Vanishing Wilderness**: 8 half-hour episodes</br>
-**Pacem in Terris**: 25  produced in 1965 by NET</br>
+**Pacem in Terris**: 25 episodes produced in 1965 by NET</br>
 **Pacemakers**: 4 episodes</br>
 **The Painting**: 7 half-hour episodes produced in 1958 by KETC</br>
 **Parents and Doctor Spock**: 13 half-hour episodes produced in 1958 by WQED</br>
@@ -382,8 +382,8 @@
 **People, Places and Politics**: 13 half-hour episodes</br>
 **Perspectives**: at least 23 hour-long episodes produced by Various Producers</br>
 **Philosophies of Education**: 13 half-hour episodes produced in 1961 by KTCA</br>
-**Photography: The Incisive Art**: 5  produced by KQED</br>
-**Planet Earth**: 13  produced by National Academy of Science</br>
+**Photography: The Incisive Art**: 5 episodes produced by KQED</br>
+**Planet Earth**: 13 episodes produced by National Academy of Science</br>
 **Platform**: 12-13 half-hour episodes produced in 1959 by </br>
 **Playhouse New York**: at least 2 episodes</br>
 **Plays and Players**: 8 half-hour episodes produced in 1957 by WQED</br>
@@ -400,7 +400,7 @@
 **The President's Men**: 9 half-hour episodes produced in 1965 by NET</br>
 **The President's Men 1969**: 9 half-hour episodes produced in 1969 by NET</br>
 **Preview 89th Congress**: 4 episodes</br>
-**Promise of Life Sciences**: 5  produced in 1960 by NSF</br>
+**Promise of Life Sciences**: 5 episodes produced in 1960 by NSF</br>
 **Prospects of Literature**: 8 half-hour episodes produced in 1958 by KETC</br>
 **Prospects of Mankind with Eleanor Roosevelt**: 29 hour-long episodes produced in 1959-1960 by WGBH</br>
 **Psychology One**: 38 half-hour episodes produced in 1958 by WGBH</br>
@@ -411,17 +411,17 @@
 **Ragtime Era**: 12 half-hour episodes produced in 1960 by KRMA</br>
 **Reading Out Loud**: 12 half-hour episodes</br>
 **Real Revolution**: 8 episodes</br>
-**Realities**: 40  produced in 1970 by Various Producers</br>
+**Realities**: 40 episodes produced in 1970 by Various Producers</br>
 **Red Myth**: 13 half-hour episodes produced in 1961 by KQED</br>
 **Redman's America**: 30 half-hour episodes</br>
-**Regional Reports**: 19 hour-long episodes</br>
+**Regional Report**: 19 hour-long episodes</br>
 **Religion and the Arts**: 4 half-hour episodes produced in 1964 by WUFT</br>
-**Religions of Man**: 17  produced by KETC</br>
+**Religions of Man**: 17 episodes produced by KETC</br>
 **Report from America**: 13 half-hour episodes</br>
 **Resources and National Security**: 14 half-hour episodes produced in 1960 by WQED</br>
-**The Restless Earth**: 4  produced in 1973 by NET Division of Educational Broadcasting Corporation</br>
+**The Restless Earth**: 4 episodes produced in 1973 by NET Division of Educational Broadcasting Corporation</br>
 **Ride the Wild Horse**: 3 half-hour episodes produced in 1965 by NET</br>
-**Robert Kennedy Memorial**: 3  produced in 1968 by NET</br>
+**Robert Kennedy Memorial**: 3 episodes produced in 1968 by NET</br>
 **Saki**: 8 hour-long episodes produced in 1963 by Granada</br>
 **Science and Human Responsibility**: 23 half-hour episodes produced in 1958 by KETC</br>
 **Science in Sight**: 14 fifteen-minute episodes produced in 1958 by KETC</br>
@@ -440,10 +440,10 @@
 **The Sense of Poetry**: 8 half-hour episodes produced by WGBH</br>
 **Shakespeare on TV**: at least 5 episodes</br>
 **She Stoops to Conquer**: 4 episodes</br>
-**Shelter for Man**: 6  produced by WQED</br>
+**Shelter for Man**: 6 episodes produced by WQED</br>
 **Short Stories of Guy de Maupassant**: 13-21 episodes</br>
 **Sing Hi, Sing Lo**: 104 fifteen-minute episodes produced in 1957-1958 by KQED</br>
-**Sir Kenneth Clark on Art**: 10  produced by Assoc. TV Ltd</br>
+**Sir Kenneth Clark on Art**: 10 episodes produced by Assoc. TV Ltd</br>
 **Small Town**: 6 episodes</br>
 **Smart Sewing**: 20-30 half-hour episodes</br>
 **Smoking Show**: 5 episodes</br>
@@ -457,7 +457,7 @@
 **Story of Money**: 12 half-hour episodes produced in 1961 by WHYY</br>
 **The Subject is Jazz**: 13 half-hour episodes</br>
 **Survival**: 8 half-hour episodes</br>
-**Survival in the Sea**: 12  produced by WTHS</br>
+**Survival in the Sea**: 12 episodes produced by WTHS</br>
 **Tactic**: 6 half-hour episodes produced in 1959 by NBC</br>
 **Tales of Poindexter**: 52 fifteen-minute episodes produced in 1959 by WKNO</br>
 **Talking to a Stranger**: 4 ninety-minute episodes produced in 1970 by BBC</br>
@@ -515,12 +515,12 @@
 **Window Watchers**: 26 episodes</br>
 **With a View to Music**: 11 half-hour episodes produced in 1958 by KETC</br>
 **The World of Art**: 13 half-hour episodes produced in 1957 by WQED</br>
-**The World of Music**: 22  produced in 1965 by WNDT</br>
+**The World of Music**: 22 episodes produced in 1965 by WNDT</br>
 **World of Physics**: 12 forty-five-minute episodes</br>
 **The World of the American Craftsman**: 5 episodes</br>
 **The World We Live in**: 38 half-hour episodes</br>
 **The World We Want**: 36 half-hour episodes produced in 1958 by WOR-TV</br>
-**Wrath of Achilles**: 8  produced by WGBH</br>
+**Wrath of Achilles**: 8 episodes produced by WGBH</br>
 **Writers of Today**: 16 half-hour episodes produced in 1962 by </br>
 **The Written Word**: 15 half-hour episodes produced in 1962 by USC</br>
 **Yesterday's World**: 26 half-hour episodes</br>
