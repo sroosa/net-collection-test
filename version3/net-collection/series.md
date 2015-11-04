@@ -1,7 +1,7 @@
 #The NET Collection
 
 ## Series
-**Aaron Copland: Music in the Twenties**: 12 half-hour episodes produced in 1965 by WGBH</br>
+**Aaron Copland: Music in the Twenties**: [12 half-hour episodes](episodes/aaron-copland-music-in-the-twenties.md) produced in 1965 by WGBH</br>
 **About Ceramics**: 6 half-hour episodes produced in 1962 by WGTV</br>
 **About People**: [10 half-hour episodes](episodes/about-people.md) produced in 1963 by WTTW</br>
 **Action at Law**: 5 half-hour episodes produced in 1958 by KETC</br>
