@@ -3,7 +3,7 @@
 ## Series
 **Aaron Copland: Music in the Twenties**: 12 half-hour episodes produced in 1965 by WGBH</br>
 **About Ceramics**: 6 half-hour episodes produced in 1962 by WGTV</br>
-**About People**: 10 half-hour episodes produced in 1963 by WTTW</br>
+**About People**: [10 half-hour episodes](/about-people.md) produced in 1963 by WTTW</br>
 **Action at Law**: 5 half-hour episodes produced in 1958 by KETC</br>
 **Adventures in Moving**: 12 episodes</br>
 **Adventures in Numbers and Space**: 7 episodes</br>
