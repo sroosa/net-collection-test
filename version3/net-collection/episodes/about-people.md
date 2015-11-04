@@ -2,7 +2,7 @@
 
 ## About People
 
-About People: 10 half-hour episodes produced in 1963 by WTTW.
+About People consists of 10 half-hour episodes produced in 1963 by WTTW.
 
 ## Episodes
 1. What is Normal
