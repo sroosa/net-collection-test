@@ -1,7 +1,6 @@
 #The NET Collection
 
 ## Series
-**The Magic of the Atom**: 26 fifteen-minute episodes produced in 1957 by the Handel Film Corporation of Hollywood, originally shot on film in black and white.</br>
 **Aaron Copland: Music in the Twenties**: 12 half-hour episodes produced in 1965 by WGBH</br>
 **About Ceramics**: 6 half-hour episodes produced in 1962 by WGTV</br>
 **About People**: 10 half-hour episodes produced in 1963 by WTTW</br>
