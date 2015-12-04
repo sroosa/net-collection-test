@@ -1,8 +1,8 @@
 #The NET Collection
 
 ## Series
-**A Generation of Leaves**: 8 episodes</br>
-**A Land to be Free**: 8 half-hour episodes produced in 1956 by University of Michigan, originally shot on kinescope.</br>
+**A Generation of Leaves**: This series consists of 8 episodes: American Incorporated; Yesterday the Children were Dancing; Stopped Running; Walls; Jesus: A Passion Play for Americans; Infancy and Childhood; The Bond; They.</br>
+**A Land to be Free**:produced in 1956 by University of Michigan, originally shot on kinescope. This series consists of 8 half-hour episodes: Wind West of Palos; For God and France; Pipe and Feather; American Revolution; A Company of Players. Part 1; A Company of Players. Part 2; A Song for These States; New Laws for Old Crimes.</br>
 **A Number of Things**: 52-58 episodes</br>
 **A Time to Dance**: 9 half-hour episodes produced in 1960 by by WGBH.</br>
 **Aaron Copland: Music in the Twenties**: 12 half-hour episodes produced in 1965 by WGBH, originally shot on videotape in black and white.</br>
