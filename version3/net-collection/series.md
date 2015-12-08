@@ -72,7 +72,7 @@
 **Biblical Masterpieces**: 13 half-hour episodes produced in 1961 by KUNC, originally shot on kinescope.</br>
 **Biology**: 20 episodes</br>
 **Black Journal**: more than 70 hour-long episodes produced in 1968-1977 by WNET, originally shot on Some on film in color.</br>
-**Books and Ideas**: 20 half-hour episodes produced in 1956 by Syracuse University, originally shot on kinescope in black and white.</br>
+**Books and Ideas**: produced in 1956 by Syracuse University, originally shot on kinescope in black and white. This series consists of 20 half-hour episodes: *The Big Woods by William Faulkner*; *The Witness by Whittaker Chambers*; *Huckleberry Finn by Mark Twain*; *The Age of Reform by Richard Hofstadter*; *The Book of Ecclesiastes*; *The Ox-bow Incident by Walter van Tilburg Clark*; *The Study of History by Arnold Toynbee*; *Old Man and the Sea by Ernest Hemingway*; *The Tress by Conrad Richter*; *The Nine Tailors by Dorothy Sayers*; *World Enough and Time by Robert Penn Warren*; *Conservatism in America by Clinton Rossiter*; *Bryond the High Himalayas by Williams O. Douglas*; *The Red and the Black by Stendhal*; *Benjamin Franklin by Carl van Doren*; *Great River by Paul Horgan*; *Art and Life in America by Oliver Larkin*; *Poems by Emily Dickinson*; *The Plague by Albert Camus*; *The Life of James Madison by Irving Brant*</br>
 **Boston Symphony**: 6 episodes produced in 1958 by WGBH.</br>
 **Buckskin Bob**: 39 half-hour episodes produced in 1956 by KQED, originally shot on kinescope.</br>
 **Buddhism**: 3 episodes</br>
