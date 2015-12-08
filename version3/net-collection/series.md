@@ -68,7 +68,7 @@
 **Before there was a USA**: 12 half-hour episodes produced in 1955 by KETC, originally shot on kinescope.</br>
 **Beginnings**: 13 half-hour episodes produced in 1960 by WTTW, originally shot on videotape in black and white.</br>
 **Behind the Lines**: more the 73 half-hour episodes, originally shot in color.</br>
-**Beyond the Earth**: 25 half-hour episodes produced in 1963 by University of Southern California in corportation with KNXT, originally shot on videotape.</br>
+**Beyond the Earth**: Produced in 1963 by University of Southern California in corportation with KNXT, originally shot on videotape. This series consists of 25 half-hour episodes: *Introduction*; *The Solar System*; *Planetary Motion Through Kepler*; *Applications of Gravitational Theory*; *Planetary Motion Through Newton*; *The Earth's Rvolution and Its Consequences*; *Reflecting and Radio Telescopes*; *Spectroscopes and Spectrum Analysis*; *Radial Velocity*; *The Moon and Its Phases*; *The Moon's Rotation and Surface Features*; *Lunar Eclipses*; *The Inner Planets*; *Mars*; *The Jovian Planets and Pluto*; *Comets and Meteors*; *The Sun and Its Energy*; *The Solar Surface*; *Stellar Brightness and Distance*; *How Stars Compare*; *Variable Stars*; *The Structure of the Galaxy*; *The Motion of the Stars*; *Beyond the Galaxy*; *Life in the Universe*</br>
 **Biblical Masterpieces**: 13 half-hour episodes produced in 1961 by KUNC, originally shot on kinescope.</br>
 **Biology**: 20 episodes</br>
 **Black Journal**: more than 70 hour-long episodes produced in 1968-1977 by WNET, originally shot on Some on film in color.</br>
