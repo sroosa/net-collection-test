@@ -1,552 +1,79 @@
 #The NET Collection
 
 ## Series
-**A Generation of Leaves**: This series consists of 8 episodes: *American Incorporated*; *Yesterday the Children were Dancing*; *Stopped Running*; *Walls*; *Jesus: A Passion Play for Americans*; *Infancy and Childhood*; *The Bond*; *They*.</br>
-**A Land to be Free**: Produced in 1956 by University of Michigan, originally shot on kinescope. This series consists of 8 half-hour episodes: Wind West of Palos; For God and France; Pipe and Feather; American Revolution; A Company of Players. Part 1; A Company of Players. Part 2; A Song for These States; New Laws for Old Crimes.</br>
-**A Number of Things**: 52-58 episodes</br>
-**A Time to Dance**: 9 half-hour episodes produced in 1960 by WGBH.</br>
-**Aaron Copland: Music in the Twenties**: 12 half-hour episodes produced in 1965 by WGBH, originally shot on videotape in black and white.</br>
-**About Ceramics**: 6 half-hour episodes produced in 1962 by WGTV, originally shot on videotape in color.</br>
-**About People**: 10 half-hour episodes produced in 1963 by WTTW, originally shot on videotape in color.</br>
-**Action at Law**: 5 half-hour episodes produced in 1958 by KETC, originally shot on kinescope in color.</br>
-**Adventures in Moving**: 12 episodes</br>
-**Adventures in Numbers and Space**: 7 episodes</br>
-**Adventures in the Arts**: 4 half-hour episodes</br>
-**Adventures of Danny Dee**: 40 half-hour episodes produced in 1960 by Cinema-Vue Corporation, NY, originally shot on film.</br>
-**Adventures of Sir Upton**: 6 episodes</br>
-**Adventures of Tom Sawyer**: 7 episodes</br>
-**Adventuring in the Hand Arts**: 10 half-hour episodes produced in 1958 by NBC-ETRC and Girl Scouts.</br>
-**African Writers of Today**: 6 half-hour episodes produced in 1964 by NET in collaboration with the Transcription Center, London, originally shot on film.</br>
-**After Hours**: 29 hour-long episodes</br>
-**Age of Overkill**: 13 half-hour episodes produced in 1961 by WGBH, originally shot on videotape.</br>
-**Alaska: The New Frontier**: 6 half-hour episodes produced in 1961 by KCTA-TV, originally shot on film.</br>
-**Alexander Schreiner at the Tabernacle Organ**: 3 half-hour episodes produced in 1960 by KUED, originally shot on kinescope.</br>
-**All About Animals**: 9 episodes</br>
-**Almanac**: 9 fifteen-minute episodes produced in 1958 by KETC, originally shot on kinescope.</br>
-**America in the Making**: 26 half-hour episodes produced in 1958 by New York University and WCBS, originally shot on kinescope.</br>
-**America Looks Abroad**: 24 half-hour episodes produced in 1957 by WTTW, originally shot on kinescope.</br>
-**America's Crises**: 19 hour-long episodes produced in 1964 by WGBH and Various Others, originally shot on on film and videotape.</br>
-**America's Town Meeting of the Air**: 2 episodes produced in 1956 and 1959 by Town Hall Inc.</br>
-**America's Waterways**: 2 episodes</br>
-**American Album**: 15 half-hour episodes produced in 1956 by Ford Foundation's TV-Radio Workshop, originally shot on film.</br>
-**American Art Today**: 13 half-hour episodes produced in 1956 by Hofstra College in coopertation with WOR-TV, originally shot on kinescope.</br>
-**American Assembly for Advancement of Science 1970**: 4 episodes produced in 1970.</br>
-**American Business System**: 10 half-hour episodes produced in 1963 by Arthur Lodge Productions, Inc., originally shot on videotape.</br>
-**American Government: The Pursuit of Happiness**: 8 episodes</br>
-**American Issues**: 18 half-hour episodes produced in 1958 by WGBH, originally shot on kinescope.</br>
-**American Memoir**: 12 half-hour episodes produced in 1961 by WTTW.</br>
-**American Perspective**: 19 half-hour episodes produced in 1960-1961 by KQED.</br>
-**American Political Parties**: 13 episodes</br>
-**American Politics**: 15 half-hour episodes produced in 1960 by KETC, originally shot on kinescope.</br>
-**Americans at Work**: 3 episodes</br>
-**An Age of Kings**: 15 75-to-90-minute episodes produced in 1961 by BBC.</br>
-**Anatomy of a Hit**: 3 half-hour episodes produced in 1964 by KQED, originally shot on film.</br>
-**Anatomy of a Revolution**: 15 half-hour episodes produced in 1961 by WGBH, originally shot on videotape.</br>
-**Animals of the Seashore**: 15 half-hour episodes produced in 1959 by KCTS.</br>
-**Arab Ferment**: 3 half-hour episodes produced in 1964 by TV Reporters International, Ltd, originally shot on film.</br>
-**Archaeology and the Bible**: 10 half-hour episodes produced in 1960 by WCET, originally shot on videotape.</br>
-**Arms Control**: 4 half-hour episodes produced in 1962 by New York University, originally shot on film and kinescope.</br>
-**Art and Man**: 12 hour-long episodes produced in 1964 by Radiodiffusion Television Francaise and NET coproduction, originally shot on film and videotape.</br>
-**Art in Living**: 13 half-hour episodes produced in 1957 by WUNC, originally shot on kinescope.</br>
-**Artists in America**: 13 episodes</br>
-**Arts and Artists: Great Britain**: 10 episodes produced in 1959 by BBC.</br>
-**Arts and the University**: 4 episodes</br>
-**Arts Project**: 20-21 episodes</br>
-**As Fairs Go**: 3 half-hour episodes produced in 1964 by WNDT, originally shot on videotape.</br>
-**Asia in Ferment**: 11 half-hour episodes produced in 1956 by Cine-Video Productions, originally shot on videotape.</br>
-**Astronomy for You**: 13 half-hour episodes produced in 1959 by META, originally shot on kinescope.</br>
-**At Home with your Child**: 12 half-hour episodes produced in 1956 by WQED, originally shot on kinescope.</br>
-**At Issue**: 69 half hour and hour-long episodes produced in 1963-1966 by NET, originally shot on videotape in black and white and color.</br>
-**Atomic Age Physics**: 48 episodes</br>
-**Atomic Energy Commission Films**: 14 fifteen to forty-five minute episodes produced in 1958 by the Atomic Energy Commission, originally shot on film.</br>
-**Atomic Energy Films**: 6 ten to thirty minute episodes produced in 1962 by Atomic Energy Commission, originally shot on film.</br>
-**Atomic Primer**: 13 half-hour episodes produced in 1958 by WTTW, originally shot on kinescope.</br>
-**Auto Mechanics**: 20 half-hour episodes produced in 1967 by WENH, originally shot in color.</br>
-**Ballets de France**: 26 fifteen-minute episodes produced in 1955 by March of Time.</br>
-**Basic Issues of Man**: 12 half-hour episodes produced in 1963 by WGTV, originally shot on film.</br>
-**Beberman Math**: 20 episodes</br>
-**Before there was a USA**: 12 half-hour episodes produced in 1955 by KETC, originally shot on kinescope.</br>
-**Beginnings**: 13 half-hour episodes produced in 1960 by WTTW, originally shot on videotape in black and white.</br>
-**Behind the Lines**: more the 73 half-hour episodes, originally shot in color.</br>
-**Beyond the Earth**: Produced in 1963 by University of Southern California in corportation with KNXT, originally shot on videotape. This series consists of 25 half-hour episodes: *Introduction*; *The Solar System*; *Planetary Motion Through Kepler*; *Applications of Gravitational Theory*; *Planetary Motion Through Newton*; *The Earth's Rvolution and Its Consequences*; *Reflecting and Radio Telescopes*; *Spectroscopes and Spectrum Analysis*; *Radial Velocity*; *The Moon and Its Phases*; *The Moon's Rotation and Surface Features*; *Lunar Eclipses*; *The Inner Planets*; *Mars*; *The Jovian Planets and Pluto*; *Comets and Meteors*; *The Sun and Its Energy*; *The Solar Surface*; *Stellar Brightness and Distance*; *How Stars Compare*; *Variable Stars*; *The Structure of the Galaxy*; *The Motion of the Stars*; *Beyond the Galaxy*; *Life in the Universe*</br>
-**Biblical Masterpieces**: 13 half-hour episodes produced in 1961 by KUNC, originally shot on kinescope.</br>
-**Biology**: 20 episodes</br>
-**Black Journal**: more than 70 hour-long episodes produced in 1968-1977 by WNET, originally shot on Some on film in color.</br>
-**Books and Ideas**: produced in 1956 by Syracuse University, originally shot on kinescope in black and white. This series consists of 20 half-hour episodes: *The Big Woods by William Faulkner*; *The Witness by Whittaker Chambers*; *Huckleberry Finn by Mark Twain*; *The Age of Reform by Richard Hofstadter*; *The Book of Ecclesiastes*; *The Ox-bow Incident by Walter van Tilburg Clark*; *The Study of History by Arnold Toynbee*; *Old Man and the Sea by Ernest Hemingway*; *The Tress by Conrad Richter*; *The Nine Tailors by Dorothy Sayers*; *World Enough and Time by Robert Penn Warren*; *Conservatism in America by Clinton Rossiter*; *Bryond the High Himalayas by Williams O. Douglas*; *The Red and the Black by Stendhal*; *Benjamin Franklin by Carl van Doren*; *Great River by Paul Horgan*; *Art and Life in America by Oliver Larkin*; *Poems by Emily Dickinson*; *The Plague by Albert Camus*; *The Life of James Madison by Irving Brant*</br>
-**Boston Symphony**: 6 episodes produced in 1958 by WGBH.</br>
-**Buckskin Bob**: 39 half-hour episodes produced in 1956 by KQED, originally shot on kinescope.</br>
-**Buddhism**: 3 episodes</br>
-**Camera on Washington**: 10 half-hour episodes produced in 1958 by NBC and NET.</br>
-**Casals Master Class**: 25 half-hour episodes produced in 1961 by Kroll, originally shot on 35mm film that was reduced to 16mm film.</br>
-**Challenge**: 22 half-hour episodes produced in 1962 by Ross-McElroy, originally shot on videotape.</br>
-**Championship Debate**: 7 half-hour episodes produced in 1964 by WTTW, originally shot on videotape.</br>
-**Changing World**: 13 hour-long episodes produced in 1964-1966 by various producers, originally shot on film and videotape.</br>
-**Chemical World of Man**: 5 half-hour episodes produced in 1968 by KQED and the American Chemical Society, originally shot on videotape.</br>
-**Chez Mimi**: 13 fifteen-minute episodes produced in 1954 by WKAR, originally shot on videotape.</br>
-**Chicago Festival**: 6 half-hour episodes produced in 1970 by WTTE, originally shot on videotape.</br>
-**Chicago Jazz**: 4 half-hour episodes, originally shot on videotape.</br>
-**Child Beyond**: 13 half-hour episodes produced in 1957 by University of Texas, originally shot on film.</br>
-**Children at the UN**: 5 episodes</br>
-**Children Growing**: 39 half-hour episodes produced in 1959, originally shot on Probably kinescope.</br>
-**Children's Corner**: 52 half-hour episodes produced in 1958 by WQED, originally shot on kinescope.</br>
-**China: The Awakened Giant**: 4-5 ninety-minute episodes produced in 1966 by WTTW, originally shot on videotape.</br>
-**Choice: Challenge for the Modern Woman**: 12 half-hour episodes produced in 1966 by KCET, originally shot on videotape.</br>
-**Circus**: 10 half-hour episodes produced in 1964 by NET, originally shot on film.</br>
-**Cities of the World**: 6 hour-long episodes produced in 1968 by various producers, originally shot in color.</br>
-**City Makers**: 8 half-hour episodes produced in 1969 by WGBH, originally shot in color.</br>
-**Civilization**: 13 hour-long episodes produced in 1970 by BBC, originally shot in color.</br>
-**College Bound**: 5 half-hour episodes produced in 1966 by WGBH, originally shot on film.</br>
-**College News Conference**: 13 half-hour episodes produced in 1961, originally shot on film and videotape.</br>
-**Command in Battle**: 8 half-hour episodes produced in 1960 by BBC, originally shot on kinescope.</br>
-**Community of the Condemned**: 26 half-hour episodes produced in 1958 by WTTW, originally shot on videotape.</br>
-**Compass Rose**: 26 fifteen-minute episodes produced in 1958 by KING.</br>
-**Conservative Viewpoint**: 4 episodes produced in 1970 by WTTW.</br>
-**Constitution and Human Rights**: 16 episodes produced in 1958 by WGBH.</br>
-**Conversation with James Day**: 4 half-hour episodes produced in 1970 by KQED, originally shot in color.</br>
-**Conversations 1965**: 6 half-hour episodes produced in 1965 by NET, originally shot on videotape.</br>
-**Conversations 1967**: 6 half-hour episodes produced in 1967 by KQED and WGBH.</br>
-**Conversations with Arnold Toynbee**: 5 half-hour episodes produced in 1967 by KQED, originally shot on videotape.</br>
-**Conversations with Clare Booth Luce**: 4 half-hour episodes produced in 1969 by KAET, originally shot on videotape in color.</br>
-**Conversations with Eric Hoffer**: 12 half-hour episodes produced in 1963-1964 by KQED, originally shot on videotape.</br>
-**Court of Reason**: 6 hour-long episodes produced in 1963 by WNDT, originally shot on videotape.</br>
-**Cover Story**: 13 half-hour episodes</br>
-**Cowboy's West**: 15 episodes produced in 1961 by KRMA.</br>
-**Creative Man**: 6 half-hour episodes produced in 1960 by KQED.</br>
-**Creative Person**: 83 half-hour episodes produced in 1965-1968 by NET, originally shot on film and videotape.</br>
-**Creativity**: 3 half-hour episodes produced in 1960 by KQED, originally shot on videotape.</br>
-**Criminal Man**: 20 half-hour episodes produced in 1958 by KQED, originally shot on videotape.</br>
-**Crisis of Modern Man**: 4 half-hour episodes produced in 1967 by KCET, originally shot on videotape.</br>
-**Crossroads of the World**: 7 half-hour episodes produced in 1963 by National Film Board of Canada (Acquisition), originally shot on film.</br>
-**Cultures and Continents**: 13 half-hour episodes produced in 1964 by WNDT, originally shot on videotape.</br>
-**Dateline USSR**: 2 half-hour episodes produced by the Center for Mass Communication in New York, originally shot on film.</br>
-**David Copperfield**: 13 half-hour episodes produced in 1959 by BBC, originally shot on videotape.</br>
-**Decision for Research**: 12 half-hour episodes produced in 1958 by NBC and the Educational Television and Radio Center.</br>
-**Decision: The Constitution in Action**: 7 half-hour episodes produced in 1959 by SHARFF, originally shot on film.</br>
-**Denis W. Brogan on America**: 2 half-hour episodes produced in 1962 by WMSB, originally shot on videotape.</br>
-**Design Workshop**: 13 half-hour episodes produced in 1959 by KQED, originally shot on videotape.</br>
-**Destruction of the Indian**: 3 half-hour episodes produced in 1963 by Global Television, London, originally shot on film.</br>
-**Dialogues: Roles of Man**: 10 half-hour episodes produced in 1958 by Columbia University, originally shot on kinescope.</br>
-**Discovery**: 39 half-hour episodes produced in 1957 by WGBH, originally shot on kinescope.</br>
-**Discovery at Brookfield Zoo**: 13 half-hour episodes produced by WTTW.</br>
-**Doctor Reports**: 12-13 five-minute episodes produced by WRC-TV, Washington DC, originally shot on videotape transferred to kinescope.</br>
-**Doctors in Space**: 13 half-hour episodes produced in 1958 by KUHT, originally shot on film.</br>
-**Dollar Diplomacy**: 6 half-hour episodes produced in 1965 by WGBH, originally shot on videotape.</br>
-**Dollars and Sense**: 4 half-hour episodes produced in 1966 by NET, originally shot on videotape.</br>
-**Dr. Posin's Giants**: 27 half-hour episodes produced in 1961 by WTTW, originally shot on kinescope.</br>
-**Driver Education**: 29-33 half-hour episodes produced in 1959 by WCET.</br>
-**Dynamics of Desegregation**: 15 half-hour episodes produced in 1962 by WGBH, originally shot on videotape.</br>
-**Dynamics of Leadership**: 5 half-hour episodes produced in 1961 by WGBH, originally shot on videotape.</br>
-**Earth and Mankind**: 6 half-hour episodes produced in 1961 by National Film Board of Canada (Acquisition), originally shot on film.</br>
-**East-West Philosophers Conference**: 8 half-hour episodes</br>
-**Eastern Wisdom and Modern Life**: 34 half-hour episodes produced in 1959 by KQED, originally shot on videotape and kinescope.</br>
-**Eins Zwei Drei**: 24 half-hour episodes produced in 1955 by WOI-TV, originally shot on kinescope.</br>
-**Electricity at Work**: 19 fifteen-minute episodes produced by WKAR.</br>
-**Elliot Norton Interviews**: 9 episodes produced by WGBH.</br>
-**English: Fact and Fancy**: 7 episodes produced by WETA.</br>
-**Escape from the Cage**: 11 half-hour episodes produced in 1960 by BBC.</br>
-**Essentials of Freedom**: 6 half-hour episodes produced in 1958 by WOSU.</br>
-**European Common Market**: 11 episodes</br>
-**Experiment**: 8 half-hour episodes produced in 1966 by Prism Productions, originally shot on film.</br>
-**Experiment in Progress**: 4 half-hour episodes produced by Science Services, Inc., originally shot on film.</br>
-**Exploring Nature**: 30 episodes</br>
-**Exploring the Universe**: 11 half-hour episodes produced in 1963 by Mayer-Sklar Productions, originally shot on videotape.</br>
-**Eyes for the Future**: 10 half-hour episodes produced in 1959 by KRMA in cooperation with the Colorado Society for the Preservation of Blindness, originally shot on kinescope.</br>
-**Face of Sweden**: 8 half-hour episodes produced in 1963 by the Swedish Institute for Cultural Relations and the Swedish Broadcasting Corporation, originally shot on film in black and white.</br>
-**Face of the Earth**: 10 half-hour episodes produced in 1959 by KQED, originally shot on videotape.</br>
-**Face to Face**: 6 half-hour episodes produced in 1962 by BBC, originally shot on film.</br>
-**Faces of Asia**: 6-8 hour-long episodes produced by Nord Deutsche Rundfunk, originally shot on film and videotape.</br>
-**Fact and Fancy**: 10-13 episodes</br>
-**Facts of Medicine**: 16 half-hour episodes produced in 1956 by WGBH, originally shot on kinescope.</br>
-**Family Doctor**: 6 half-hour episodes produced in 1961 by Troy-Beaumont Company of New York, originally shot on videotape.</br>
-**Famous Dancers**: 2 ninety-minute episodes produced in 1965 by Bavarian TV, originally shot on 35mm film, which was transferred to videotape.</br>
-**Fanfare**: 51 episodes of various lengths produced in 1969-1971 by various producers.</br>
-**Far Eastern Art**: 4 half-hour episodes produced in 1964 by WUFT, originally shot on videotape.</br>
-**Fignewton's Newspaper**: 24 fifteen-minute episodes produced in 1958 by KETC, originally shot on film.</br>
-**Flaherty and Film**: 4 half-hour episodes produced in 1961 by WGBH, originally shot on videotape.</br>
-**Flaherty Features**: 4 half-hour episodes produced in 1962 by WGBH, originally shot on videotape.</br>
-**Focus on Behavior**: 10 half-hour episodes produced in 1963 by Mayer-Skylar, originally shot on film.</br>
-**Focus on the United Nations**: 7 half-hour episodes produced in 1964 by UN Television, originally shot on film.</br>
-**Food for Life**: 22 half-hour episodes produced in 1961 by WMSB, originally shot on videotape.</br>
-**Forsyte Saga**: 26 hour-long episodes produced in 1969-1970 by BBC, originally shot in black and white.</br>
-**Forty-five Years with Fitzpatrick**: 16 half-hour episodes produced in 1960 by KETC, originally shot on kinescope, except the first episode, which was shot on videotape.</br>
-**Four Score**: 8 half-hour episodes produced in 1961 by WTTW, originally shot on videotape.</br>
-**Freedom to Learn**: 6 half-hour episodes produced in 1962 by various producers, originally shot on film and videotape.</br>
-**French Chef**: at least 117 half-hour episodes produced by WGBH.</br>
-**French through TV**: 48 to 62 half-hour episodes produced in 1957 by WGBH, originally shot on film.</br>
-**From Capitol Hill: Party Government and the United States Congress**: 8 half-hour episodes produced in 1958 by WYES, originally shot on film.</br>
-**From Haydn to Hi Fi**: 8 half-hour episodes produced in 1959 by University of Michigan, originally shot on kinescope.</br>
-**Frontier to Space**: 26 fifteen-minute episodes produced in 1957 by New Mexico College of Agriculture and Mechanic Arts, originally shot on film.</br>
-**Frontiers of Health**: 30 half-hour episodes produced in 1956 by University of Michigan TV Center, originally shot on kinescope.</br>
-**Frontiers of the Sea**: 10 fifteen-minute episodes produced in 1956 by University of Miami, originally shot on film.</br>
-**Geography for Decision**: 13 half-hour episodes produced in 1957 by NBC New York, originally shot on kinescope.</br>
-**Geography of Conflict**: 8 half-hour episodes produced in 1957 by Educational Television and Radio Center, originally shot on kinescope.</br>
-**Gilbert and Sullivan: The Immortal Jesters**: 3 hour-long episodes produced in 1962 by BBC, originally shot on film.</br>
-**Glenn Gould Conversations**: 4 forty-five-minute episodes produced by BBC.</br>
-**Governments and Human Nature**: 5 half-hour episodes produced in 1958 by WNBQ, University of Chicago/ NBC, originally shot on kinescope.</br>
-**Grassroots Voter 1960**: 7 half-hour episodes produced in 1960 by University of Michigan, originally shot on videotape.</br>
-**Great Composers**: 3 half-hour episodes produced by WMSB, Michigan State University Television, originally shot on videotape.</br>
-**Great Decisions 1962**: 8 half-hour episodes produced in 1962 by Filmex, Inc., originally shot on kinescope.</br>
-**Great Decisions 1963**: 8 half-hour episodes produced in 1963 by various producers, originally shot on videotape.</br>
-**Great Decisions 1964**: 8 half-hour episodes produced in 1964 by WGBH, originally shot on videotape.</br>
-**Great Decisions 1965**: 8 half-hour episodes produced in 1965 by WNDT, originally shot on videotape.</br>
-**Great Decisions 1966**: 8 half-hour episodes produced in 1966 by WNDT, originally shot on videotape.</br>
-**Great Decisions 1967**: 8 half-hour episodes produced in 1967 by WETA, originally shot on videotape.</br>
-**Great Decisions 1968**: 8 half-hour episodes produced in 1968.</br>
-**Great Ideas**: 52 half-hour episodes produced in 1956 by San Francisco Prod., originally shot on kinescope.</br>
-**Great Issues of Conscience in Modern Medicine**: 3 ninety-minute episodes produced in 1961 by WGBH, originally shot on videotape.</br>
-**Great Plays in Rehearsal**: 10 hour-long episodes produced in 1959-1960 by WHA-TV, originally shot on kinescope.</br>
-**Hardware**: 13 episodes</br>
-**Hats in the Ring (1956)**: 10 half-hour episodes produced in 1956 by Johns Hopkins University, originally shot on film.</br>
-**Hats in the Ring (1960)**: 7 half-hour episodes produced in 1960 by Elliot, Unger and Elliot, originally shot on videotape.</br>
-**Heifetz Master Class**: 8 half-hour episodes produced in 1963 by Nathan Kroll, originally shot on film.</br>
-**Here is the Past**: 13 half-hour episodes produced by New York University, originally shot on kinescope.</br>
-**Heredity**: 9 half-hour episodes produced in 1960 by KUHT, originally shot on film.</br>
-**Heritage**: 131 half-hour episodes produced in 1957-1962 by WQED and various producers, originally shot on various formats.</br>
-**Heritage of the Land**: 13 half-hour episodes produced by WOI-TV, originally shot on kinescope.</br>
-**Highlights of Opera History**: 13 half-hour episodes produced in 1957 by NBC, originally shot on kinescope.</br>
-**History of the Negro People**: 9 half-hour episodes produced in 1965 by NET, originally shot on videotape in black and white.</br>
-**History with Herb Hake**: 26 half-hour episodes produced in 1959 by WOI-TV, originally shot on film.</br>
-**Horizons Down**: 13 half-hour episodes produced in 1956 by KHUT, originally shot on film.</br>
-**Horizons of Science**: 10 half-hour episodes produced in 1962, originally shot on film.</br>
-**How Do your Children Grow**: 69 half-hour episodes produced in 1970-1973 by WNET, originally shot on videotape.</br>
-**Humanties**: 13 episodes produced in 1963 by WTTW.</br>
-**Images of Art**: 26 fifteen-minute episodes produced in 1957 by Radiodiffusion Television Francaise, Paris, originally shot on film.</br>
-**In My Opinion**: 18 half-hour episodes produced in 1966-1967 by NET, originally shot on videotape.</br>
-**In Today's World**: 3 episodes</br>
-**India, My India**: 4 half-hour episodes produced in 1968 by NET, originally shot on film (distributed on videotape) in black and white.</br>
-**Indian Arts**: 3 episodes</br>
-**Indian Experiment**: 15 half-hour episodes produced in 1964 by James Beveridge, originally shot on film.</br>
-**Insurance**: 7 half-hour episodes produced in 1956 by University of Michigan, originally shot on videotape.</br>
-**International Geophysical Year**: 10 half-hour episodes produced in 1959 by NBC.</br>
-**International Magazine**: 81 hour-long episodes produced in 1963-1970 by Associated-Rediffusion and ITN and NET, originally shot on film.</br>
-**Intertel**: 39-58 hour-long episodes produced in 1961-1967 by various producers, originally shot on film.</br>
-**Introduction to Art**: 26 fifteen-minute episodes produced in 1956 by University of California at Los Angeles.</br>
-**Invitation to Art**: 41 half-hour episodes produced in 1960-1964 by WGBH, originally shot on kinescope.</br>
-**Invitation to the Dance**: 3 episodes</br>
-**Israel, Land of Miracles**: 5 half-hour episodes produced in 1963 by Swedish Broadcasting Corporation, originally shot on film.</br>
-**Japan: Changing Years**: 10 half-hour episodes produced in 1961 by University of Michigan, originally shot on videotape in black and white.</br>
-**Japanese Brush Painting**: 13 half-hour episodes produced in 1958 by KQED, originally shot on videotape.</br>
-**Jazz Alley**: 6 half-hour episodes produced in 1969 by WTTW, originally shot in black and white.</br>
-**Jazz Casual**: 24 half-hour episodes produced in 1963 by KQED, originally shot on videotape.</br>
-**Jazz Meets the Classics**: 17 half-hour episodes produced in 1957 by WGBH, originally shot on kinescope.</br>
-**Joan Sutherland: Who's Afraid of Opera?**: at least 6 half-hour and hour-long episodes</br>
-**John Robert's Norway**: 4 episodes</br>
-**Just Imagine**: 9 fifteen-minute episodes produced by WTTW, originally shot on videotape.</br>
-**Kaleidoscope**: at least 9 half-hour episodes produced in 1963 by KQED, originally shot on videotape.</br>
-**Keyboard Conversations**: 18 half-hour episodes produced in 1959 by WKAR, originally shot on videotape.</br>
-**Know How**: 9 episodes</br>
-**Kukla, Fram and Ollie**: 30 half-hour episodes produced in 1970 by WTTW, originally shot on videotape in color.</br>
-**Lab 30**: 10 half-hour episodes produced in 1960 by WQED in association with the Westinghouse Research Laboratories and the Westinghouse Broadcasting Corporation, originally shot on videotape.</br>
-**Land of their Own**: 4 half-hour episodes produced in 1961 by KUON, originally shot on videotape.</br>
-**Language and Linguistics**: 13 half-hour episodes produced in 1958 by META University of Buffalo.</br>
-**Language in Action**: 13 half-hour episodes produced in 1958 by KQED, originally shot on videotape.</br>
-**Last Continent: Antartica**: 12 half-hour episodes produced in 1959 by KCTA, originally shot on film.</br>
-**Layman's Guide to Modern Art**: 4 half-hour episodes produced in 1961 by WGBH, originally shot on kinescope.</br>
-**Legacy**: 10 half-hour episodes produced in 1965 by NET, originally shot on film.</br>
-**Life with Radiation**: 2 half-hour episodes produced in 1960 by WQED, originally shot on film.</br>
-**Live and Learn: Focus on Physics**: 12 half-hour episodes produced in 1959 by CBC, originally shot on film.</br>
-**Living World**: 30 episodes</br>
-**Local Issue**: 32 half-hour episodes produced in 1964-1968 by various producers, originally shot on videotape.</br>
-**Looking at Modern Art**: 12 half-hour episodes produced in 1956 by WQED, originally shot on kinescope.</br>
-**Lorentz on Film**: 4 ninety-minute episodes produced in 1961 by WGBH, originally shot on videotape.</br>
-**Lotte Lehmann Master Class**: 7 half-hour episodes produced in 1962 by KQED, originally shot on film.</br>
-**Lyrics and Legends**: 15 half-hour episodes produced in 1963 by WHYY, originally shot on film and videotape.</br>
-**Madness**: 2 hour-long episodes produced in 1972 by WNET.</br>
-**Magic Doorways**: 65 fifteen-minute episodes produced in 1957 by KUOM, originally shot on kinescope in black and white.</br>
-**Magic Window**: 26 fifteen-minute episodes produced by WOI-TV, originally shot on kinescope.</br>
-**Main Street**: 5 half-hour episodes produced by various producers, originally shot on videotape and film.</br>
-**Making Music with W.R. and J Harris**: 8 half-hour episodes produced in 1957 by WQED, originally shot on kinescope.</br>
-**Man and Laughter**: 12 half-hour episodes produced in 1956 by WOI-TV or WGBH, originally shot on kinescope.</br>
-**Man Builds, Man Destroys**: 7 half-hour episodes produced in 1973 by WOI-TV, originally shot in color.</br>
-**Man's Reach**: 8 half-hour episodes produced in 1963 by KNME, originally shot on videotape.</br>
-**Management and Corporations**: 6 half-hour episodes produced in 1961 by WQED, originally shot on videotape.</br>
-**Marketing on the Move**: 12 half-hour episodes produced in 1962 by WGBH and the International Marketing Institute, originally shot on videotape.</br>
-**Masquerade**: 13 half-hour episodes produced in 1971 by NET Division, EBC.</br>
-**Master Keys**: 13 half-hour episodes produced in 1957 by WQED, originally shot on videotape.</br>
-**Maternal and Newborn Care**: 8 half-hour episodes produced in 1961 by KRMA, originally shot on videotape.</br>
-**Math Sequence**: 15 episodes</br>
-**Mathematics**: 10 half-hour episodes produced in 1958 by NBC.</br>
-**Meant for Reading**: 10 half-hour episodes produced in 1959 by KQED, originally shot on videotape.</br>
-**Meeting of Minds**: 3 half-hour episodes produced in 1959 by WTTW, originally shot on videotape.</br>
-**Men of Our Time**: 6 hour-long episodes produced in 1965 by Granada, originally shot on videotape.</br>
-**Men of the Senate**: 6 half-hour episodes produced in 1966 and 1967 by various producers.</br>
-**Men Toward the Light**: 13 ten-to-fifteen-minute episodes produced in 1965 by American Foundation for the Blind, originally shot on film.</br>
-**Men Who Teach**: 5 hour-long episodes produced in 1968 by NET, originally shot on film, but distributed on videotape.</br>
-**Menuhin Teaches**: 6 half-hour episodes produced in 1967 by BBC, originally shot on videotape in color.</br>
-**Merck, Sharpe, Dohme Films**: 5 half-hour episodes produced in 1962 by Merck, Sharpe and Dohme, originally shot on film.</br>
-**Metroplex**: 6 half-hour episodes produced in 1961 by WQED, originally shot on film.</br>
-**Metropolis: Creator or Destroyer?**: 8 half-hour episodes produced in 1964 by NET, originally shot on film.</br>
-**Mexican Research Trip**: 13 fifteen-minute episodes produced in 1957 by KUHT, originally shot on film.</br>
-**Mexicana**: 12 episodes</br>
-**Mexicania**: 13 fifteen-minute episodes produced in 1957 by KUHT, originally shot on film.</br>
-**Middle East Perspective**: 3 half-hour episodes produced in 1959 by WTTW, originally shot on film.</br>
-**Mighty and Mystical**: 4 episodes produced in 1963 by Granada.</br>
-**Miklos Schwalb Plays Brahms**: 4 half-hour episodes produced in 1962 by WGBH, originally shot on videotape.</br>
-**Minds Behind the War**: 3 half-hour episodes produced in 1966 by Television West and Wales, originally shot on videotape.</br>
-**Mirror of Western Art**: 13 half-hour episodes produced in 1959 by University of Texas, originally shot on videotape.</br>
-**Mission Possible**: 3 hour-long episodes</br>
-**Mister Rogers Neighborhood**: 390 half-hour episodes produced in 1968 by WQED and Family Communications, Inc..</br>
-**Modern Begali Poets**: at least 1 half-hour episode produced in 1962 by New York University Television Center, originally shot on videotape.</br>
-**Modern Chemistry**: 4 episodes produced in 1964.</br>
-**Monterey Jazz**: 4 hour-long episodes</br>
-**Mr. Fixit**: 15 episodes</br>
-**Mr. Murgle's Musee**: 26 fifteen-minute episodes produced in 1957 by WKAR, originally shot on videotape.</br>
-**Music and the Renaissance**: 10 half-hour episodes produced in 1958 by WQED.</br>
-**Music as a Language**: 13 half-hour episodes produced in 1957 by University of Rochester, originally shot on film.</br>
-**Music for Young People**: 13 half-hour episodes produced in 1959 by Art and Audiences, originally shot on film.</br>
-**Music in Close Up**: 8 hour-long episodes produced in 1965 by WNDT, originally shot on videotape.</br>
-**Music in Focus**: 18 half-hour episodes produced in 1959 by KRMA, originally shot on videotape.</br>
-**Music in the Life of Man**: 4 half-hour episodes produced in 1957 by Radio-TV Services, Indiana University, originally shot on videotape.</br>
-**Music of America**: 2 half-hour episodes produced in 1962 by USIA and NET, originally shot on film.</br>
-**Music on Television**: 6 half-hour episodes produced in 1969 by NET, originally shot in Color.</br>
-**Music Strip**: 18 episodes of varying lengths produced in 1962-1968 by various producers, originally shot on videotape.</br>
-**Musical Forms**: 6 half-hour episodes produced in 1956 by Henri Temianka at the University of Southern California, Department of Cinema, originally shot on film.</br>
-**Musically Speaking**: 2 half-hour episodes produced in 1967 by Nathan Kroll, originally shot on film.</br>
-**Mythology**: 16 half-hour episodes produced by KUHT, originally shot on videotape.</br>
-**National Agricultural Policy**: 8 half-hour episodes produced by NET.</br>
-**National Goals**: 6 half-hour episodes produced in 1961 by NYU-TV.</br>
-**National Parks USA**: 5 episodes</br>
-**Nature of Life**: 12 half-hour episodes produced in 1958 by KUHT.</br>
-**NBC Briefing Session**: 13 half-hour episodes produced by NBC.</br>
-**NET Apollo**: at least 1 episodes</br>
-**NET Drama Festival**: at least 25 episodes produced in 1961-1964 by various producers.</br>
-**NET Festival**: at least 69 episodes produced in 1964-1970 by various producers.</br>
-**NET Jazz**: 7 episodes</br>
-**NET Journal**: An anthology series produced in 1966-1970 by various producers. NET Journal consists of at least 88 episodes, including: *A Few Castles in Spain*; *A Glimpse of China*; *A House in the Jungle**; *A House in the Jungle*; *A Plague on Your Children*; *A Plague on Your Children*; *Battered Child*; *Battered Child*; *Black Natchez*; *Black Natchez*; *Children in the Balance*; *China in the 70s*; *China in the 70s*; *Conservative Mr. Buckley*; *Conversation with Richard Nixon*; *Conversation with Svetlana Allilu*; *Conversation with Svetlana Allilu*; *D-Day and 25*; *D-Day and 25*; *Diary of a Student Revolution*; *Diary of a Student Revolution*; *Face to Face with China*; *Face to Face with China*; *Fasten Your Seat Belts: A Report on the Crisis in the Air*; *Father Berrigan: The Holy Outlaw*; *Fidel*; *Flowers on a One Way Street*; *France is Dead, Long Live France*; *Freedom and Famine*; *Freud: Man and His Mind*; *From Protest to Resistance*; *George Wallace on his Politics and the Presidency*; *Germany After the Fall*; *Ghandi's India*; *H. L. Hunt: The Richest and the Rightest*; *Hard Times in the Country*; *Headstart in Mississippi*; *Hiroshima-Nagasaki*; *Homefront 1967*; *Hospital*; *How to Be First*; *Hubert Humphrey on Government and the Presidency*; *Huelga*; *Human Cargo*; *If I Don't Agree Must I Go Away*; *In The Company of Men*; *Indonesia: The New Order*; *Justice and the Poor*; *Kaddish*; *Kuwait*; *Lay My Burden Down*; *Life Style*; *Light of Asia*; *Losing Just the Same*; *LSD: Lettvin vs Leary*; *Matador*; *McCarthy and the Presidency*; *Men Against Cancer*; *Midsummer 1967*; *Midsummer 1967*; *Must I Serve*; *My Name is Children*; *New Leader in Canada*; *Nixon Inauguration*; *North Vietnam*; *Opium Trail*; *Plumes for My Rich Aunt*; *Politics '68*; *Report from Saigon*; *Rockefeller and the Presidency*; *Russia*; *Schizophrenia: The Shattered Mirror*; *Seantors' Dissent on Vietnam: Anti-war Senators*; *Search for the Lost Self*; *Spring in Ethiopia*; *Staggerlee: A Conversation with Bobby Seale*; *Thailand*; *That Was the Election That Was*; *The 6th Paul*; *The Disordered Mind*; *The Enclosure*; *The Last Campaign of Robert Kennedy*; *The Last Chance*; *The Long Walk*; *The People Question Vice President Humphrey*; *The Philippines: Guns Before Bread*; *The Question of Violence*; *The Smoking Spiral*; *The Transition: Richard Nixon*; *The Unknown War*; *The Warren Years*; *The Way it is*; *The Welfare Revolt*; *To Calm a Troubled Campus*; *To Save Tomorrow*; *TV and the White House*; *Two Views*; *University of Pennsylvania*; *University Power*; *Warfront '68*; *What Happened Up There*; *What Harvest for the Reaper*; *Where They Stand*; *Who Invited Us*; *Who Needs an Upper Crust*; *Who Speaks for Man*; *World of Piri Thomas*; *The Drinking American*</br>
-**NET Playhouse**: at least 124 episodes produced in 1966-1971 by various producers.</br>
-**NET Playhouse Biography**: 21 episodes</br>
-**NET Symphony**: 28 episodes</br>
-**New Nations in the West Indies**: 4 half-hour episodes produced in 1959 by NFB.</br>
-**New Orleans Jazz**: 8 half-hour episodes produced in 1964 by WYES.</br>
-**New Tempo**: 4 half-hour episodes</br>
-**New York Times Youth Forum**: at least 1 half-hour episode produced in 1958 by WABD.</br>
-**News in Perspective**: 198 hour-long episodes produced by NET.</br>
-**Norway: Spirit of Vikings**: 4 half-hour episodes produced in 1967 by Norweigan Embassy.</br>
-**Not in Our Stars**: 12 half-hour episodes produced in 1958 by KOMU.</br>
-**Not So Hardware Store**: 15 episodes</br>
-**Nuclear Energy**: 11 half-hour episodes produced in 1958 by WQED.</br>
-**Odyssey**: 25 episodes</br>
-**Of Men and Ideas**: 18 half-hour episodes produced in 1958 by WOI-TV.</br>
-**Of People and Politics**: 21 half-hour episodes produced in 1964 by NET.</br>
-**Of Poets and Poetry**: 8 episodes produced by META.</br>
-**Of Science and Scientists**: 23 half-hour episodes produced in 1960 by WGBH.</br>
-**Olympiad**: 4 hour-long episodes produced in 1968 by NET.</br>
-**On Hearing Music**: 19 half-hour episodes</br>
-**Once Upon a Japanese Time**: 13 half-hour episodes produced in 1958 by KQED.</br>
-**One Nation Indivisible**: 5 half-hour episodes</br>
-**Opera and Art**: 4 episodes</br>
-**Opera for Today**: 6 half-hour episodes produced in 1958 by WQED.</br>
-**Opera for Tomorrow**: 10 half-hour episodes produced in 1957 by WQED.</br>
-**Ordeal by Fire**: 17 half-hour episodes produced in 1960 by WTTW.</br>
-**Oresteia**: 3 half-hour episodes produced in 1958 by RMWC.</br>
-**Origami**: 10 half-hour episodes produced by KQED.</br>
-**Our Nation's Roots**: 26 half-hour episodes produced in 1957 by WCBS.</br>
-**Our Neighbor the Moon**: 5 half-hour episodes produced in 1961 by KRMA.</br>
-**Our Vanishing Wilderness**: 8 half-hour episodes</br>
-**Pacem in Terris**: 25 episodes produced in 1965 by NET.</br>
-**Pacemakers**: 4 episodes</br>
-**Parents and Doctor Spock**: 13 half-hour episodes produced in 1958 by WQED.</br>
-**Paris 1900**: 6 hour-long episodes produced in 1966 by Granada.</br>
-**Parlons Francais**: 165 fifteen-minute episodes produced in 1961.</br>
-**Passing Notes on Music**: 26 half-hour episodes</br>
-**Past Imperfect**: 8 half-hour episodes produced in 1964 by NET.</br>
-**Pathfinder**: 13 half-hour episodes</br>
-**Patterns of Life**: 13 half-hour episodes produced in 1960 by USC.</br>
-**PBL**: 47-54 ninety-minute episodes</br>
-**People**: 10 half-hour episodes produced in 1958 by WPIX.</br>
-**People are Taught to be Different**: 12 half-hour episodes produced in 1958 by KUHT.</br>
-**People, Places and Politics**: 13 half-hour episodes</br>
-**Perspectives**: at least 23 hour-long episodes produced by various producers.</br>
-**Philosophies of Education**: 13 half-hour episodes produced in 1961 by KTCA.</br>
-**Photography: The Incisive Art**: 5 episodes produced by KQED.</br>
-**Planet Earth**: 13 episodes produced by National Academy of Science.</br>
-**Platform**: 12-13 half-hour episodes produced in 1959.</br>
-**Playhouse New York**: at least 2 episodes</br>
-**Plays and Players**: 8 half-hour episodes produced in 1957 by WQED.</br>
-**Playschool**: 10 episodes</br>
-**Playwright at Work**: 10 half-hour episodes produced in 1961 by NET.</br>
-**Poet at Work**: 3 half-hour episodes produced in 1962 by KUON.</br>
-**Portrait of Japan**: 12 half-hour episodes produced in 1964 by NHK.</br>
-**Portraits in Print**: 10 half-hour episodes produced in 1960 by WHYY.</br>
-**Potential of Women**: 24 hour-long episodes</br>
-**Power of the Dollar**: 5 episodes</br>
-**Prelude to the Presidency**: 7 half-hour episodes</br>
-**Preparing your Child for Reading**: 16 half-hour episodes produced in 1963 by KRMA.</br>
-**Preview 89th Congress**: 4 episodes</br>
-**Promise of Life Sciences**: 5 episodes produced in 1960 by NSF.</br>
-**Prospects of Literature**: 8 half-hour episodes produced in 1958 by KETC.</br>
-**Prospects of Mankind with Eleanor Roosevelt**: 29 hour-long episodes produced in 1959-1960 by WGBH.</br>
-**Psychology One**: 38 half-hour episodes produced in 1958 by WGBH.</br>
-**Quest for Security**: 3 half-hour episodes produced in 1965 by Columbia University.</br>
-**Radical Americans**: 6 half-hour episodes</br>
-**Ragtime Era**: 12 half-hour episodes produced in 1960 by KRMA.</br>
-**Reading Out Loud**: 12 half-hour episodes</br>
-**Real Revolution**: 8 episodes</br>
-**Realities**: 40 episodes produced in 1970 by various producers.</br>
-**Red Myth**: 13 half-hour episodes produced in 1961 by KQED.</br>
-**Redman's America**: 30 half-hour episodes</br>
-**Regional Report**: 19 hour-long episodes</br>
-**Religion and the Arts**: 4 half-hour episodes produced in 1964 by WUFT.</br>
-**Religions of Man**: 17 episodes produced by KETC.</br>
-**Report from America**: 13 half-hour episodes</br>
-**Resources and National Security**: 14 half-hour episodes produced in 1960 by WQED.</br>
-**Ride the Wild Horse**: 3 half-hour episodes produced in 1965 by NET.</br>
-**Robert Kennedy Memorial**: 3 episodes produced in 1968 by NET.</br>
-**Saki**: 8 hour-long episodes produced in 1963 by Granada.</br>
-**Science and Human Responsibility**: 23 half-hour episodes produced in 1958 by KETC.</br>
-**Science in Sight**: 14 fifteen-minute episodes produced in 1958 by KETC.</br>
-**Science Reporter**: 64-66 half-hour episodes produced by WGBH.</br>
-**Scientific Methods**: 13 half-hour episodes</br>
-**Search for America**: 33 half-hour episodes produced in 1959 by KETC.</br>
-**Searchlights on Delinquency**: 13 half-hour episodes produced in 1956 by WTTW.</br>
-**Self Encounter**: 10 half-hour episodes produced in 1962 by KRMA.</br>
-**Seminar**: 12 episodes</br>
-**Seminar on American Civilization**: 13 half-hour episodes produced in 1959 by WGBH.</br>
-**Senate Foreign Relations Committee**: 4 hour-long episodes produced in 1968 by NET.</br>
-**Senate Hearings on ETV**: 7 hour-long episodes</br>
-**Senate Hearings on Satellite Communciations**: 18 episodes</br>
-**Shakespeare on TV**: at least 5 episodes</br>
-**She Stoops to Conquer**: 4 episodes</br>
-**Shelter for Man**: 6 episodes produced by WQED.</br>
-**Short Stories of Guy de Maupassant**: 13-21 episodes</br>
-**Sing Hi, Sing Lo**: 104 fifteen-minute episodes produced in 1957-1958 by KQED.</br>
-**Sir Kenneth Clark on Art**: 10 episodes produced by Assoc. TV Ltd.</br>
-**Small Town**: 6 episodes</br>
-**Smart Sewing**: 20-30 half-hour episodes</br>
-**Smoking Show**: 5 episodes</br>
-**Sonata**: 10 hour-long episodes</br>
-**Songs Out of the South**: 8 half-hour episodes produced by WUNC.</br>
-**Soul**: at least 124 hour-long episodes produced in 1968-1973 by WNDT/WNET.</br>
-**Sounds of Summer**: 18 hour-long episodes</br>
-**Space Science 1963**: 5 half-hour episodes produced in 1963 by NASA.</br>
-**Spectrum**: 101-142 half-hour episodes produced in 1964-1969.</br>
-**Spotlight on Opera**: 16 half-hour episodes produced in 1955 by UCLA.</br>
-**Story of Money**: 12 half-hour episodes produced in 1961 by WHYY.</br>
-**Survival**: 8 half-hour episodes</br>
-**Survival in the Sea**: 12 episodes produced by WTHS.</br>
-**Tactic**: 6 half-hour episodes produced in 1959 by NBC.</br>
-**Tales of Poindexter**: 52 fifteen-minute episodes produced in 1959 by WKNO.</br>
-**Talking to a Stranger**: 4 ninety-minute episodes produced in 1970 by BBC.</br>
-**Tempest in a Test Tube**: 26 half-hour episodes produced by KQED.</br>
-**Ten for Survival**: 10 half-hour episodes produced in 1958 by NBC.</br>
-**Tension Areas**: 6 half-hour episodes produced in 1958 by Michigan TV.</br>
-**That Free Men May Live**: 13 half-hour episodes produced in 1960 by KTCA.</br>
-**The American Economy**: 29 hour-long episodes produced in 1962 by Learning Resource Institute, originally shot on videotape.</br>
-**The American Mind**: 12 half-hour episodes produced in 1960 by WYES, originally shot on videotape.</br>
-**The Art of Seeing**: 4 half-hour episodes produced in 1962 by WNDT, originally shot on videotape in black and white.</br>
-**The Art of Singing**: 4 half-hour episodes produced in 1962 by WSMB, originally shot on videotape.</br>
-**The Art of the Theatre**: 12 half-hour episodes produced in 1957 by KUON, originally shot on film.</br>
-**The Arts and the Gods**: 10 half-hour episodes produced in 1958 by Metropolitan Museum of Art.</br>
-**The Arts Around Us**: 13 half-hour episodes produced in 1957 by WOR-TV, originally shot on videotape and kinescope.</br>
-**The Atom**: 3 half-hour episodes produced in 1958 by KQED, originally shot on film.</br>
-**The Big Count**: 9 half-hour episodes produced in 1960 by WTTW.</br>
-**The Causes of War and Conditions of Peace**: 3 half-hour episodes produced in 1959 by WOI-TV, originally shot on kinescope.</br>
-**The Challenge of Foreign Policy**: 13 half-hour episodes produced in 1955 by University of Michigan, originally shot on kinescope.</br>
-**The Changing Congress**: 9 half-hour episodes produced in 1965 by NET, originally shot on videotape.</br>
-**The Classical Tradition**: 3 hour-long episodes produced in 1958 by Indiana University, Radio and TV Service.</br>
-**The Computer and the Mind of Man**: 6 half-hour episodes produced in 1962 by KQED, originally shot on film.</br>
-**The Dissenters**: 6 half-hour episodes produced in 1967 by WGBH, originally shot on videotape.</br>
-**The Elements**: 10 half-hour episodes produced in 1956 by KQED.</br>
-**The Exceptional Child**: 15 half-hour episodes produced in 1959 by Syracuse University, originally shot on film and Television Recording in black and white.</br>
-**The Film Generation**: 8 hour-long episodes produced in 1969 by NET, originally shot on videotape in color.</br>
-**The Finder**: 52 half-hour episodes produced in 1954-1955 by KETC, originally shot on kinescope in black and white.</br>
-**The Finder's Christmas**: 5 fifteen-minute episodes produced in 1958, originally shot on videotape in black and white.</br>
-**The Fine Arts Quartet Plays Bartok**: 6 hour-long episodes produced in 1959 by WTTW, originally shot on videotape.</br>
-**The Fine Arts Quartet Plays Beethoven**: 6 hour-long episodes produced in 1959 by WTTW, originally shot on videotape.</br>
-**The Friendly Giant**: 415-455 fifteen-minute episodes, originally shot on videotape in black and white.</br>
-**The Fuller World**: 3 half-hour episodes produced in 1964 by WGBH, originally shot on videotape.</br>
-**The Glory Trail**: 10 half-hour episodes produced in 1964 by KRMA and United Film Industries, Inc., originally shot on film in color.</br>
-**The Graphic Arts**: 22 half-hour episodes produced in 1958 by WGBH, originally shot on kinescope.</br>
-**The Great American Dream Machine**: 34 ninety-minute and hour-long episodes produced in 1971-1972 by NET, originally shot on videotape in black and white and color.</br>
-**The Great Plains Trilogy**: 39 half-hour episodes produced in 1954 by University of Nebraska, originally shot on film.</br>
-**The Great Society**: 8 half-hour episodes produced in 1966 by WETA, originally shot on videotape.</br>
-**The House We Live in**: 22 half-hour episodes produced in 1962-1963 by WCAU, originally shot on videotape.</br>
-**The Inquiring Mind**: 12 half-hour episodes produced in 1961 by WMVS, originally shot on videotape.</br>
-**The Intent of Art**: 7 half-hour episodes produced in 1959 by WGBH, originally shot on videotape.</br>
-**The Jail**: 5 half-hour episodes produced in 1972.</br>
-**The Latin Americas**: 15 half-hour episodes produced in 1957 by KETC, originally shot on kinescope.</br>
-**The Long Voyage**: 24 fifteen-minute episodes produced in 1955 by WOI-TV, originally shot on kinescope.</br>
-**The Longest Journal**: 3 episodes</br>
-**The Magic of the Atom**: 26 fifteen-minute episodes produced in 1957 by the Handel Film Corporation of Hollywood, originally shot on film in black and white.</br>
-**The Making of a Doctor**: 3 half-hour episodes produced in 1964 by Vision Associates, originally shot on film.</br>
-**The Measure of Man**: 6 half-hour episodes produced in 1957 by KQED, originally shot on film.</br>
-**The Modern USA**: 12 half-hour episodes produced in 1955 by KETC.</br>
-**The Months Before Birth**: 8 half-hour episodes produced in 1956 by WQED, originally shot on kinescope.</br>
-**The New Biology**: 4 episodes</br>
-**The Olympians**: 4 episodes</br>
-**The Other Two Billion**: 16 episodes</br>
-**The Painting**: 7 half-hour episodes produced in 1958 by KETC.</br>
-**The Population Problem**: 6 half-hour episodes produced in 1968 by NET.</br>
-**The President's Men**: 9 half-hour episodes produced in 1965 by NET.</br>
-**The President's Men 1969**: 9 half-hour episodes produced in 1969 by NET.</br>
-**The Quiet Man**: 3 episodes</br>
-**The Quill**: 13 half-hour episodes</br>
-**The Restless Earth**: 4 episodes produced in 1973 by NET Division of Educational Broadcasting Corporation.</br>
-**The Sculpture**: 11 half-hour episodes produced in 1958 by KETC.</br>
-**The Secret of Flight**: 13 half-hour episodes produced in 1959 by IOWA.</br>
-**The Sense of Poetry**: 8 half-hour episodes produced by WGBH.</br>
-**The Subject is Jazz**: 13 half-hour episodes</br>
-**The Teenager**: 15 half-hour episodes produced in 1958 by Michigan TV.</br>
-**The UN at Work**: 10 fifteen-minute episodes produced in 1958 by UN-TV.</br>
-**The Way it is**: 8 episodes</br>
-**The World of Art**: 13 half-hour episodes produced in 1957 by WQED.</br>
-**The World of Music**: 22 episodes produced in 1965 by WNDT.</br>
-**The World of the American Craftsman**: 5 episodes</br>
-**The World We Live in**: 38 half-hour episodes</br>
-**The World We Want**: 36 half-hour episodes produced in 1958 by WOR-TV.</br>
-**The Written Word**: 15 half-hour episodes produced in 1962 by USC.</br>
-**The Young USA**: 24 episodes</br>
-**Theatre in America**: at least 2 episodes</br>
-**Thirteen Against Fate**: 13 hour-long episodes produced in 1968 by BBC.</br>
-**This is NET**: 3 twenty minute episodes produced by NET.</br>
-**This is Opera**: 3 half-hour episodes produced by NET.</br>
-**This New House**: 6 half-hour episodes produced in 1962 by WQED.</br>
-**Ticker Tape**: 12 half-hour episodes</br>
-**Time for Living**: 17 half-hour episodes produced by WTTW.</br>
-**To Save Tomorrow**: 8 half-hour episodes produced in 1969 by WTTW.</br>
-**Touristen Deutsch**: 14 half-hour episodes produced in 1958 by WTTW.</br>
-**Trio**: 11 half-hour episodes</br>
-**Trois Essays**: 9 episodes</br>
-**Troubled Lives**: 13 half-hour episodes produced by WTVS.</br>
-**Turn of the Century**: 15 half-hour episodes produced in 1962 by KRMA.</br>
-**TV Training Films**: 4 half-hour episodes</br>
-**Twentieth Century Fund Report**: 3 half-hour episodes</br>
-**Twentieth Century Revolutions in World Affairs**: 9 half-hour episodes produced in 1959 by KRMA.</br>
-**Two Centuries of Symphony**: 20 half-hour episodes produced in 1960 by WGBH.</br>
-**Two for Physics**: 12 half-hour episodes produced in 1961 by CBC.</br>
-**Two Hundred Years of Woodwinds**: 13 half-hour episodes produced in 1960 by WHYY.</br>
-**Uncle Wonder's Workshop**: 13 fifteen-minute episodes produced in 1959 by WCET.</br>
-**Understanding Numbers**: 7 half-hour episodes produced by University of Michigan.</br>
-**Understanding Semantics**: 3 episodes</br>
-**Understanding the Child**: 7 half-hour episodes</br>
-**USA Artists**: 11 half-hour episodes produced in 1966 by NET.</br>
-**USA Composers**: 4 half-hour episodes</br>
-**USA Dance**: 6 half-hour episodes</br>
-**USA Music**: 5 half-hour episodes</br>
-**USA Novel**: 5 half-hour episodes</br>
-**USA Opposition Theatre**: 6 half-hour episodes</br>
-**USA Photography**: 4 episodes</br>
-**USA Poetry**: 14 half-hour episodes</br>
-**USA Theatre**: 6 half-hour episodes</br>
-**USA Writers**: 10 episodes</br>
-**Vibrations**: 20-27 hour-long episodes</br>
-**Victorians**: 8 hour-long episodes produced in 1968 by Granada.</br>
-**Virus**: 8 half-hour episodes produced in 1960 by KQED.</br>
-**Visits with a Sculptor**: 10 half-hour episodes produced in 1962 by USC.</br>
-**Watch Your Language**: 15 fifteen-minute episodes produced in 1959 by KING.</br>
-**What in the World**: 25 half-hour episodes produced in 1963 by WCAU.</br>
-**What's New**: 426-431 half-hour episodes</br>
-**White House Seminar**: 8 hour-long episodes</br>
-**Who is**: 9 half-hour episodes</br>
-**Wildlife and Reptiles**: 15 episodes</br>
-**Window Watchers**: 26 fifteen-minute episodes produced by WOI-TV, originally shot on kinescope.</br>
-**With a View to Music**: 11 half-hour episodes produced in 1958 by KETC.</br>
-**World of Physics**: 12 forty-five-minute episodes</br>
-**Wrath of Achilles**: 8 episodes produced by WGBH.</br>
-**Writers of Today**: 16 half-hour episodes produced in 1962.</br>
-**Yesterday's World**: 26 half-hour episodes</br>
-**You and Your Doctor**: 2 half-hour episodes</br>
-**Young Worlds**: at least 1 half-hour episode produced in 1959 by WCBS.</br>
-**Your Dollar's Worth**: 36 half-hour episodes</br>
-**Your Marriage**: 13 half-hour episodes produced in 1962 by KUON.</br>
-**Youth Forum**: 2 episodes</br>
+
+**Aaron Copland: Music in the Twenties**: produced in 1965 by WGBH, originally shot on videotape in black and white. 12 half-hour episodes: *Background 1910-1919*; *Paris: Les Six*; *Jazz and Jazz Influence*; *Neo-Classicism*; *Central Europe: 12-Tone Revolution*; *New Movements in Opera*; *Nationalism: European Style*; *Nationalism: New World Style*; *New Faces*; *American Music in the 20s*; *Experimental Attitudes. Part 1*; *Experimental Attitudes. Part 2*<br />
+**About Ceramics**: produced in 1962 by WGTV, originally shot on videotape in color. 6 half-hour episodes: *Clay: Fountainhead of the Potter's Art*; *Forms: Product of Man and Material*; *Forms: Need They Be Round*; *Ornament: Clothing for Ceramic Forms*; *Glass: Sister Material of Clay*; *The World of Today's Potter*<br />
+**About People**: produced in 1963 by WTTW, originally shot on videotape in color. 10 half-hour episodes: *What is Normal*; *Adolescence*; *Aging*; *Being in Love*; *Marriage Problems*; *The Council of Fear*; *Guilt Feelings*; *Emotional Illness*; *Psychoanalysis*; *The Newcomers*<br />
+**Action at Law**: produced in 1958 by KETC, originally shot on kinescope in color. 5 half-hour episodes: *The Accident*; *The Witnesses to the Accident*; *Preparing for the Trial*; *Trial: Case for the Plaintiff*; *Trial: Case for the Defendant*<br />
+**At Issue**: produced in 1963-1966 by NET, originally shot on videotape in black and white and color. 69 half-hour and hour-long episodes: <br />
+**Beginnings**: produced in 1960 by WTTW, originally shot on videotape in black and white. 13 half-hour episodes: *Sir Edward Hillary, Mountaineer*; *Wilton Krogman, Anthropologist*; *Merle Curtis, Historian*; *Yousef Karsh, Photographer*; *Raymond Loewy, Designer*; *Dr. Will Menninger, Psychiatrist*; *Ralph Uhlveling, Librarian*; *Dr. Charles Best, Discoverver of Insulin*; *Dr. Hollis Caswell, College President and Educator*; *Dr. Roger Revelle, Oceanographer*; *Edward Espenshade, Jr., Cartographer*; *Forest Evashevski, Football Coach*; *Amy Vanderbilt, Journalist*<br />
+**Black Journal**: produced in 1968-1977 by WNET, originally shot on film in color. more than 70 hour-long episodes: *Moon Walk*; *Justice?*; *Guyana: Nation Building*; *Digging for Black Pride*; *Is Sweetback Really Sweet?*; *Genocide*; *The Black Pimp*; *Blackonomics*; *The Black Psychics*; *Take Back Your Mind. Part 1 and 2*; *Ministers for Black Souls*; *Black Paper on White Racism. Part 1 and 2*; *Soul Saving Station*; *Learn, Baby, Learn*; *The Search for Frederick Douglass*; *Black Has Always Been Beautiful*; *Is it Too Late?*; *The Young Black Lawyers*; *You Killed Malcolm?*; *A Trinidad Folk Tale: Ti-Jean and His Brothers*; *Reading', Riting', and Rithmetic, Inc. Part 1 and 2*; *The Black Political Convention. Part 1 and 2 *; *Beatin' Pan*; *An Evaluation of Martin Luther King. Part 1 and 2*; *Ennis*; *Kareem*; *The Black Cop. Part 1 and 2*; *The Making of a Special*; *Introducing Hank Johnson*; *Don't Play Us Cheap*; *African Liberation Day*; *Interview with Angela Davis*; *Liberation Day Parade*; *The Tuskegee Study: A Human Experiment*<br />
+**Books and Ideas**: produced in 1956 by Syracuse University, originally shot on kinescope in black and white. 20 half-hour episodes: *The Big Woods by William Faulkner*; *The Witness by Whittaker Chambers*; *Huckleberry Finn by Mark Twain*; *The Age of Reform by Richard Hofstadter*; *The Book of Ecclesiastes*; *The Ox-bow Incident by Walter van Tilburg Clark*; *The Study of History by Arnold Toynbee*; *Old Man and the Sea by Ernest Hemingway*; *The Trees by Conrad Richter*; *The Nine Tailors by Dorothy Sayers*; *World Enough and Time by Robert Penn Warren*; *Conservatism in America by Clinton Rossiter*; *Beyond the High Himalayas by Williams O. Douglas*; *The Red and the Black by Stendhal*; *Benjamin Franklin by Carl van Doren*; *Great River by Paul Horgan*; *Art and Life in America by Oliver Larkin*; *Poems by Emily Dickinson*; *The Plague by Albert Camus*; *The Life of James Madison by Irving Brant*<br />
+**A Land to be Free**: produced in 1956 by the University of Michigan, originally shot on kinescope.8 half-hour episodes: *Wind West of Palos*; *For God and France*; *Pipe and Feather*; *American Revolution*; *A Company of Players. Part 1*; *A Company of Players. Part 2*; *A Song for These States*; *New Laws for Old Crimes*.<br />
+**Adventures of Danny Dee**: produced in 1960 by Cinema-Vue Corporation, NY, originally shot on film.40 half-hour episodes: *Giants of Gandor*; *The Egyptian aka Dinosaur Baths of Egypt*; *The Other Side of the Moon*; *A Million Years Ago*; *Stuporman*; *Pancake's Box*; *Muffin, Waffle and Tart*; *Magic Paintbrush*.<br />
+**African Writers of Today**: produced in 1964 by NET in collaboration with the Transcription Center, London, originally shot on film.6 half-hour episodes: *Walter Allen, Amos Tutuola, Ulli Beier*; *David Rubadiri, Leopold Sedar Senghor, Bernard Fonlon, Wole Soyinka*; *Ezekiel Mphahlele*; *Chinua Achebe*; *William Abraham*; *David Rubadiri*.<br />
+**Age of Overkill**: produced in 1961 by WGBH, originally shot on videotape.13 half-hour episodes: *Converting Waste Water to Tap Water*; *New Weapons in the World*; *The Delicate Balance of Terror*; *Imperialism, Old and New*; *Two Worlds and the Neutrals*; *Communism as a Grand Design*; *The Politwar*; *Identity Revolutions*; *The Undeveloped World*; *Great Leaders in a Great Time*; *Power Elite and Creative Elite*; *Beyond Power - To What?*; *A Collection of World Will*; *Death Urge or Life Force*.<br />
+**Alaska: The New Frontier**: produced in 1961 by KCTA, originally shot on film.6 half-hour episodes: *Modern Alaska*; *Old Alaska*; *Problem of Statehood*; *Native Alaska*; *Alaska: The Land of the Newcomer and the Tourist*; *Strategic Alaska*.<br />
+**Alexander Schreiner at the Tabernacle Organ**: produced in 1960 by KUED, originally shot on kinescope.3 half-hour episodes: *A Program of Fugues*; *Romantic Composers*; *French Composers*.<br />
+**Almanac**: produced in 1958 by KETC, originally shot on kinescope.9 fifteen-minute episodes: *Wildlife Photography*; *Prairie Chickens*; *Bobwhite Quail*; *Whose Land*; *Predators*; *Land Needs Wildlife*; *Ancient Wildlife*; *Cottontail Rabbit*; *The Meaning of Nature*.<br />
+**America in the Making**: produced in 1958 by New York University and WCBS, originally shot on kinescope.26 half-hour episodes: *In the Beginning: The Transplantation*; *Necessary Adaptation: The Roots Go Down*; *Woman's Role in Early America*; *The Sacred Cod*; *The First American Millionaires*; *The Early American Craftsman*; *Demons and Little Men*; *Family Traditions and Freedoms*; *Highways to Independence*; *The Cosmopolitan Characters of the Colonies*; *Where Does the South Begin?*; *The Handyman*; *The Patriots*; *Colonial Boston*; *The Call to Arms*; *England Views the Revolution*; *France and the Revolution*; *George Washington: Man and Myth*; *The Bill of Rights*; *New Frontiers: Science and Inventions*; *Nationalism: The Young Giant Stirs*; *Urban Ways*; *Pastimes in Young America*; *The Search for the Capital*; *American Tastes*; *What Does Our Heritage Mean Today?*.<br />
+**America Looks Abroad**: produced in 1957 by WTTW, originally shot on kinescope.24 half-hour episodes: *Africa: Colonialism*; *Africa: West Africa*; *Africa: East Africa*; *Africa: The Belgian Congo*; *Africa: South Africa*; *Africa: North Africa*; *Across these Borders: International Exchange*; *Across these Borders: NATO*; *Across these Borders: European Federation*; *Across these Borders: The Afro-Asian Bloc*; *Across these Borders: The Colombo Plan*; *Training of a Diplomat*; *Foreign Policy in Congress*; *Military Diplomacy*; *Role of Labor in World Affairs*; *Yankee Insider Abroad*; *Propaganda in Making Foreign Policy*; *Organization of American States*; *Caribbean Federation*; *Puerto Rico*; *Freedom of the Press in Latin America*; *Guatemala*; *Brazil*; *Argentina*.<br />
+**America's Crises**: produced in 1964 by WGBH and various other producers, originally shot on on film and videotape.19 hour-long episodes: *The Young Americans*; *The Parents*; *The Individual*; *The Community*; *The Hardway*; *Marked for Failure*; *Education: Child of the Future*; *Education: Semester of Discontent*; *Education: The Teacher Gap*; *Trouble in the Family*; *The Religious Revolution and the Void*; *The Emotional Dilemma*; *Old Age Part 1: The Wasted Years*; *Old Age Part 2: Out of Sight and Mind*; *The Rise of the New Towns*; *Crimes in the Streets*; *The Troubled Cities*; *Cities and the Poor. Part 1*; *Cities and the Poor. Part 2*.<br />
+**American Album**: produced in 1956 by the Ford Foundation's TV-Radio Workshop, originally shot on film.15 half-hour episodes: *Lincoln: The End and the Beginning*; *Lincoln: Nancy Hanks*; *Lincoln: Growing Up*; *Lincoln: New Salem*; *Lincoln: Ann Rutledge*; *Children of the UN and The Adam House*; *The Excursion House*; *The Dagger and Two Masters for One Valet*; *The Sea of Winslow Homer and Raymond Lowey*; *A Maine Lobserman and Tugboat Captain*; *William Faulkner and Country Edition*; *Jury Duty and Boyhoods: Joseph N. Welch*; *Kent Bells and Boyhoods: Harry Emerson Fosdick*; *Old Time Aviation and Boyhoods: Captain John M. Ellicott*; *Toby and the Tall Corn*.<br />
+**American Art Today**: produced in 1956 by Hofstra College in coopertation with WOR-TV, originally shot on kinescope.13 half-hour episodes: *Sources of American Art Today*; *Sociological-Political-Moral Influence on American Art*; *Influence of Science on American Art*; *Realism*; *Classicism*; *Romanticism*; *Expressionism*; *Mysticism*; *Abstract Art. Part 1*; *Abstract Art. Part 2*; *Style and Technique*; *Subject Matter and Content *; *What the Future Holds*.<br />
+**American Business System**: produced in 1963 by Arthur Lodge Productions, Inc., originally shot on videotape.10 half-hour episodes: *The Role of the Market*; *How it Evolved*; *Technological Development*; *The Nation's Resources*; *The Challenge of Management*; *Production and Marketing*; *Financial Management*; *The Market and the Individual*; *Government and the Market*; *Economic Growth*; *What is Government?*.<br />
+**American Issues**: produced in 1958 by WGBH, originally shot on kinescope.18 half-hour episodes: *Will American Local Government Survive? Part 1 and 2*; *What's Happening to Our Rights? Part 1 and 2*; *How Shall America Confront Communism? Part 1 and 2*; *How Shall America Handle Foreign Aid? Part 1 and 2*; *How Shall America Maintain Economic Stability? Part 1 and 2*; *How Shall America be Taxed? Part 1 and 2*; *How Shall America Pay for Education? Part 1 and 2*; *How Shall We Get the Leaders America Needs? Part 1 and 2 *; *The Future of Citizenship. Part 1 and 2*.<br />
+**American Politics**: produced in 1960 by KETC, originally shot on kinescope.15 half-hour episodes: *Introduction*; *The Pestilence of Factions*; *A Party is to Elect*; *A Body of Men United*; *Let the People Rule*; *The Smoke-filled Room and Mr. Throttlebottom*; *The Batting Average*; *The Unterrified Democract and the Grand Old Party*; *Politics Stop at the Water's Edge*; *Millions for Defense*; *Liberty and Justice for All*; *Less Corn and More Hell*; *Rivers to the Ocean Run*; *An Honest Day's Work for an Honest Day's Pay*; *Our Federal Union*.<br />
+**Anatomy of a Hit**: produced in 1964 by KQED, originally shot on film.3 half-hour episodes: *The Serendipity Groove*; *We're Getting Action*; *Little Man, What Now?*.<br />
+**Anatomy of a Revolution**: produced in 1961 by WGBH, originally shot on videotape.15 half-hour episodes: *Varieties of Revolution*; *The Antecedents of Revolution*; *The Role of the Intellectuals*; *The Beginnings of Actual Revolution*; *The Struggle Between Moderate and Immoderate Revolution*; *Dual Sovereignty and the Progress of Revolution*; *The Reigns of Terror and Virtue*; *The Reigns of Terror and Virtue of Social Life*; *Explanations of the Reigns of Terror and Virtue*; *Types of Revolutionaries. Part 1*; *Types of Revolutionaries. Part 2*; *The Beginning of the End*; *Russia: Permanent Revolution?*; *The Achievements of Revolution*; *Some Other Representative Revolutions*.<br />
+**Arab Ferment**: produced in 1964 by TV Reporters International, Ltd, originally shot on film.3 half-hour episodes: *Palestine: A Land Apart*; *Egypt: A Land Awakened*; *Saudi Arabia: A Land Awakening*.<br />
+**Archaeology and the Bible**: produced in 1960 by WCET, originally shot on videotape.10 half-hour episodes: *Relationship of Archeology and the Bible*; *Importance of Pottery Identification*; *King Soloman's Copper Mines*; *King Soloman's Seaports*; *Edom, Moab and Gilead*; *The Civilization of the Nabataens*; *Mountain Streams and Valley Cities*; *The Beginning*; *Heartland of Conscience*; *The Cross and the Candelabra*.<br />
+**Arms Control**: produced in 1962 by New York University, originally shot on film and kinescope.4 half-hour episodes: .<br />
+**Art and Man**: produced in 1964 by Radiodiffusion Television Francaise and NET, originally shot on film and videotape.12 hour-long episodes: *Italy: Two Italian Realist Painters*; *Alsace: The Merging of Two Cultures*; *The Quercy: Romanesque Art in South Central France*; *Germany: The Obsession with Death*; *Amsterdam Travel Diary*; *Mantegna*; *Alexander Calder: Engineer in Space*; *French 19th Century Painters*; *Daniel Henre Kahnweiler*; *Chess Games with Marcel Duchamp*; *A Restless Peru, or The New Inca*; *New York Travel Diary, or A Frenchman Loose in Manhattan*.<br />
+**Art in Living**: produced in 1957 by WUNC, originally shot on kinescope.13 half-hour episodes: *The Art Impulse*; *Communication in Art*; *Symbolism and the Image*; *The Social Aspects of Design*; *Basis of Structure*; *Space: The Basic Element*; *Perspective and Space Systems*; *Space Systems of Oriental Art*; *Space and Composition in Modern Painting*; *Art: Another World*; *Art and Science*; *Art Today*; *Conclusion: Nature the Source of Man's Ideas*.<br />
+**As Fairs Go**: produced in 1964 by WNDT, originally shot on videotape.3 half-hour episodes: *The Time of a Fair*; *Two for the Show*; *Anatomy of a Fair*.<br />
+**Asia in Ferment**: produced in 1956 by Cine-Video Productions, originally shot on videotape.11 half-hour episodes: .<br />
+**Astronomy for You**: produced in 1959 by META, originally shot on kinescope.13 half-hour episodes: *The Small Planets*; *The Giant Planets*; *The Earth in Space*; *The Moon*; *Minor Members of the Solar System*; *The Sun*; *How Time and Distance are Measured*; *Fingerprints of the Stars*; *Star Gazing*; *The Nature of the Stars*; *Nebulae and Clusters*; *Our Milky Way Galaxy*; *Galaxies and the Universe*.<br />
+**At Home with your Child**: produced in 1956 by WQED, originally shot on kinescope.12 half-hour episodes: *Preparing the Home for the Baby*; *The New Baby Comes Home*; *Baby Gets a Bath*; *Making a Formula*; *Mother Takes a Night Out*; *Baby Visits His Doctor*; *Baby Graduates to the High Chair*; *Baby Sits Up and Learns to Crawl*; *Baby's First Steps*; *The Toddler*; *Playmates*; *Getting Johnny Ready for School*.<br />
+**Atomic Energy Commission Films**: produced in 1958 by the Atomic Energy Commission, originally shot on film.14 fifteen to forty-five minute episodes: *A is for Atom*; *Atomic Research*; *Nuclear Reactors for Research*; *Petrified River*; *Production of Uranium Feed Materials*; *Power and Promise*; *Industrial Application of Radioisotopes*; *Living with the Atom*; *Living with Radiation*; *Fire Fighting in the Nuclear Age*; *Gas-Cooled Reactor Equipment*; *The Atom Comes to Town*; *Nuclear Reactors for Space*; *Our Nearest Star*.<br />
+**Atomic Energy Films**: produced in 1962 by the Atomic Energy Commission, originally shot on film.6 ten to thirty minute episodes: *Atoms for Space*; *Atomic Weatherman: Strontium-9 Isotope Applications*; *Basic Principles of Power Reactors*; *Opportunity Unlimited: Friendly Atoms in Industry*; *Roundup*; *The Story of Camp Century: City Under the Ice*;.<br />
+**Atomic Primer**: produced in 1958 by WTTW, originally shot on kinescope.13 half-hour episodes: *In the Beginning*; *The Expanding Atom*; *Einstein Predicts the Bomb*; *The Great Secret*; *The Sun Explodes on Earth*; *From Bomb to Hospital*; *From Bomb to Power Plant*; *From Bomb to Laboratory*; *From Bomb to Farm*; *The Atom and Space*; *From Bomb to Factory*; *The Next Step*; *The Way Ahead*.<br />
+**Basic Issues of Man**: produced in 1963 by WGTV, originally shot on film.12 half-hour episodes: *The Nature of Man*; *Final Thaw*; *Sometimes Harmonius, Sometimes Not*; *Step by Step*; *A Political Animal*; *Public Hearing*; *Composition in Three Parts*; *Pegasus Without Wings*; *Return of Prometheus*; *There Be Dragons*; *The Sentences is Life*; *The Golden City*.<br />
+**Before there was a USA**: produced in 1955 by KETC, originally shot on kinescope.12 half-hour episodes: *How There Happened to Be American History*; *The First Immigrants to America*; *The Spaniards Hit the Jackpot*; *Spain's Rivals Muscle In*; *Englishmen Found an Empire*; *Wooden Shoes on the Hudson*; *From Fish to Furs in the North*; *Padres, Coureurs-de-Bois and Backwoodsmen*; *The Contest for North America*; *How Not to Run an Empire*; *These United Colonies*; *The Legacy of the Colonial Centuries*.<br />
+**Beyond the Earth**: produced in 1963 by the University of Southern California in corportation with KNXT, originally shot on videotape.25 half-hour episodes: *Introduction*; *The Solar System*; *Planetary Motion Through Kepler*; *Applications of Gravitational Theory*; *Planetary Motion Through Newton*; *The Earth’s Revolution and Its Consequences*; *Reflecting and Radio Telescopes*; *Spectroscopes and Spectrum Analysis*; *Radial Velocity*; *The Moon and Its Phases*; *The Moon’s Rotation and Surface Features*; *Lunar Eclipses*; *The Inner Planets*; *Mars*; *The Jovian Planets and Pluto*; *Comets and Meteors*; *The Sun and Its Energy*; *The Solar Surface*; *Stellar Brightness and Distance* ;*How Stars Compare*; *Variable Stars*; *The Structure of the Galaxy*; *The Motion of the Stars*; *Beyond the Galaxy*; *Life in the Universe*.<br />
+**Biblical Masterpieces**: produced in 1961 by KUNC, originally shot on kinescope.13 half-hour episodes: *The Creation Epic*; *The Psalm Narrative*; *The Ode of Deborah*; *The Elisha Cycle*; *The Book of Hosea*; *The Book of Nahum*; *The Book of Obadiah*; *Psalm 139*; *The Song of Songs*; *The Book of Ecclesiastes*; *The Book of Esther*; *The Temptation Story*; *The Letter to Philemon*.<br />
+**Buckskin Bob**: produced in 1956 by KQED, originally shot on kinescope.39 half-hour episodes: *A Lost Son*; *The Lucky Viking*; *They Wouldn't Believe Me*; *A Round World*; *Mutiny at Sea*; *The Mysterious Fountain*; *Coronado*; *Cliff Dwellers*; *Hopi Indians*; *Mystery of Roanoke*; *French Explorer on the Great Lakes*; *The Disappearance of LaSalle's Ship*; *Adventures in Jamestown*; *In the Beginning*; *Ancient Rivals*; *Fishing at Cape Cod*; *The British March*; *City of Brotherly Love*; *A Tea Party*; *Hang a Lantern Aloft*; *The Battle at Monmouth*; *Back Country War*; *March of Science*; *New England Treat*; *A Great First Lady*; *Moving Westward*; *The Battle of New Orleans*; *Visit to a Cotton Plantation*; *Jed Smith*; *Jim Bridger*; *John Sutter*.<br />
+**Casals Master Class**: produced in 1961 by Nathan Kroll, originally shot on 35mm film that was reduced to 16mm film.25 half-hour episodes: *Brahms Sonata No. 1*; *Haydn Concerto in D*; *Bach Suite No. 4*; *Beethoven Sonata No. 3*; *Brahms Sonata No. 1*; *Bach Suites No. 1 and 3*; *Beethoven Sonata No. 5*; *Boccherini Concerto in B*; *Bach Suite No. 1 in G Minor*; *Bach Sonata No. 3*; *Beethoven Sonata No. 2 in G Minor*; *Bach Suite No. 3*; *Saint Saens Concerto No. 1*; *Bach Suite No. 3*; *Bach Suite No. 5 and Beethoven Sonata No. 2*; *Haydn Concerto in D and Boccherini Concerto in A*; *Dvorak Concerto in B*; *Beethoven Sonata No. 4*; *Beethoven Sonata No. 5*; *Boccherini Concerto in B*; *Bach Sonata No. 3 in G Minor*; *Bach Suite No. 3*; *Beethoven Sonata No. 4*; *Bach Sonata No. 2 in D Major*; *Brahms Sonata No. 2*.<br />
+**Challenge**: produced in 1962 by Ross-McElroy, originally shot on videotape.22 half-hour episodes: *Invisible Bullets*; *Working with Radiation*; *Searching for the Ultimate*; *Atomic Furnaces*; *Radiation and Population*; *Time: The Surest Poison*; *The Immune Response*; *Building Blocks of Life*; *The Living Solid*; *Tracing Air-Borne Radioactivity*; *Tracing Living Cells*; *The Art of Separation*; *Foundation for the Future*; *The Alchemist's Dream*; *Harnessing the Rainbow*; *A Chemical Somersault*; *Down on the Farm*; *Testing for Tomorrow*; *The Fuel of the Future*; *Machines that Think*; *Microscope for the Unknown*; *Breeder in the Desert*.<br />
+**Championship Debate**: produced in 1964 by WTTW, originally shot on videotape.7 half-hour episodes: *Quarter-final Round 1: Missouri vs. Minnesota*; *Quarter-final Round 2: South Carolina vs. Northeastern*; *Quarter-final Round 3: Georgetown vs. Harvard*; *Quarter-final Round 4: Redlands vs. US Pacific*; *Semi-final Round 1: Northeastern vs. Minnesota*; *Semi-final Round 2: Georgetown vs. US Pacific*; *Finals*.<br />
+**Changing World**: produced in 1964-1966 by various producers, originally shot on film and videotape.13 hour-long episodes: *Brazil: The Take-off Point*; *The View from Europe*; *China: The 700 Million*; *The Count Down Under*; *Three Faces of Cuba*; *Southeast Asia: The Other War*; *South African Essay, Part 1: Fruit of Fear*; *South African Essay, Part 2: One Nation, Two Nationalisms*; *The Face of Russia*; *Poland: Communism's New Look*; *Tanzania: The Quiet Revolution*; *Venezuela: Last Chance for Democracy*; *The Food Crisis*.<br />
+**Chemical World of Man**: produced in 1968 by KQED and the American Chemical Society, originally shot on videotape.5 half-hour episodes: *The Chemistry of Life*; *Molecules and Medicine*; *A Breath of Fresh Air*; *Water, Water, Everywhere*; *Science, Politics and Money*.<br />
+**Chez Mimi**: produced in 1954 by WKAR, originally shot on videotape.13 fifteen-minute episodes: *Je Vous En Prie*; *A La Maison*; *Au Jardin*.<br />
+**Chicago Festival**: produced in 1970 by WTTE, originally shot on videotape.6 half-hour episodes: *Young Chicago Filmmakers: Tom Palazzolo*; *Kim Martell*; *Red Garter Banjo Band*; *Blues Every Day*; *University of Illinois Jazz Band*; *Nicolas Constantinidis, Pianist*.<br />
+**Child Beyond**: produced in 1957 by the University of Texas, originally shot on film.13 half-hour episodes: *Who is the Exceptional Child*; *Impact of Such a Child on the Family*; *Impact of Family Attitudes Upon the Child*; *Social Adjustment of the Child*; *Seeking Help for the Child*; *The Gifted Child*; *Therapy for the Exceptional Child*; *The Child and the School*; *The Emotionally-disturbed Child*; *Institutionalization*; *Development of Community Resources for Exceptional Children*; *Personnel Recruitment and Training*; *The Child and His Goals*.<br />
+**Children's Corner**: produced in 1958 by WQED, originally shot on kinescope.52 half-hour episodes: *A Fashion Show*; *Doodle and Do*; *It's a Small World*; *The Juggler*; *Arrival of Prince Charming*; *The Poetry Lady*; *Animal Alphabet*; *Grandpere's Dilemma*; *To Have or Not to Have a Contest*; *Doodle 'n Do*; *X Scape's Award*; *Mr. Zoo*; *Presentation of the Opera*.<br />
+**China: The Awakened Giant**: produced in 1966 by WTTW, originally shot on videotape.4-5 ninety-minute episodes: *Alternatives for United States Foreign Policy*; *The Reshaping of Chinese Society*; *Report on Inside China*; *Economy and Foreign Trade*.<br />
+**Choice: Challenge for the Modern Woman**: produced in 1966 by KCET, originally shot on videotape.12 half-hour episodes: *Who Are You?*; *What is a Woman?*; *The Principle that Counts*; *Marriage or Mirage*; *The Family Affair*; *The Unlonely Woman*; *Where Does All the Money Go?*; *Wages of Work*; *The Time of Your Life*; *Who Wants Freedom?*; *Is Personal Growth Selfish?*; *What is the Shape of Tomorrow?*.<br />
+**Circus**: produced in 1964 by NET, originally shot on film.10 half-hour episodes: *The Mud Show*; *Cats and Dogs*; *I Love John Ringling*; *High in the Air*; *Canvas*; *Bulls, Bears and Chimpanzees*; *The Flyers*; *Performers on the Ground*; *Life on the Wire*; *The Star*.<br />
+**College Bound**: produced in 1966 by WGBH, originally shot on film.5 half-hour episodes: *Parents and College*; *Notes, Notes and More Notes*; *Study Hints*; *What's in a Library*; *Examinations*.<br />
+**Command in Battle**: produced in 1960 by BBC, originally shot on kinescope.8 half-hour episodes: *Prologue*; *Battle of Alamein*; *Battle of Mareth*; *Invasion of Sicily and Italy*; *Normandy Campaign*; *The Winter of 1944*; *The Surrender of Luneberg Heath*; *Epilogue: Looking Back*.<br />
+**Community of the Condemned**: produced in 1958 by WTTW, originally shot on videotape.26 half-hour episodes: *Public Myths About Prisons*; *The Prison Population*; *Size of Penal Institutions*; *Prison Inmates' Code*; *The County Jail: Introduction to Crime*; *Prison Riots*; *Maximum vs. Minimum Security in Prisons*; *Prison Idleness*; *Who Runs the Prisons?*; *Prison-wise or Stir Bug?*; *Classification and Segregation in Prisons*; *Spiritual Life in Prison*; *The Professional Criminal*; *Training Schools*; *Women Behind Bars*; *Self Governing Prisons*; *Prisons Without Walls*; *Forgotten Ones: Families of Inmates*; *An Alternative to Imprisonment*; *Going Out of Prison*; *The Ex-con*; *After Jail, What?*; *An Integrated County Correctional System*; *Is Prison Work a Profession?*; *A Comprehensive Prison System*; *Need for Prison Progress*.<br />
+**Auto Mechanics**: produced in 1967 by WENH, originally shot in color.20 half-hour episodes: *Engine Ignition System*; *Automotice Fuel System*; *Engine Cooling System*; *Application and Review*; *Wheel Alignment and Balance*; *Brake System*; *Engine Electric Starting System*; *Engine Lubrication System*; *Automotive Accessories*; *Small Engines*; *Engine Tune Up. Part 1*; *Engine Tune Up. Part 2*; *Generator and Regulator. Part 1*; *Generator and Regulator. Part 2*; *The Alternator*; *Starting Systems*; *The Clutch and Transmission*; *Automatic Transmission*; *Used Car Tips*; *Safety*<br />
+**Cities of the World**: 6 hour-long episodes produced in 1968 by various producers, originally shot in color.<br />
+**City Makers**: 8 half-hour episodes produced in 1969 by WGBH, originally shot in color.<br />
+**Civilization**: 13 hour-long episodes produced in 1970 by BBC, originally shot in color.<br />
+**A Time to Dance**: produced in 1960 by WGBH.9 half-hour episodes: *A Time to Dance*; *Classical Ballet*; *Invention in Dance*; *Choreographer at Work*; *Language of Dance*; *Great Performance in Dance*; *Modern Ballet*; *Ethnic Dance*; *Dance as a Reflection of Our Times*<br />
+**Adventuring in the Hand Arts**: produced in 1958 by NBC-ETRC and the Girl Scouts.10 half-hour episodes: *Hands of Man: Adventuring in Pottery*; *Weaving and Man's Dress*; *Basketry and Adaptability*; *Ornaments and Beauty*; *Masks and Imagination*; *Music and Musical Instruments*; *Dolls, Puppets and Diversion*; *Woodcarving and Artistic Expression*; *Design and Environment*; *Leathercraft and Summing Up*<br />
+**America's Town Meeting of the Air**: produced in 1956 and 1959 by Town Hall Inc.at least 2 episodes: *Labor Today*; *For Our Best Interests: Public or Private Power?*<br />
+**American Memoir**: produced in 1961 by WTTW.12 half-hour episodes: *Culture for the Millions*; *Everybody's Dream House*; *Adland Revisited*; *Best Sellers Since 1900*; *How Historical is History*; *Success Story: The Business Man as Hero*; *Sixty Years of Magazines*; *The Hero in the Twentieth Century*; *The Movies*; *The Automotive American*; *Radio*; *Sixty Years of Satire*<br />
+**American Perspective**: produced in 1960-1961 by KQED.19 half-hour episodes: *Image of Europe*; *The Puritan Abroad*; *Innocents Abroad*; *The International American Girl*; *Portrait of a Lady. Part 1*; *Portrait of a Lady. Part 2*; *Innocence Abroad*; *Tender is the Night*; *Images of America*; *The Capri Letters*; *The Quiet American and the Ugly American*; *The American Hero, from James Fenimore to Gary Cooper*; *The Hero as a Warrior: John Dos Passos*; *The Hero as a Warrior: Ernest Hemingway*; *The Hero as a Warrior: A Farewell to Arms*; *The Hero as a Warrior: Norman Mailer*; *The Hero as a Warrior: John Hornw Burns*; *The Angry Young Man and the Beatnik*; *Conclusion*<br />
+**An Age of Kings**: produced in 1961 by BBC.15 seventy-five  to ninety minute episodes: *The Hollow Crown*; *The Deposing of a King*; *Rebellion from the North*; *The Road to Shrewsbury*; *The New Conspiracy*; *Uneasy Lies the Head*; *Signs of War*; *The Band of Brothers*; *The Red Rose and the White*; *The Fall of a Protector*; *The Rabble from Kent*; *The Morning's War*; *The Sun in Splendor*; *The Dangerous Brother*; *The Boar Hunt*<br />
+**Animals of the Seashore**: produced in 1959 by KCTS.15 half-hour episodes: *The Seashore: Its Features and Inhabitants*; *Animals of the Exposed Rocky Beach*; *Animals of the Exposed Sandy Beach*; *Animals of the Protected Rocky Beach*; *Animals of the Protected Sandy Beach*; *Animals of the Muddy Beach*; *The Molding and Nature of the Shore*; *Animals of Ships, Floats, and Piles*; *Animals in Deep Water*; *Plankton*; *Animal Associates*; *Embryology*; *The Classification of Marine Animals*; *Economic Aspects of the Shore*; *Basic Research in Marine Biology*<br />
+**Arts and Artists: Great Britain**: produced in 1959 by BBC.10 episodes: *Walter Sickert*; *Black on White*; *John Piper*; *The Wallace Collection*; *English Lakes*; *Cookham Village*; *War and Peace*; *The English Country Church*; *Henry Moore*; *Lowry and Butler*<br />
+**Ballets de France**: produced in 1955 by March of Time.26 fifteen-minute episodes: *Sleeping Beauty*; *Night and Day*; *A Country Girl in Paris*; *The Holiday*; *The Beehive*; *Night Music*; *Nymphs of Versailles*; *Dance Madness*; *The Degas Ballerina*; *The Hypochondriac*; *The Little Match Girl*; *The Rehearsal*; *The Swan Song. Part 1*; *The Swan Song. Part 2*; *The Toys*; *The Mysterious Fatima*; *Dream of Love*; *Quartetto*; *The Masquerade*; *The Wedding*; *The Bohemians*; *The Girl and the Minstrel. Part 1*; *The Girl and the Minstrel. Part 2*; *The Bourgeois Gentleman*; *Haydn Ballet. Part 1*; *Haydn Ballet. Part 2*; *<br />
+**Boston Symphony**: produced in 1958 by WGBH.6 episodes: <br />
+**Camera on Washington**: produced in 1958 by NBC and NET.10 half-hour episodes: *The Department of State*; *United States Information Agency*; *Department of Defense*; *National Bureau of Standards*; *National Institutes of Health*; *Treasury Department*; *Civil Aeronautics Administration*; *Department of Agriculture*; *US Weather Bureau*; *The Presidency*<br />
+**Compass Rose**: produced in 1958 by KING.26 fifteen-minute episodes: *Cedar Bough's Bargain*; *Rides Away Tinkling*; *Pueblo Girl*; *The Whale Hunt*; *Flying Squirrel*; *The Coyote and the Horned Toad*; *Little Turtle*; *The Unlucky Fisherman*; *Little Butterfly*; *The Clapping Mountains*; *The Crow and the Whale*; *Otter Tail*; *The Field Mouse*; *Lucio*; *Tattoo*; *Mafatu*; *Piang*; *Terike*; *Maui*; *Ligi*; *Aruta*; *Mirram*; *Woma*; *Walgi*; *The Magic Tree of Melenta*; *The Island of Stone Money*<br />
+**Conservative Viewpoint**: produced in 1970 by WTTW.4 episodes: *Law and Order*; *Foreign Policy*; *Morality and Society*; *Politics*<br />
+**Constitution and Human Rights**: produced in 1958 by WGBH.16 episodes: *The Rights of Men as Men*; *What We Owe Continental Congress*; *The State Constitutions Secure Our Basic Rights*; *The Overseas Background: Colonial Charters*; *Our Debt to Stubborn English*; *Thou Shalt Have the Body in Court: Let it be Right*; *Thou Shalt Have the Body in Court: Parliament Acts*; *Thou Shalt Have the Body in Court: Soldiers and Civilians*; *Thou Shalt Have the Body in Court: Questioning Prisoners*; *Freedom of Debate: Queen Elizabeth and James I Deny it*; *Freedom of Debate: Charles I Tries to Stop it*; *Freedom of Debate: Problems in Congress*; *Should Legislators Find Individuals Guilty and Punish Them?*; *The Right Not to Speak: Englishment Get it Started*; *The Right Not to Speak: Problems Under the Constitution*; *Freedom of Citizens to Travel*<br />
