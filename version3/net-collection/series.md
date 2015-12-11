@@ -538,3 +538,32 @@ Propulsion*; *Problem of Drag*; *Induced Drag*; *Different Aircraft Systems*; *L
 **Your Dollar's Worth**: This series consists of 36 half-hour episodes: *Calorie Counters*; *TV Repairs*; *Shopping for Money*; *Vitamins*; *Used Cars*; *Life Insurance*; *On Face Value*; *Discount and Mail Order*; *The Big Tin Cup*; *Auto Safety*; *Auto Insurance: The Crashing Point*; *Push-button Living*; *Wall Street: Place Your Bets*; *Prescription Drugs*; *Income Tax*; *Auto Repairs*; *What Price Paradise*; *Mr. Luckett*; *Credit Card in American Life*; *April*.<br/>
 **Your Marriage**: produced by KUON in 1962. This series consists of 13 half-hour episodes: *Working at Marriage*; *Resolving Your Marital Deadlocks*; *Woman, Wife, or What?*; *Modern Man's Dilemma*; *But We're Different*; *Accommodate or Assimilate*; *We Can't Communicate*; *Bridging Romance and Routine*; *Communion of Mind and Body*; *Moods in Marriage*; *Sensible Management*; *Meeting the Bumps*; *A Couples Community*.<br/>
 **Youth Forum**: This series consists of 2 episodes: *Why Underwater Research? Part 1 and 2*.<br/>
+Political Parties *see* **American Political Parties**
+Politics in Perspective *see* **American Politics**
+World's Fair in America *see* **As Fairs Go**
+NET At Issue *see* **At Issue**
+Open Shelf Room *see* **Books and Ideas**
+NET Children at the UN *see* **Children at the UN**
+NET Circus *see* **Circus**
+The Arab World *see* **Crossroads of the World**
+Decision *see* **Decision: The Constitution in Action**
+Brogan on America *see* **Denis W. Brogan on America**
+NET Dialogue *see* **Dialogues: Roles of Man**
+Electronics at Work *see* **Electricity at Work**
+IGY *see* **International Geophysical Year**
+NET Jazz Alley *see* **Jazz Alley**
+NET Legacy *see* **Legacy**
+Mexicana *see* **Mexicania**
+Agricultural Policy *see* **National Agricultural Policy**
+Apollo *see* **NET Apollo**
+Festival *see* **NET Festival**
+NET Presents: US Symphonies  *see* **NET Symphony**
+US Symphonies *see* **NET Symphony**
+Passing Notes *see* **Passing Notes on Music**
+Public Broadcasting Laboratory *see* **PBL**
+Psychology (Elementary) *see* **Psychology One**
+Five Revolutionary Painters *see* **Sir Kenneth Clark on Art**
+Landscape into Art *see* **Sir Kenneth Clark on Art**
+Elements of Earth *see* **The Elements**
+Opposition Theatre *see* **USA Opposition Theatre**
+Sources of American Art Today *see* **American Art Today**
