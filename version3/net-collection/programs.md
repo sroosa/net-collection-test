@@ -1,786 +1,1791 @@
 #The NET Collection
 
-## Individual Programs
-**15th National Debate Tournament at West Point**: 30 minute program</br>
-**1967 Carnegie Commission Report: Public Television: A Program for Action**: 90 minute program, produced in 1967 by NET</br>
-**Aaron Copland Meets the Soviet Composers**: 30 minute program, produced in 1959 by WGBH</br>
-**Abbey of the English**</br>
-**ABM Hearings**: 60 minute program, produced in 1969 by NET</br>
-**The ABM Question**: 1 hour program, produced in 1969 by NET</br>
-**The ABM Vote**</br>
-**About Peter Grimes**: 30 minute program</br>
-**Accent on Music**</br>
-**Actor's Choice: John Donne**: 30 minute program</br>
-**Actor's Choice: Walt Whitman**</br>
-**Adieu de Gaulle**: 1 hour program, produced in 1969 by NET</br>
-**Advanced Science: Challenge of the 60s**</br>
-**Adventures in Learning**: 30 minute program, produced in 1967 by Encyclopedia Britannica</br>
-**AEC Report: Man and the Atom**: 1 hour program, produced in 1964 by Harold Meyer Productions, Inc.</br>
-**Africa, My Africa**: 1 hour program, produced in 1964 by Canadian Broadcasting Corporation</br>
-**Africa's Twilight Kingdom**: 30 minute program, produced in 1959</br>
-**African Revolutionary**: 30 minute program, produced in 1966 by BBC</br>
-**Age of Dissent: Young Men with Opinions**: 1 hour program, produced in 1961 by National Film Board of Canada</br>
-**Agriculture in an Uneasy World**: 30 minute program, produced in 1961 by WMSB-TV</br>
-**Agriculture: The Need is Now**: 1 hour program, produced in 1961 by KUON</br>
-**Ah, Beh, Veh of Russian**</br>
-**AIP Conference**</br>
-**Alaska, 1961: Giant Bears Go Fishing**</br>
-**Alfond Martin**</br>
-**Alicia Alonzo**: 1 hour program</br>
-**Alvin Ailey: Memories and Visions**</br>
-**American Ballet Theatre**</br>
-**American Christmas**: 1 hour program</br>
-**The American Image**: 1 hour program, produced in 1968 by NET</br>
-**American Indian**: 1 hour program</br>
-**An American Journey**: 1 hour program, produced in 1972 by WNET</br>
-**The American Assembly**: 1 hour program, produced in 1963 by WNDT</br>
-**American University**</br>
-**American Values**</br>
-**American Voter**</br>
-**Americans from Hungaria**</br>
-**Amsterdam Concertgebouw Orchestra**: 1 hour program, produced in 1967 by International Television Corporation</br>
-**Anatomy of Violets**</br>
-**And All That Jazz**: 30 minute program, produced in 1964 by KRMA</br>
-**And No Bells Ring**: 1 hour program, produced by Ford Foundation</br>
-**And There Was Light**: 30 minute program</br>
-**Andersonville Interview**: 30 minute program</br>
-**Angotee: A Day in June**</br>
-**Any Resemblances**: 1 hour program, produced in 1970 by Tom McDonough Films, Inc.</br>
-**Appalachian Spring**: 1 hour program, produced in 1960 by WQED</br>
-**Arab Summer**</br>
-**Art in Seattle**: 1 hour program</br>
-**Arthur Penn: An American Identity**: 90 minute program</br>
-**Arthur Penn: Themes and Variants**</br>
-**Arthur Rubinstein**: 1 hour program, produced in 1969 by BBC</br>
-**Arts and the School**: 30 minute program</br>
-**Asking for Trouble**: 30 minute program, produced in 1967 by British Broadcasting Corporation</br>
-**Assessement of Cambodia**: 30 minute program, produced in 1970 by NET</br>
-**Atomic Energy**: 30 minute program</br>
-**Atoms for Peace**</br>
-**Atoms for Power**: 30 minute program, produced in 1958 by META</br>
-**Attica: The Official Report of the New York State Special Commission**: 2 hour, plus a 30 minute spinoff program, produced in 1972</br>
-**Aviation Weather**</br>
-**Ayub Khan's Pakistan**</br>
-**Bach and His Sons: Overwhelming Legacy**: 1 hour program, produced in 1966 by WNDT</br>
-**Bach Mass in B Minor**: 1 hour program</br>
-**Back Stage**: 30 minute program</br>
-**Background to Berlin**: 30 minute program, produced in 1967 by North Atlantic Treaty Organization</br>
-**Background to Latin America**: 1 hour program, produced in 1965 by National Film Board of Canada</br>
-**Baghdad by the Bay**: 90 minute program, produced in 1961</br>
-**The Ballad of Smedley the Smoker**</br>
-**Ballet Mit Balanchine**</br>
-**Ballet, Child of Dance**</br>
-**Bandolero**</br>
-**Bartok: A Portrait**: 1 hour program, produced in 1963 by KQED/National Educational Television</br>
-**Basic Russian Language: TV Schooltime**: 1 hour program, produced by META</br>
-**Battle of Belfast**: 30 minute program, produced in 1969 by National Educational Television</br>
-**Battle Over the Migrant**: 30 minute program, produced in 1965</br>
-**Beethoven Archduke Trio**: 75 minute program</br>
-**Beethoven Personality**: 40 minute program, produced in 1970 by WGBH</br>
-**Beethoven's Fifth Symphony**: 1 hour program</br>
-**Beethoven's Seventh Symphony**: 1 hour program</br>
-**Before Saturn**: 15 minute program, produced in 1963 by NASA</br>
-**Benny in Brussels**: 1 hour program, produced in 1959 by Westinghouse Broadcasting Company, Inc.</br>
-**Berkeley: People's Park War**: 1 hour program, produced in 1969 by KQED</br>
-**Bernstein in London**: 1 hour program, produced in 1972 by WNET</br>
-**Berstein and the Vienna Philharmonic**: 2 hour program</br>
-**Biafra**: 1 hour program</br>
-**The Birds**</br>
-**Biology Plus**</br>
-**Birth of a University**: 25 minute program, produced in 1967 by KOGO</br>
-**Black and White Together**: 1 hour program, produced in 1969 by NET</br>
-**Black Campus and Death in the Morning**: 30 minute each program, produced in 1966 by British Broadcasting Corporation</br>
-**Black Coal, Red Power**: 90 minute program, produced in 1972 by WNET</br>
-**Black Composers**: 90 minute program, produced in 1972 by WNET</br>
-**Black Marries White**: 30 minute program, produced in 1964 by Rediffusion Television, Ltd.</br>
-**Black Radicalism**</br>
-**The Boer War**: 45 minute program, produced in 1963 by Granada</br>
-**Bolt Current Resistance**</br>
-**Born Chinese**: 1 hour program, produced in 1965 by British Broadcasting Corporation</br>
-**Boston Pops I**: 135 minute program, produced in 1961 by WGBH</br>
-**Boston Pops II**: 90 minute program, produced in 1967 by WGBH</br>
-**Boston Symphony Orchestra II**</br>
-**Boulez: A Portrait in Three Movements**: 90 minute program, produced in 1971 by Educational Broadcasting Corporation</br>
-**A Boy and His Horse**</br>
-**The Boy and the Turtle**: 1 hour program, produced in 1970 by KLRN</br>
-**Bridge on the Jordan**: 1 hour program, produced in 1967 by NET and the UN</br>
-**British Public School**: 53 minute program, produced in 1962 by Associated Television of Great Britain</br>
-**Broadcasting: A Candid Apraisal**: 1 hour program, produced in 1961 by WHYY-TV</br>
-**Brother Buzz**</br>
-**The Brave Little Tailor and Other Stories**: 1 hour program, produced in 1970 by NET</br>
-**Bryan Beavers: A Moving Portrait**</br>
-**Building the Bomb**: 1 hour program, produced in 1965 by BBC</br>
-**Bullets vs. Cleveland**</br>
-**But Names Will Never Hurt Me**</br>
-**Cable Revolution: Tomorrow's Pattern of Communication**</br>
-**California Chamber Symphony Orchestra**: 1 hour program, produced in 1965 by KCET</br>
-**Cambodia: Progress Report**: 1 hour program, produced in 1970 by NET</br>
-**Campus Crossroads**: 30 minute program, produced in 1962 by Yale University</br>
-**Canadian-Russian Hockey**: 150 minute program</br>
-**Cancer: A Case for Treatment**</br>
-**Carmen**</br>
-**Carmina Burana**: 1 hour program, produced in 1964</br>
-**Case Studies in Practical Politics**: produced in 1958 by WQED</br>
-**Casino Society**</br>
-**Ceremony of Innocence**: 90 minute program, produced in 1970</br>
-**Challenge of Change: Case for Counseling**: 30 minute program, produced in 1962 by Louis de Rochemont</br>
-**Changing UN**: 30 minute program</br>
-**Che Guevara: End of Revolution?**</br>
-**Chicago Jazz**: 30 minute program, produced in 1968 by WTTW</br>
-**Chicago: Native View**: 30 minute program</br>
-**Chief of State: Archbishop Makarios**: 1 hour program, produced in 1963 by NET</br>
-**Chief of State: Mohammad Ayub Khan**: 1 hour program, produced in 1963 by NET</br>
-**A Child's Christmas in Wales**: 30 minute program, produced in 1963 by Marvin Lichtner and Margin Productions Ltd.</br>
-**Child's Diary**</br>
-**Children of the World**: 1 hour program, produced in 1971 by European Broadcasting Union</br>
-**Children's Puppet Special**</br>
-**China and the US: The Next Decade**: 1 hour program, produced in 1969 by NET</br>
-**Chinese Art**: 1 hour program</br>
-**Chinese in the Far East**</br>
-**Chou En-Lai**: 90 minute program, produced in 1960 by WGBH</br>
-**Christmas in New England**: 30 minute program, produced in 1958 by WGBH</br>
-**Christmas in the Marketplace**</br>
-**The Christmas Painting**: 30 minute program, produced in 1958 by Greensboro Studio of WUNC</br>
-**The Cities: A Question of Survival**: 1 hour program, produced in 1971 by EBC - NET Division, Educational Broadcasting Corporation</br>
-**Citizen Diplomacy**: 30 minute program</br>
-**City at Night: Mathematica**: 45 minute program, produced by KTLA</br>
-**Civil Rights Summer '66**: 1 hour program, produced in 1966 by NET</br>
-**Civil Rights: What Next?**: 1 hour program, produced in 1968</br>
-**Civil Rights: What Now**</br>
-**Civil War Roundtable**: 1 hour program, produced in 1960</br>
-**Cliff's Sore Foot**</br>
-**Close Up of Jean Cocteau**: 30 minute program, produced in 1963 by RTF</br>
-**Close Up on Germany**</br>
-**Colette: My Mother's House**: 90 minute program, produced in 1972 by EBC</br>
-**Colloquy**: 30 minute program</br>
-**Color by Design/Color and Brightness**: 15 minute program, produced in 1967 by CBS</br>
-**Color Her Sunshine**</br>
-**Comden and Green**</br>
-**Come Blow Your Horn**: 30 minute program, produced in 1968 by Jefferson</br>
-**The Coming Space Age**: 1 hour program, produced in 1958 by KRMA</br>
-**Communication System**</br>
-**Comparisons: Courtship**: 1 hour program, produced by NFB</br>
-**Comparisons: Four Teachers**: 1 hour program, produced by NFB</br>
-**Concert of the Nations**: 90 minute program, produced in 1965 by German Television Station, Second Program, Zweites Deutsches Fernsehen, Mainz</br>
-**Concerto Baroque and Apollo**: 30 minute program</br>
-**Conference on Education**</br>
-**Conference on World Tensions**: 1 hour each program, produced in 1961 by WTTW</br>
-**Confronted**: 60 minute program, produced in 1963 by WGBH</br>
-**Congress 1967**: 90 minute program</br>
-**Congressional Clinic**: 30 minute program, produced in 1959 by Potomac Films</br>
-**Congressional Clinic II**: 30 minute program</br>
-**Consumer Information Pilot**: 30 minute program, produced in 1963</br>
-**Conversation with Dean Rusk**: 1 hour program, produced in 1967 by NET</br>
-**Conversation with Earl Warren**: 1 hour program, produced in 1969 by McClatchy Broadcasting Co.</br>
-**Conversation with George London and Marcia Davenport**: 30 minute program, produced in 1970 by NET</br>
-**Conversation with Ingrid Bergman**: 1 hour program, produced in 1967 by NET and KCET</br>
-**Conversation with James Reston**: 1 hour program, produced in 1966 by NET</br>
-**Conversation with Milovan Djilas**: 1 hour program, produced in 1968 by NET</br>
-**Conversation with Muhammad Ali**: 30 minute program, produced in 1968 by WGBH</br>
-**Conversation with President Kennedy's Biographer**: 30 minute program, produced in 1963 by NET</br>
-**Conversation with Saul Alinsky**: 1 hour program, produced in 1965 by WTTW</br>
-**Conversation with Sir Laurence Olivier**: 1 hour program, produced in 1967 by WGBH</br>
-**Count Ory**: 100 minute program, produced in 1962 by Radio-Televisione Italiana (RAI)</br>
-**The Count Down: A Study of World Disarmament**: 30 minute program, produced in 1958 by UN-TV</br>
-**Countdown: NORAD**: 95 minute program, produced in 1962 by WRKB</br>
-**Courts, Warts, and All**: 30 minute program, produced in 1970 by KCET</br>
-**Crime and Punishment**: 2 hour program, produced in 1966 by Rediffusion Television, London</br>
-**Crime and the Urban Crisis**: 1 hour program, produced in 1969 by KQED</br>
-**Crisis in the Skies**</br>
-**Crisis of the American Newspaper**: 1 hour program, produced in 1965 by NET</br>
-**Crisis on Campus**: 1 hour each program, produced in 1970 by NET</br>
-**Cuba Today**: 1 hour program, produced in 1967 by NET</br>
-**Cuban Revolution**</br>
-**Dallas Symphony**: 1 hour program</br>
-**Danby Stream**</br>
-**Dance Concert**</br>
-**Dancer's World**: 30 minute program, produced in 1958 by WQED</br>
-**Dandelion**: produced in 1970 by NET Division, EBC</br>
-**Danger Frontier: The Other Port**: 1 hour, and re-edited to 30 minute program, produced by Telepool-Munich</br>
-**Dante's Inferno**: 90 minute program</br>
-**Dateline: Eastern Europe**: 1hour program, produced in 1969 by NET</br>
-**Dateline: Southeast Asia**: 1 hour program, produced in 1969 by NET</br>
-**David Ben-Gurion**: produced in 1960 by WGBH</br>
-**Dean Rusk**</br>
-**Dean Rusk: Senate Foreign Relations Hearings**: produced in 1968 by NET</br>
-**Dear Liar**: 90 minute program, produced in 1965 by WGBH</br>
-**Debate: Baldwin vs. Buckley**: 1 hour program, produced in 1965 by BBC</br>
-**Decade of Living with Russia**</br>
-**Demonstrations: Exploring the University and Ragtime Era**</br>
-**Demonstrations: The Playwright and Main Street**</br>
-**Devil in the Backlands**: 1 hour, originally 90 minute program, produced in 1965 by Adrian Cowell</br>
-**Dialogue on Red China**: 1 hour program, produced in 1964 by NET</br>
-**Dialogue with Malcolm Boyd**: 1 hour program</br>
-**Dialogue: Martin Buber and Israel**</br>
-**Dick Gregroy is Alive and Well**: 1 hour program, produced in 1970 by NET</br>
-**Dies Irae**</br>
-**The Discontented**</br>
-**The Discounters**</br>
-**A Discussion with J. Reston**</br>
-**The Dispersed**: 1 hour program, produced in 1964 by Television Reporters International</br>
-**Divided We Stand**: 1 hour program</br>
-**Do You Know the Milky Way?**: 90 minute program</br>
-**Do You Wanna Hear Some Ragtime?**: 1 hour program, produced in 1970 by WHYY</br>
-**Doctors of Hope**: 1 hour program, produced in 1961 by WOSU-TV and NET present</br>
-**The Dollar: Poor Apology**</br>
-**Don Carlos**: 180 minute program, produced by Bavaria Atelier</br>
-**Don Pasquale**: 1 hour program, produced by KRMA-TV</br>
-**Don't Shoot the Composer**</br>
-**Done**</br>
-**Downeast Smile-In**: 30 minute program, produced in 1970 by Maine ETV Network</br>
-**Dr. John H. Knowles: A Case of Politics**: 30 minute program, produced in 1969 by NET</br>
-**Dr. Stanton's Speech**: 18 minute program</br>
-**The Dream Still Lives**: 1 hour program</br>
-**Drugs are Like That**</br>
-**Dubliners**: 30 minute program, produced in 1963 by Associated Rediffusion, Ltd., London, England</br>
-**DuBridge Goes to Washington**: 30 minute program, produced in 1969 by KCET</br>
-**Dwight David Eisenhower**: 1 hour program, produced by NET</br>
-**Earth Day**: 6 hour and 30 minute program, produced in 1970 by NET</br>
-**Eastman Theatre Gala**</br>
-**The Ecumenical Century**: 1 hour program, produced by Time-Life Broadcast, Inc.</br>
-**Ed and Frank**: 34 minute program, produced in 1962 by BBC and NET</br>
-**Educational Television 1959**: 15 minute program, produced in 1959</br>
-**Edward Weeks**: produced in 1960</br>
-**Einstein**: 1 hour program, produced in 1966 by BBC</br>
-**Einstein: Story of the Man**</br>
-**Eisenhower vs. Khrushchev: The Issues**: 30 minute program, produced in 1959</br>
-**Eleanor Roosevelt**: 10 minute program, produced in 1960 by USIA</br>
-**Election in Britain**: 30 minute program, produced by Rediffusion Television Ltd. - England</br>
-**Election Specials**: produced in 1970</br>
-**Elections '70. Part 1: Mandate for Tomorrow**</br>
-**Elections '70. Part 2**</br>
-**Elementary Russian**: 30 minute program</br>
-**Elizabeth R**: 90 minute program, produced by BBC</br>
-**The Emperor with Grant Johannesen**: 1 hour program</br>
-**End of a Revolution**: 1 hour program, produced in 1968 by NET</br>
-**Enemies**: 2 hour program</br>
-**Environmental Theatre: Elia Kazan**</br>
-**Environmental Theatre: Mr. Silver**</br>
-**Ernest Ansermet**: 30 minute program, produced in 1968 by Swiss Television</br>
-**An Essay on Death: A Memorial to John F. Kennedy**: 1 hour program, produced in 1964 by NET</br>
-**The Essential Nehru**: 1 hour program, produced in 1964 by Arnold Michaelis</br>
-**Europa**: 10 minute program, produced by Pelican Films Inc.</br>
-**Ever on Sunday: Children's Jazz Festival**</br>
-**Every 7th Child**: 1 hour program</br>
-**The Expanding City**</br>
-**Experiment in Freedom**</br>
-**The Exploding Culture**: 30  minute program, produced by WQED</br>
-**Explorations Decemeber 24, 1954**</br>
-**Face of the World**: 30 minute program, produced in 1962 by Lewis Jacobs Productions</br>
-**Face to Face: Albert Finney**</br>
-**The Fall and Rise of the House of Krupp**: 30 minute program, produced in 1965 by Incorporated Television Company Ltd.</br>
-**Family Finance**: 30 minute program, produced in 1964 by Visions Associates</br>
-**Fashion**</br>
-**Father and Son**</br>
-**The Far Right in Southern California**: produced in 1964</br>
-**Faure Requiem**</br>
-**Federal Aid to Education Special**: 30 minute program, produced by WFIL (acquisition)</br>
-**The Federal Government and NET**</br>
-**Fiddle and Faddle**</br>
-**The Fifty First State: Harlem Schools**</br>
-**The Films of George Melies**: 1 hour program, produced in 1964 by KQED</br>
-**Fine Arts Quartet with J. P. Rampal**</br>
-**The First Priority**: 30 minute program, produced in 1961 by UN-TV</br>
-**Fisk Jubilee Singers**</br>
-**Five College Presidents: An Exchange of Views**: 1 hour program, produced in 1965 by WNDT</br>
-**Florence: Days of Destruction**: 1 hour program, produced in 1966 by Radiotelevisione Italiana</br>
-**For Those Who Stay**: 24 minute program, produced in 1964 by Woodrow Wilson School of Public and International Affairs, Princeton University</br>
-**The Forgotten War**: 1 hour program</br>
-**Formosa and Chiang Kai-shek's Dream**: 1 hour program, produced in 1965 by ZDF - Germany</br>
-**Four Billion Puppets - Count 'em!**: 1 hour program, produced in 1970 by NET</br>
-**Four Families**: 1 hour program, produced in 1961 by National Film Board of Canada</br>
-**Four Religions**: 1 hour program, produced in 1961 by National Film Board of Canada</br>
-**The Fourth R**: 30 minute program, produced in 1962 by WSBT-TV, South Bend, IN</br>
-**France**</br>
-**Free Time**</br>
-**Freeway**</br>
-**French Eyes on the Future**: 1 hour program, produced in 1966 by British Broadcasting Corporation</br>
-**Friends and Love**: 1 hour program</br>
-**From Bach to Rock**: 30 minute program</br>
-**From Sea to Shining Sea**: 30 minute program</br>
-**From the Mind of Man: Common Manifesto**</br>
-**The Future of the Liberal Arts College**: 1 hour program, produced in 1967 by NET</br>
-**G.I. Joe**: 30 minute program, produced in 1966 by Studio Hamburg, West Germany</br>
-**General Douglas MacArthur Obituary**</br>
-**General George C. Marshall Obituary**: 90 minute program, produced in 1959 by United States Information Agency</br>
-**Girard Trust**</br>
-**Girl in Danger: Afraid of School**</br>
-**Giselle**</br>
-**Glacier Legacy**</br>
-**Glenn Gould: Off the Record**: 30 minute program, produced in 1962 by National Film Board of Canada</br>
-**Glenn Gould: On the Record**: 30 minute program, produced by National Film Board of Canada</br>
-**God in Japan**</br>
-**The Golden Gate**: 10 minute program</br>
-**The Golden Ring**: 90 minute program, produced in 1967 by BBC and Austrian Television Service</br>
-**The Good Guys**</br>
-**Good Housing in Good Neighborhoods**: 30 minute program, produced in 1960 by WQED</br>
-**Good Things Happen over Coffee**: 30 minute program</br>
-**Goodbye, City Hall**: 1 hour program, produced in 1969 by NET's special projects unit</br>
-**The Gospel According to Peanuts**: 30 minute program, produced in 1966 by KPIX-TV, San Francisco</br>
-**Governor's Collin's Address: Man's Responsibility to Man**: 15 minute program</br>
-**Grassroots**: 35 minute program, produced in 1961 by BBC and NET</br>
-**Great American Dream: Three Views**</br>
-**The Great Rivals**: 1 hour program, produced in 1964 by NET</br>
-**Groove Tube**: 1 hour program</br>
-**Growing Up Together**</br>
-**The Ham's Wide World**: 30 minute program, produced in 1970 by The American Radio Relay League</br>
-**A Hand Up**: 30 minute program, produced by World Neighbors</br>
-**Hands that Made America**: 25 minute program, produced in 1958 by Life Magazine</br>
-**Harold Urey: The Man and the Moon**: 1 hour program, produced in 1969 by KEBS, San Diego</br>
-**Haydn Workshop**: 1 hour program</br>
-**Heartmakers: Life Insurance**: 1 hour program, produced in 1969 by NET</br>
-**Her Majesty, Queen Elizabeth Christmas Message to the Commonwealth**: 25 minute program</br>
-**Herbert Hoover Obituary**: 10 minute program, produced in 1960</br>
-**Hidden Frontiers**</br>
-**Higher Education in the USSR**: 30 minute program, produced in 1959 by University of Pittsburgh</br>
-**Higher Place of the Mind: Return to Cambridge**</br>
-**History of Herbology**</br>
-**History of Mourning Dove**</br>
-**Homefront 1971: The President, the Press, and the Public**: 1 hour program</br>
-**Hong Kong**: 30 minute program, produced in 1966 by Studio Hamburg</br>
-**How a Commercial Artist Works**: 15 minute program</br>
-**How Mass Media Affects Children**: 1 hour program, produced in 1970</br>
-**Human Environment and World Order**: 1 hour program, produced in 1970 by KLRN</br>
-**Human Rights Day Concert**: produced in 1968 by NET</br>
-**Hunger in Chicago: To Save the Hungry**</br>
-**Hunger: A National Disgrace. Part 1**: 1 hour program, produced in 1969 by NET</br>
-**Hunger: A National Disgrace. Part 1**: 1 hour program, produced in 1969 by NET</br>
-**I, the Aboriginal**: 1 hour program, produced in 1964 by Australian Broadcasting Commission</br>
-**Identity**: 1 hour each program, produced in 1968 by Rensselaer Polytechnic Institute</br>
-**The Imperfect Society**</br>
-**In Color, In Color**: 30 minute program</br>
-**In Fashion**: 30 minute program, produced in 1968 by NET</br>
-**In My Memory**</br>
-**In Pursuit of Happiness**: 1 hour program, produced in 1959 by Adult Education Association of USA</br>
-**In Search of Hart Crane**</br>
-**In the National Interest**</br>
-**Independent Mr. Jefferson**: 30 minute program, produced by State University of Iowa</br>
-**The Independent Society**</br>
-**The Individual and the Universe**: 50 minute program, produced in 1961 by BBC</br>
-**Inflation**</br>
-**The Influential Americans**: 1 hour program, produced in 1960 by CBS</br>
-**Inheritance**: 30 minute program, produced in 1964 by Mithras Films Ltd, London</br>
-**The Inland Sea**</br>
-**The Innocents**: 1 hour program, produced in 1961 by WGBH</br>
-**Inside China**: 1 hour program, produced in 1965 by Telepool - Munich</br>
-**International Indian Ocean Expedition**: 30 minute program, produced in 1967 by Screen Presentations, Inc.</br>
-**Introducing Roy Buchanan**: 90 minute program, produced in 1971 by NET Division, Educational Broadcasting Corporation</br>
-**The Intruders**: 30 minute program, produced in 1964 by Highroad Productions - Denis Mitchell</br>
-**The Iron Horse**</br>
-**Irregular Verb to Love**: 100 minute program, produced in 1965 by Majestic Productions</br>
-**Island of Fronzen Sea**</br>
-**Isolation: Two Views**: 90 minute program, produced in 1971 by WMPB</br>
-**Israel Philharmonic Orchestra with Leonard Bernstein**</br>
-**Israel's Frontier**</br>
-**The Issue is Foreign Aid**: 1 hour program, produced in 1958 by William Resnick</br>
-**Jack Beeson**</br>
-**James Buswell at Castle Hill**: 1 hour program</br>
-**Jazz a la Montreaux**</br>
-**Jazz at the Overseas Press Club**</br>
-**JFK: His Last Trip Abroad**: 1 hour program, produced in 1964 by German TV</br>
-**JFK: His Place in History**: 30 minute program</br>
-**Joe**</br>
-**John F. White**</br>
-**John Foster Dulles: Obituary**</br>
-**John Glenn Story**: 30 minute program, produced by NASA</br>
-**Journey of the Fifth Horse**: 135 minute program, produced in 1969 by NET</br>
-**June Moon**: 90 minute program</br>
-**Just Jazz**</br>
-**Kennedy**: 30 minute program, produced by WTTW</br>
-**Kennedy International Awards**: 1 hour program, produced in 1966 by WGBH</br>
-**King Lear**: 2 hour program</br>
-**Knowledge and Ideas**</br>
-**Kremlinology**: 1 hour program, produced in 1963</br>
-**Kress Collection**</br>
-**L'ajo nell'imbaraazo**</br>
-**L'Aventura**: 145 minute program, produced in 1966 by NET</br>
-**La Finta Giardiniera**: 2 hour program, produced by WGBH</br>
-**La Rodine**: 90 minute program</br>
-**La Serva Padrona**: 65 minute program, produced in 1963 by CLI</br>
-**La Terna Magica**</br>
-**Land Grant Murals**: 15 minute program, produced by Penn State</br>
-**The Land That Waited**: 1 hour program</br>
-**Landmarks for Liberty**</br>
-**Language of Birds**</br>
-**The Language of Gesture**</br>
-**Law and Order**</br>
-**Lay My Burden Down**: 1 hour program, produced in 1966 by NET</br>
-**LBJ: An Uposed Profile**: produced in 1964 by NET</br>
-**Learn Russian**: 30 minute program, produced by KQED</br>
-**Leonard Bernstein and the London Philharmonic**: 3 hour program</br>
-**Less Than President**</br>
-**Let Them Learn**</br>
-**Let's Figure It**</br>
-**Let's Talk**</br>
-**Life and Times of Bertrand Russell**: 1 hour program, produced in 1965 by BBC</br>
-**Life and Times of Leopold Stokowski**: 1 hour program</br>
-**Life and Times of Marshall Tito**: 1 hour program, produced in 1964 by BBC</br>
-**Life of Adolf Hitler**</br>
-**Life with Radiation**: 30 minute program, produced in 1961 by WQED</br>
-**Life, Death, Japanese Music**</br>
-**Lincoln Center Ground Breaking Ceremony**: 1 hour program</br>
-**Lincoln Center Stage Five: Ballets of the Five Senses**: 1 hour program</br>
-**Lincoln Center: A Legend in Born**: 30 minute program</br>
-**Lincoln Day Concert**: 2 hour program, produced in 1969 by NET</br>
-**Local Issue: Enough to Live on**</br>
-**Lorin Hollander: Up Against the Wall**</br>
-**Lorraine Hansberry: To Be Young, Gifted and Black**</br>
-**Los Pastores**: 30 minute program, produced in 1962 by KUHT</br>
-**Louisiana Diary**: 60 minute program, produced in 1964 by KQED</br>
-**Lower Depths**: 130 minute program, produced by BBC</br>
-**Magic Lantern Christmas**: 30 minute program, produced in 1961 by KRMA</br>
-**Main Street: Lansing**</br>
-**Majesty in Mantua**</br>
-**A Man Alone: Charles de Gaulle**: 1 hour program, produced in 1965 by CBC</br>
-**Man at the Met**</br>
-**The Man From Independence: Harry S. Truman Obituary**</br>
-**Man Meets Duck**</br>
-**Man Toward the Light**: 15 minute program</br>
-**The Man Who Sprang G. Blake**</br>
-**Manitas at the Bull Ring**: 30 minute program</br>
-**Marcel Marceau on Mime**: 30 minute program, produced by WGBH</br>
-**March 4, 1933**: 90 minute program, produced by WNDT</br>
-**Margaret Mead: New Lives for Old**: 90 minute program</br>
-**The Marriage of Charles the Bold**: 1 hour program, produced by Radio-TV-Belge</br>
-**The Marshes of Two Streets**</br>
-**Martha Graham: Night Journey**: 1 hour program, produced in 1967</br>
-**Mastery of Space**: 1 hour program, produced by NASA</br>
-**Mata Hari**: 1 hour program, produced in 1966 by BBC</br>
-**Mathematics Through Discovery**: produced by NET</br>
-**Mathematics: Infinity**: produced in 1958 by NBC</br>
-**Mathematics: Unending Search for Excellence**: 30 minute program, produced by DHEW</br>
-**A Matter of Protection**: 30 minute program, produced by deRochhmont</br>
-**A Matter of Survival**: 1 hour program, produced in 1970 by NET</br>
-**Maureen Forrester**: 1 hour program, produced in 1966 by NET</br>
-**Maybe Tomorrow**</br>
-**Medicine at the Crossroads**</br>
-**Medicine Men of Africa**</br>
-**Meeting of Minds: New Perspectives in Education**</br>
-**Melina Mercouri**: 1 hour program</br>
-**Melting of Molly**</br>
-**Men Against Cancer**</br>
-**Men in Orbit**: 1 hour program, produced in 1959 by KUHT</br>
-**Messenger from Violet Drive**: 30 minute program, produced in 1964 by KQED</br>
-**Mid Channel**: 75 minute program, produced in 1967 by Granada</br>
-**Middle East: Search for a Solution**: 1 hour program, produced in 1969 by NET</br>
-**Middle East: UN Disaster**: 30 minute program, produced in 1958 by WGBH</br>
-**The Mighty Warrior**</br>
-**Migrant Labor**: 30 minute program</br>
-**Migrant Workers**</br>
-**Mike Makes His Mark**</br>
-**Mind of Man**: 2 hour program</br>
-**Minority Candidates: Where They Stand**: 1 hour program, produced in 1968 by KQED</br>
-**A Mission of Discovery**: 30 minute program</br>
-**Moment of Impact**: produced in 1966</br>
-**Monument: Three Epitaphs**</br>
-**Moor's Payene**</br>
-**Morning Incident**</br>
-**Moscow Story**: 1 hour program, produced in 1963 by Australian TV</br>
-**Mountain**</br>
-**Moving On**</br>
-**Mozart's Requiem**: 90 minute program</br>
-**Mr. Agnew and the News**: 1 hour program</br>
-**Mr. Broadway**</br>
-**Mr. Germany**: 30 minute program</br>
-**Mrs. Eleanor Roosevelt: Obituary**</br>
-**Muppets on Puppets**: 1 hour program</br>
-**Music Machine**</br>
-**Music Makers of Blue Ridge**: produced in 1966 by NET</br>
-**Music Men: A Look at Barber Shopping**: 30 minute program</br>
-**The Music of Harry Partch**: 30 minute program</br>
-**Music on the River**: 1 hour program, produced in 1962 by Kroll</br>
-**Must I, May I**</br>
-**Mystic Hunter**: 30 minute program</br>
-**Nancy Hanks**: 30 minute program</br>
-**Nation 110: Uganda**: 30 minute program, produced in 1963 by BBC</br>
-**National Music Camp**</br>
-**Navajo: White Arrow**</br>
-**NDEA**: 90 minute program</br>
-**Nepal: Experiment in Education**: 30 minute program</br>
-**NET Opera: Abduction from the Seraglio**: produced in 1970 by NET</br>
-**NET: That Other TV**: produced by NET</br>
-**New Conservatism**</br>
-**New Dimensions of Learning in a Free Society**: 30 minute program</br>
-**New Man on Campus**: 1 hour program</br>
-**New Visions for Television**</br>
-**New Voices in Africa**</br>
-**New York Tribune Annual Forum: Constructive Action in Tension Areas: Africa**: 30 minute program, produced in 1958 by Herald Tribune</br>
-**News Front**: 1 hour program, produced in 1970 by NET</br>
-**Next Year is Now**: 30 minute program, produced in 1962 by Guggenheim Assoc.</br>
-**Nguyen Cao Ky at the National Press Club**: 1 hour program</br>
-**Night Journal**</br>
-**Nighttime in Misteroger's Neighborhood**</br>
-**Ninety Days**</br>
-**The Ninety First Day**: produced by Vision Assoc.</br>
-**The Nixon Administration**</br>
-**Nixon Press Conference on March 4, 1971**</br>
-**Nixon Press Conference on May 8, 1970**</br>
-**Nixon: First Hundred Days**: 1 hour program, produced in 1969 by NET</br>
-**Nixon's Address to the American Society of Newspaper Editors**</br>
-**Nixon's Address: Prospects on Vietnam**</br>
-**Nobel Special**: 1 hour program</br>
-**Non-violence in Mississippi**: 15 minute program, produced in 1963 by W. Germany</br>
-**Nur Ein Tag**: 90 minute program</br>
-**Nuremberg and Vietnam: Who is Guilty?**: 150 minute program</br>
-**Odds Against**</br>
-**Oil, Coffee and Democracy**: 1 hour program, produced in 1963 by NET</br>
-**Olympics in Innsbruck and Tokyo 1964**</br>
-**On Call to a Nation**: 75 minute program, produced in 1961 by BBC</br>
-**One in a Hundred**</br>
-**One Man's Hunger**: 1 hour program, produced in 1963 by Rediffusion</br>
-**One to One with John Gardner**: 30 minute program, produced in 1970 by WETA</br>
-**Onion Johnny**: 30 minute program, produced in 1963 by BBC</br>
-**The Only War We Seek**: 30 minute program, produced by A.I.D.</br>
-**Oresteia of Aerchylus**</br>
-**Oscar Brand's Cornwall**</br>
-**Oscar Brand's Gettysburg**</br>
-**Our Living Language**</br>
-**Our World Interconnect**</br>
-**Oxford**: 1 hour program, produced in 1963 by ITC / ATV</br>
-**Oxford Action**</br>
-**Paraproprietal Society**: 30 minute program, produced in 1961 by KETC</br>
-**Paris Must Burn**: 1 hour program, produced in 1966 by German TV</br>
-**Part of the Family**: 90 minute program</br>
-**Pastore Hearings: Violence and Television**</br>
-**Patterns in Mathematics**</br>
-**Pauling-Teller Debate**: 1 hour program</br>
-**People in Politics**</br>
-**Peter and the Wolf**</br>
-**Peter Grimes**: 150 minute program</br>
-**A Piece of Cake**: 60 minute program, produced in 1969</br>
-**The Pitchmen**: 30 minute program</br>
-**Plaza Nine**</br>
-**Point of View**: 30 minute program</br>
-**Poisons, Pests and People**: 1 hour program, produced in 1962 by NFB Canada</br>
-**Poland: Between East and West**: 1 hour program, produced in 1964 by NET / German TV</br>
-**Police Report**</br>
-**The Politics and Comedy of Woody Allen**</br>
-**Politics of Survival**: 30 minute program</br>
-**Poor Pay More**</br>
-**Portland Mileage**</br>
-**Portrait of a Revolution**: 30 minute program, produced in 1959 by Potomac Films</br>
-**Portrait Souvenir: Marcel Proust**: 90 minute program</br>
-**Portugal**</br>
-**Power and Responsibility of the Press**: 30 minute program, produced in 1964 by NET</br>
-**President Eisenhower's Final Press Conference**: 30 minute program</br>
-**President Ford's Speech at the Univeristy of Michigan**</br>
-**President Nixon on Cambodia**</br>
-**The President's Decision: LBJ**</br>
-**The Price of Life**</br>
-**The Princess and the Pea**</br>
-**Prisoners of Conscience**</br>
-**A Probing Mind**: 30 minute program, produced in 1962 by NET</br>
-**Productivity: The Key to America's Economic Growth**</br>
-**Profile of a Southern Moderate**: 1 hour program, produced by WGTV</br>
-**A Profile of KQED**: 20 minute program, produced by KQED</br>
-**Progress Parade: Photography**</br>
-**Project Mohole**: 1 hour program, produced by NSF</br>
-**Project Security**</br>
-**Projections in Indian Art**</br>
-**Prokofiev**: 1 hour program, produced by WNDT</br>
-**Public Hearing on Vietnam**: 1 hour program, produced in 1965 by NET</br>
-**Puerto Rico: Workshop for Americans**: 30 minute program</br>
-**Purposeful American**</br>
-**Quest for Peace**: 30 minute program</br>
-**The Quiet Takeover**: 1 hour program, produced in 1965 by CBC</br>
-**Rabindranath Tagore: Founder of Modern Indian Culture**: 30 minute program</br>
-**Radical Theatre**</br>
-**Ralph Bunche: The New Nations**: 30 minute program</br>
-**Rapunzel**: 30 minute program</br>
-**Rayburn: Close Up Camera**</br>
-**Red Army Singers and Dancers**: 1 hour program, produced in 1965 by BBC</br>
-**The Red Madonna**: 30 minute program, produced in 1965 by German TV</br>
-**Reform Before the Revolution**</br>
-**The Rejected**: 1 hour program, produced by KQED</br>
-**The Relay**</br>
-**A Renaissance Life**: 1 hour program</br>
-**Report from Moscow**</br>
-**Report from Stowe**: 90 minute program, produced in 1961</br>
-**Report from Vietnam. Part 1: Mills of the Gods**: 90  minute program</br>
-**Report from Vietnam. Part 2: Western Eyewitness in North Vietnam**: 1 hour program</br>
-**Report on Indo-china**</br>
-**Report on Soviet Medicine**</br>
-**Report on World Population**: produced in 1960 by UN-TV</br>
-**Republicans: The New Breed**: 30 minute program, produced in 1965 by LR</br>
-**Research Environment in Industry**: 1 hour program, produced in 1969 by UPJOHN</br>
-**Return Journey: Dylan Thomas**</br>
-**Return to Florence**</br>
-**Rise of New Towns**</br>
-**The Road is Long**: 42 minute program, produced in 1959</br>
-**Road to Suez**</br>
-**Roots of Freedom**</br>
-**Rose Festival Parade**</br>
-**Rosemary Brown**</br>
-**Run for Your Life**</br>
-**Running for Life**</br>
-**Russia 1963: Coexistence and Conflict**: produced in 1963</br>
-**Russian Ballet School**</br>
-**Sahara**: 1 hour program, produced in 1961 by German TV</br>
-**Sandburg Memorial**: 135 minute program, produced in 1969 by Finnish TV</br>
-**The Scarecrow**: 110 minute program</br>
-**Science and Technology in Communist China**</br>
-**Science Through Discovery**: 30 minute program, produced in 1963 by NET</br>
-**Scott's Last Journey**: 1 hour program, produced in 1963 by BBC</br>
-**The Sculptor's Landscape**</br>
-**Search for Excellence**: 30 minute program</br>
-**Search for Strindberg**</br>
-**Second Look-see**</br>
-**The Second Mrs. Tanqueray**: 90 minute program, produced in 1955 by BBC</br>
-**The Second Summer: Calm or Chaos**: 1 hour program</br>
-**Secret of the Desert**</br>
-**Seven Against Thebes**</br>
-**Seven Days Document**</br>
-**Seven Who Dared**: 1 hour program, produced in 1964 by WGBH</br>
-**The Shepherds and the Magi**</br>
-**Sisu: Finland's Road Between East and West**: 1 hour program, produced in 1963 by German TV</br>
-**The Skin of Our Teeth**</br>
-**The Smile**</br>
-**Smoke? Why Not?**</br>
-**Smoking and Health: Questions**: 30 minute program</br>
-**Smoking and Health: The Mark Waters Story**: 30 minute program</br>
-**The Snow Maiden**: 30 minute program</br>
-**Snow White and Rose Red**: 30 minute program</br>
-**So Where are You God?**: 30 minute program</br>
-**The Society We Live in**: 1 hour program</br>
-**Socrates**: 90 minute program</br>
-**The Solitary Billionaire**: 1 hour program, produced in 1964 by BBC</br>
-**Son of Liberty**: 30 minute program, produced by Assoc. Rediffusion</br>
-**A Song Recital**: 1 hour program</br>
-**Sonny Brown and Fallen Sparrows**: 90 minute program</br>
-**Sons and Daughters: That’s' What Life is All About**</br>
-**A Sort of Paradise and Pocomania**: 1 hour program, produced in 1966 by BBC</br>
-**The South**</br>
-**South America Today**</br>
-**South American Essay**</br>
-**Spain**</br>
-**Speaking of Russia**: 30 minute program, produced in 1959 by WTTW</br>
-**A Speck of Progress**: 12 minute program</br>
-**The Squeeze**</br>
-**State of the Union 1967 with David Niven**</br>
-**State of the Union 1970**: produced in 1970 by NET</br>
-**State of the Union 1971**</br>
-**State of the Union Rebuttal**</br>
-**Statistics**</br>
-**Stone Age to Atom Age**: 1 hour program, produced by NFB Canada</br>
-**Story Friends**</br>
-**Strategy of Truth**: 1 hour program, produced in 1961</br>
-**Stravinsky: A Portrait**: 1 hour program</br>
-**Struggle for China**: 90 minute program</br>
-**Struggle for Peace**: 1 hour program</br>
-**Suburban Living**: produced by NFB Canada</br>
-**The Successor**: 1 hour program, produced in 1966 by Anglia</br>
-**The Suez Affair**: 1 hour program, produced in 1966 by ITC</br>
-**Sukarno: Prophet or Demogogue**: produced in 1965 by German TV</br>
-**Summer in Lebanon**: 1 hour program, produced in 1962 by BBC</br>
-**The Sun and Richard Lippold**</br>
-**Sunday Night: Death of Socreates**</br>
-**Surveillance: Who is Watching?**: 90 minute program</br>
-**Symphony in Concrete**</br>
-**T. E. Lawrence**: 1 hour program, produced in 1966</br>
-**Take this Hammer**: 45 minute program, produced by KQED</br>
-**Teacher's Gap**</br>
-**Television Comes to the Land**: 25 minute program</br>
-**Tempo**</br>
-**Ten Years of Turmoil**: 1 hour program, produced in 1958 by SSF</br>
-**The Tenement**</br>
-**Tennessee Williams**</br>
-**These Humble Shores and Aga Khan**: 1 hour program, produced in 1966 by BBC</br>
-**They Came Singing**</br>
-**This is Art**</br>
-**This Land**</br>
-**Thoughts of an Artist on Leaving the 60s**: 90 minute program</br>
-**Three Magical Tales with Sheri Lewis**: 1 hour program, produced in 1970 by NET</br>
-**The Three Musketeers**: 2 hour program</br>
-**The Three Sisters**: 90 minute program</br>
-**Through My Eyes**: 1 hour program</br>
-**Tijuana Brass: Kraft Music Hall**</br>
-**Till the Butcher Cut Him**</br>
-**A Time and Place for Study**: 30 minute program</br>
-**Time Enough to See the World**: 30 minute program</br>
-**The Time of Their Lives**: 30 minute program</br>
-**To Be a Composer**</br>
-**To Be a Man**</br>
-**To Be a Performer**</br>
-**To Build a Schoolhouse**: 30 minute program, produced in 1964 by EFL</br>
-**To Feed The Hungry: Harris Commission on Hunger in Chicago**: 1 hour program, produced in 1970 by WTTW</br>
-**To Speak with Friends**: 30 minute program, produced in 1960 by DHEW</br>
-**Transantarctic Expedition**: 1 hour program, produced in 1959 by BBC</br>
-**Transatlantic Inquiry**: 30 minute program, produced in 1965 by BBC</br>
-**Transitions: Conversations with Wendell Castle**</br>
-**Triptych for a Christmas Eve**: 20 minute program</br>
-**Tropical Folk Songs**</br>
-**The Turtle**</br>
-**Two Arctic Tales**</br>
-**Two Faces of Japan**: 1 hour program</br>
-**Two Orchestras**: 50 minute program, produced in 1965 by NET</br>
-**Two Roads to the Center**: 1 hour program</br>
-**Two Trumpets for St. Andrew**: 1 hour program, produced in 1969 by Australian TV</br>
-**U.N. Special: The Congo Crisis**</br>
-**Un Ballo in Maschera**: 90 minute program</br>
-**UN Hearing on Skyjacking**: 1 hour program</br>
-**Unfolding Vision**</br>
-**Unmarried Mothers**: 1 hour program, produced in 1966 by Granada</br>
-**Unusual Lies**</br>
-**The Uprooted**: 30 minute program, produced in 1966</br>
-**Urban Crisis**: 30 minute program, produced in 1958 by WKAR</br>
-**The US and Modern World**</br>
-**The US and the Non-western World**: 30 minute program, produced in 1960 by KETC</br>
-**The US Army Presents: The Big City**</br>
-**USA in New Dimensions**: 30 minute program, produced in 1958 by WGBH</br>
-**USA: Art as Religion**</br>
-**Vanishing Newspapers**</br>
-**Venereal Disease Seminar**: 1 hour program</br>
-**Venezuela: The Making of a Government**: 1 hour program, produced in 1964 by NET</br>
-**Venice Today**: 30 minute program, produced in 1962 by RAI</br>
-**Venture into Space**: 30 minute program, produced by KTCA</br>
-**Vienna Philharmonic**: 90 minute program</br>
-**Vietnam**: produced in 1966</br>
-**Vietnam Moratorium**: 1 hour program</br>
-**Vietnam: A Different View**</br>
-**Vietnam: Coups and Crises**: 1 hour program, produced in 1964 by German TV</br>
-**View From Latitude Zero**: 1 hour program</br>
-**Villanova Jazz Festival**: 90 minute program, produced in 1963 by WHYY</br>
-**Vision of William Blake**: 30 minute program</br>
-**The Vital Ocean**: 30 minute program, produced in 1967 by NATO</br>
-**Viva Mexico**</br>
-**Walt Harper at Falling Water**: 1 hour program</br>
-**War and the People**: 1 hour program</br>
-**War and the Wasteland: Dulce of Decorum**</br>
-**War and the Wasteland: Sweeny Among the Nightengales**</br>
-**Warsaw Ghetto**: 1 hour program, produced in 1966 by BBC</br>
-**Washington Theatre Club**: 90 minute program</br>
-**Washington Week in Review**: 30 minute program</br>
-**Watch on the Mekong**: 1 hour program, produced in 1962 by Rediffusion</br>
-**Water Everywhere**: 15 minute program</br>
-**The Way and the Word**: 30 minute program</br>
-**We Shall Overcome**: 30 minute program, produced by WGBH</br>
-**We Speak Russian**: 30 minute program</br>
-**Weapons of Gordon Parks**: 30 minute program</br>
-**Wedding on Saturday**: 30 minute program, produced in 1966 by Granada</br>
-**Weston's Report: Poverty**</br>
-**What Has TV Done to Politics**: 1 hour program</br>
-**What's in a Word**</br>
-**Whirligig of Life**</br>
-**White House Conference on Children: A Preview**: 1 hour program, produced in 1970 by WETA</br>
-**The White South: Two Views: The Southern Conservative**: 30 minute program</br>
-**The White South: Two Views: The Southern Liberal**: 30 minute program</br>
-**Who Does the Negro Think He is?**: 1 hour program, produced in 1965 by NET</br>
-**Who Killed Mary**</br>
-**Whooping the Blues**</br>
-**William Blake: As a Man is**</br>
-**Win, Place and Show**</br>
-**Winston Churchill Obituary**: 30 minute program</br>
-**WNET Opera Theater: The Death Goddess**</br>
-**The Wonder of Beginning**</br>
-**A Word About Rome**: 30 minute program, produced by RAI</br>
-**The Wonder of Beginning**</br>
-**The Word and the Way**: 1 hour program</br>
-**The World of David Amran**: 1 hour program</br>
-**The World of Hart Crane**: 90 minute program</br>
-**The Year 2000**</br>
-**Years Without Harvest**: 30 minute program, produced in 1963 by WNDT</br>
-**You Can't Back Down**: 30 minute program, produced in 1968 by NFB</br>
-**Young Audience: NY Woodwind Quartet**: 1 hour program</br>
-**Young People's Film Festival**: 1 hour program</br>
-**Youth Dances**: 15 minute program, produced by Dance in Educ. Fund</br>
-**Yugoslavia: Education Builds a Nation**: 30 minute program</br>
+##Individual Programs
+
+**1984**: Aired as an episode of NET Playhouse.<br />
+**March 4, 1933**: 90 minute program, produced in 1963 by WNDT, originally shot on videotape.<br />
+**15th National Debate Tournament at West Point**: 30 minute program<br />
+**1962: Past and Prologue**: Aired as an episode of Perspectives.<br />
+**1967 Carnegie Commission Report: Public Television: A Program for Action**: 90 minute program, produced in 1967 by NET.<br />
+**30s: A Memory of Two Mondays**: produced in 1971 by NET Division, Educational Broadcasting Corporation. Aired as an episode of NET Playhouse.<br />
+**39th Witness**: Aired as an episode of NET Playhouse.<br />
+**The 6th Paul**: produced in 1969 by Rediffusion Television. Aired as an episode of NET Journal.<br />
+**Aaron Copland Meets the Soviet Composers**: 30 minute program, produced in 1959 by WGBH.<br />
+**Abbey of the English**<br />
+**ABM Hearings**: 1 hour program, produced in 1969 by NET.<br />
+**The ABM Question**: 1 hour program, produced in 1969 by NET, originally shot in color.<br />
+**The ABM Vote**<br />
+**About Peter Grimes**: 30 minute program<br />
+**About the White Bus**: produced in 1970 by Dateline Productions Limited. Aired as an episode of NET Festival.<br />
+**Above All Liberties**: produced in 1971 by WNET. Aired as an episode of Realities.<br />
+**Abu Simbel**: Aired as an episode of Spectrum.<br />
+**Accent on Music**<br />
+**Across the River**: Aired as an episode of NET Playhouse.<br />
+**Act Now**: produced in 1969 by KQED. Aired as an episode of NET Festival.<br />
+**Actor's Choice: John Donne**: 30 minute program<br />
+**Actor's Choice: Walt Whitman**<br />
+**Adieu de Gaulle**: 1 hour program, produced in 1969 by NET, originally shot in color, with black and white segments.<br />
+**Advanced Science: Challenge of the 60s**<br />
+**Adventures in Learning**: 30 minute program, produced in 1967 by the Encyclopedia Britannica, originally shot on film.<br />
+**AEC Report: Man and the Atom**: 1 hour program, produced in 1964 by Harold Meyer Productions, Inc., originally shot on film.<br />
+**Africa, My Africa**: 1 hour program, produced in 1964 by the Canadian Broadcasting Corporation, originally shot on film.<br />
+**Africa: The Hidden Frontiers**: produced in 1964 by Associated-Rediffusion. Aired as an episode of Intertel.<br />
+**Africa's Twilight Kingdom**: 30 minute program, produced in 1959, originally shot on film.<br />
+**After de Gaulle**: produced in 1964 by NET. Aired as an episode of At Issue.<br />
+**After the Miracle**: produced in 1967 by Australian Broadcasting Committee. Aired as an episode of Intertel.<br />
+**Age of Dissent: Young Men with Opinions**: 1 hour program, produced in 1961 by the National Film Board of Canada, originally shot on film.<br />
+**Age of the Beaver**: Aired as an episode of What's New.<br />
+**Agriculture in an Uneasy World**: 30 minute program, produced in 1961 by WMSB, originally shot on videotape.<br />
+**Agriculture: The Need is Now**: 1 hour program, produced in 1961 by KUON, originally shot in black and white.<br />
+**Ah, Beh, Veh of Russian**<br />
+**AIP Conference**<br />
+**Airline Pilot: Training for Tomorrow Today**: Aired as an episode of Spectrum.<br />
+**Alaska Bears**: Aired as an episode of What's New.<br />
+**Alaska, 1961: Giant Bears Go Fishing**<br />
+**The Alchemist**: produced in 1962 by KQED. Aired as an episode of NET Drama Festival.<br />
+**Alcoholic American**: Aired as an episode of Spectrum.<br />
+**Alfond Martin**<br />
+**Algeria: What Price Freedom**: produced in 1964 by Canadian Broadcasting Corporation. Aired as an episode of Intertel.<br />
+**Alicia Alonso**: Aired as an episode of Fanfare.<br />
+**Alicia Alonzo**: 1 hour program<br />
+**All About Animals: Photography**: Aired as an episode of What's New.<br />
+**All of Our Aircraft are Missing**: produced in 1965 by KUON. Aired as an episode of Local Issue.<br />
+**The Alma Trio**: produced in 1964 by KQED. Aired as an episode of Music Strip.<br />
+**Alvin Ailey: Memories and Visions**<br />
+**Alvin, Jr.**: Aired as an episode of What's New.<br />
+**Amazing Miss Alcott. Part 1**: Aired as an episode of What's New.<br />
+**Amazing Miss Alcott. Part 2**: Aired as an episode of What's New.<br />
+**Ambassadors of Dance**: produced in 1971. Aired as an episode of Fanfare.<br />
+**America Abroad**: produced in 1962 by Associated-Rediffusion. Aired as an episode of Intertel.<br />
+**America Observed**: produced in 1965 by NET. Aired as an episode of At Issue.<br />
+**America: The Dollar Poor**: Aired as an episode of Intertel.<br />
+**America: The Edge of Abundance**: produced in 1965 by Rediffusion Television. Aired as an episode of Intertel.<br />
+**The American Assembly**: 1 hour program, produced in 1963 by WNDT, originally shot on videotape.<br />
+**American Ballet Theatre**<br />
+**American Christmas**: 1 hour program<br />
+**The American Conservative**: produced by WNDT. Aired as an episode of Perspectives.<br />
+**The American Image**: 1 hour program, produced in 1968 by NET, originally shot on videotape.<br />
+**American Indian**: 1 hour program, originally shot on film.<br />
+**An American Journey**: 1 hour program, produced in 1972 by WNET, originally shot in color.<br />
+**The American Liberal**: produced by WNDT. Aired as an episode of Perspectives.<br />
+**American Odyssey: Off to the Sea Again**: produced in 1971. Aired as an episode of Fanfare.<br />
+**American Odyssey: The Midnight Special**: produced in 1971 by WTIF. Aired as an episode of Fanfare.<br />
+**American Samoa: Paradise Lost?**: Aired as an episode of Intertel.<br />
+**American Symphony Orchestra. Part 1**: Aired as an episode of NET Symphony.<br />
+**American Symphony Orchestra. Part 2**: Aired as an episode of NET Symphony.<br />
+**American University**<br />
+**American Values**<br />
+**American Voter**<br />
+**Americana II: Fort Toconderoga**: Aired as an episode of What's New.<br />
+**Americana II: Paul Revere**: Aired as an episode of What's New.<br />
+**Americana: Trolleys**: Aired as an episode of What's New.<br />
+**Americans from Hungaria**<br />
+**An Amish School House**: produced in 1965 by WMSB. Aired as an episode of Local Issue.<br />
+**Amsterdam Concertgebouw Orchestra**: 1 hour program, produced in 1967 by the International Television Corporation.<br />
+**Anahid and Maro Ajemian**: produced in 1964 by KQED. Aired as an episode of Music Strip.<br />
+**Anatol**: Aired as an episode of NET Playhouse.<br />
+**Anatomy of Violence**: Aired as an episode of Spectrum.<br />
+**Anatomy of Violets**<br />
+**And All That Jazz**: 30 minute program, produced in 1964 by KRMA, originally shot on videotape.<br />
+**And No Bells Ring**: 1 hour program, produced by Ford Foundation.<br />
+**And Now All the Way from Bakersfield California, Merle Haggard**: Aired as an episode of Fanfare.<br />
+**And Strive to Win**: produced in 1966 by WQED. Aired as an episode of Local Issue.<br />
+**And the Meek Shall Inherit the Earth**: Aired as an episode of Realities.<br />
+**And the Vikings Came**: Aired as an episode of Spectrum.<br />
+**And There Was Light**: 30 minute program, originally shot on film.<br />
+**Andersonville Interview**: 30 minute program<br />
+**Andy and the Friendly Lion. Part 1**: Aired as an episode of What's New.<br />
+**Andy and the Friendly Lion. Part 2**: Aired as an episode of What's New.<br />
+**Angotee: A Day in June**<br />
+**Animal Ark**: Aired as an episode of What's New.<br />
+**Animal Behavior**: Aired as an episode of What's New.<br />
+**Animal Ward**: Aired as an episode of What's New.<br />
+**Animals and Swimmers**: Aired as an episode of What's New.<br />
+**Anna Karenina**: Aired as an episode of NET Festival.<br />
+**Antigone**: produced in 1961 by BBC. Aired as an episode of NET Drama Festival.<br />
+**Any Resemblances**: 1 hour program, produced in 1970 by Tom McDonough Films, Inc..<br />
+**Apollo and Igor Stravinsky**: produced in 1968 by National Film Board of Canada and Studio Hamburg, Germany. Aired as an episode of NET Festival.<br />
+**Appalachia: The Survival of a Region**: produced in 1964 by WQED. Aired as an episode of Local Issue.<br />
+**Appalachian Spring**: 1 hour program, produced in 1960 by WQED, originally shot on film.<br />
+**Arab Summer**<br />
+**Arlo Guthrie**: Aired as an episode of Fanfare.<br />
+**Art in Seattle**: 1 hour program<br />
+**Arthur Penn: An American Identity**: 90 minute program<br />
+**Arthur Penn: Themes and Variants**<br />
+**Arthur Rubinstein**: 1 hour program, produced in 1969 by BBC.<br />
+**Arts and the School**: 30 minute program<br />
+**Asian Prayer, Asian Sword**: produced in 1967 by BBC. Aired as an episode of NET Journal.<br />
+**Asking for Trouble**: 30 minute program, produced in 1967 by BBC, originally shot on videotape.<br />
+**Assessement of Cambodia**: 30 minute program, produced in 1970 by NET.<br />
+**The Athletic Explosion**: produced in 1967 by WOUB. Aired as an episode of Local Issue.<br />
+**Atomic Energy**: 30 minute program<br />
+**Atoms for Peace**<br />
+**Atoms for Power**: 30 minute program, produced in 1958 by META, originally shot on kinescope.<br />
+**Attack on the Courts**: produced in 1964 by NET. Aired as an episode of At Issue.<br />
+**Attica: The Official Report of the New York State Special Commission**: 2 hour program, produced in 1972.<br />
+**Audubon**: Aired as an episode of Intertel.<br />
+**Autistic Children**: Aired as an episode of Spectrum.<br />
+**Auto Stop**: Aired as an episode of NET Playhouse.<br />
+**Aviation Weather**<br />
+**Ayub Khan's Pakistan**<br />
+**Bach and His Sons: Overwhelming Legacy**: 1 hour program, produced in 1966 by WNDT, originally shot on videotape.<br />
+**Bach Mass in B Minor**: 1 hour program<br />
+**Back Stage**: 30 minute program, originally shot in color.<br />
+**Background to Berlin**: 30 minute program, produced in 1967 by NATO, originally shot on film.<br />
+**Background to Latin America**: 1 hour program, produced in 1965 by the National Film Board of Canada, originally shot on videotape.<br />
+**Baghdad by the Bay**: 90 minute program, produced in 1961, originally shot on videotape.<br />
+**Balance of Terror: Report on NATO**: produced in 1963 by Talent Associates Paramount Ltd.. Aired as an episode of Perspectives.<br />
+**The Ballad of Smedley the Smoker**<br />
+**Ballet Boston**: Aired as an episode of What's New.<br />
+**Ballet Gala**: Aired as an episode of NET Playhouse Biography.<br />
+**Ballet Mit Balanchine**<br />
+**Ballet, Child of Dance**<br />
+**Balsa**: Aired as an episode of What's New.<br />
+**Baltimore Symphony. Part 1**: Aired as an episode of NET Symphony.<br />
+**Baltimore Symphony. Part 2**: Aired as an episode of NET Symphony.<br />
+**Bandolero**<br />
+**Banks and the Poor**: Aired as an episode of Realities.<br />
+**The Banquet of Life**: produced in 1967 by Canadian Broadcasting Corporation. Aired as an episode of Intertel.<br />
+**Bartok at Tanglewood**: produced in 1969 by WGBH and NET. Aired as an episode of NET Festival.<br />
+**Bartok: A Portrait**: 1 hour program, produced in 1963 by KQED and NET, originally shot on videotape.<br />
+**Basic Russian Language: TV Schooltime**: 1 hour program, produced by META.<br />
+**Battered Child**: produced in 1969 by WTTW. Aired as an episode of NET Journal.<br />
+**The Battle for School Integration**: produced in 1964 by NET. Aired as an episode of At Issue.<br />
+**Battle of Belfast**: 30 minute program, produced in 1969 by NET, originally shot on videotape in color.<br />
+**Battle of Culloden**: produced in 1969 by BBC. Aired as an episode of NET Playhouse.<br />
+**Battle Over the Migrant**: 30 minute program, produced in 1965, originally shot on videotape.<br />
+**Bear Hunt**: Aired as an episode of What's New.<br />
+**Beaver Dam and Street to the World**: Aired as an episode of What's New.<br />
+**Beethoven Archduke Trio**: 75 minute program<br />
+**Beethoven Personality**: 40 minute program, produced in 1970 by WGBH, originally shot on videotape and film in color.<br />
+**Beethoven the Emperor**: produced in 1970 by WGBH. Aired as an episode of NET Festival.<br />
+**Beethoven's Fifth Symphony**: 1 hour program<br />
+**Beethoven's Seventh Symphony**: 1 hour program<br />
+**Before Saturn**: 15 minute program, produced in 1963 by NASA, originally shot on film.<br />
+**Beginning of Life**: produced in 1968 by NET. Aired as an episode of NET Journal.<br />
+**Behind the Scenes**: Aired as an episode of What's New.<br />
+**Below Sea Level**: Aired as an episode of What's New.<br />
+**Benny in Brussels**: 1 hour program, produced in 1959 by Westinghouse Broadcasting Company, Inc..<br />
+**Berkeley: People's Park War**: 1 hour program, produced in 1969 by KQED, originally shot in black and white.<br />
+**Bernstein in London**: 1 hour program, produced in 1972 by WNET, originally shot in black and white.<br />
+**Berstein and the Vienna Philharmonic**: 2 hour program<br />
+**Beyond the Rudy Trial: Justice and the Press**: produced in 1964 by NET. Aired as an episode of At Issue.<br />
+**Beyong the Arctic Circle**: Aired as an episode of What's New.<br />
+**Biafra**: 1 hour program, originally shot in color.<br />
+**The Biber Sonata**: produced in 1965 by Telepool-Munich. Aired as an episode of NET Festival.<br />
+**Bicycles in Holland**: Aired as an episode of What's New.<br />
+**The Billion Dollar Bird**: produced in 1964 by NET. Aired as an episode of At Issue.<br />
+**Biology Plus**<br />
+**The Birds**<br />
+**Birgit Cullberg**: Aired as an episode of Fanfare.<br />
+**Birth Control**: produced by Canadian Broadcasting Corporation. Aired as an episode of Perspectives.<br />
+**Birth of a Union**: produced in 1966 by KQED. Aired as an episode of Local Issue.<br />
+**Birth of a University**: 25 minute program, produced in 1967 by KOGO, originally shot on videotape and film.<br />
+**Black and White Together**: 1 hour program, produced in 1969 by NET, originally shot on film in color.<br />
+**Black Campus and Death in the Morning**: 30 minute program, produced in 1966 by BBC, originally shot on videotape.<br />
+**Black Coal, Red Power**: 90 minute program, produced in 1972 by WNET, originally shot in color.<br />
+**Black Composers**: 90 minute program, produced in 1972 by WNET, originally shot in color.<br />
+**Black Marries White/Portugal**: 30 minute program, produced in 1964 by Rediffusion Television, Ltd., originally shot on videotape.<br />
+**Black Natchez**: produced in 1967 by Edward Pincus and David Neuman. Aired as an episode of NET Journal.<br />
+**Black Radicalism**<br />
+**Blood Knot**: Aired as an episode of NET Playhouse Biography.<br />
+**Blue like an Orange**: Aired as an episode of What's New.<br />
+**Bluebeard's Castle**: produced in 1968 by British Home Entertainment. Aired as an episode of NET Festival.<br />
+**The Boer War**: 45 minute program, produced in 1963 by Granada, originally shot on film.<br />
+**Bolt Current Resistance**<br />
+**The Bond**: Aired as an episode of NET Playhouse.<br />
+**Border War: Expansion into Indochina**: Aired as an episode of Realities.<br />
+**Born Chinese**: 1 hour program, produced in 1965 by BBC, originally shot on videotape.<br />
+**Boss's Son**: Aired as an episode of NET Playhouse Biography.<br />
+**Boston Pops**: Aired as an episode of NET Festival.<br />
+**Boston Pops I**: 135 minute program, produced in 1961 by WGBH, originally shot on videotape.<br />
+**Boston Pops II**: 90 minute program, produced in 1967 by WGBH, originally shot on videotape.<br />
+**Boston Pops III **: produced in 1968 by WGBH. Aired as an episode of NET Festival.<br />
+**Boston Symphony at Tanglewood**: produced in 1968 by WGBH. Aired as an episode of NET Festival.<br />
+**Boston Symphony Orchestra II**<br />
+**Boulez: A Portrait in Three Movements**: 90 minute program, produced in 1971 by the Educational Broadcasting Corporation, originally shot in color.<br />
+**A Boy and His Horse**<br />
+**A Boy and His Job**: Aired as an episode of What's New.<br />
+**The Boy and the Turtle**: 1 hour program, produced in 1970 by KLRN, originally shot in color.<br />
+**Boy on an Island**: Aired as an episode of What's New.<br />
+**Brave Boys. Part 1**: Aired as an episode of What's New.<br />
+**Brave Boys. Part 2**: Aired as an episode of What's New.<br />
+**Brave Boys. Part 3**: Aired as an episode of What's New.<br />
+**The Brave Little Tailor and Other Stories**: 1 hour program, produced in 1970 by NET, originally shot in color.<br />
+**Bridge on the Jordan**: 1 hour program, produced in 1967 by NET and the UN, originally shot on videotape in color.<br />
+**British Public School**: 53 minute program, produced in 1962 by Associated Television of Great Britain, originally shot on film.<br />
+**Broadcasting: A Candid Apraisal**: 1 hour program, produced in 1961 by WHYY.<br />
+**Brooklyn**: Aired as an episode of What's New.<br />
+**Brooklyn: Folk Songs**: Aired as an episode of What's New.<br />
+**Brooklyn: Folk Songs. Part 4**: Aired as an episode of What's New.<br />
+**Brother Buzz**<br />
+**Bryan Beavers: A Moving Portrait**<br />
+**Buckminster Fuller**: Aired as an episode of Spectrum.<br />
+**Buffalo Philharmonic. Part 1**: Aired as an episode of NET Symphony.<br />
+**Buffalo Philharmonic. Part 2**: Aired as an episode of NET Symphony.<br />
+**Building the Bomb**: 1 hour program, produced in 1965 by BBC, originally shot on videotape.<br />
+**Bullets vs. Cleveland**<br />
+**Burma/Korea: Uneasy Peace**: produced in 1969 by Norddeutscher Rundfunk. Aired as an episode of NET Journal.<br />
+**The Burn Center**: Aired as an episode of Spectrum.<br />
+**But Names Will Never Hurt Me**<br />
+**Cable Revolution: Tomorrow's Pattern of Communication**<br />
+**The Caged Society**: Aired as an episode of Spectrum.<br />
+**California Chamber Symphony Orchestra**: 1 hour program, produced in 1965 by KCET, originally shot on videotape.<br />
+**Cambodia: Progress Report**: 1 hour program, produced in 1970 by NET, originally shot in color.<br />
+**Campaign Money and Political Ethics**: Aired as an episode of Perspectives.<br />
+**Campus Crossroads**: 30 minute program, produced in 1962 by Yale University, originally shot on film.<br />
+**Canada in Crisis**: produced in 1964 by NET and Westinghouse Broadcasting Corporation. Aired as an episode of Intertel.<br />
+**Canadian-Russian Hockey**: 150 minute program<br />
+**Cancer: A Case for Treatment**<br />
+**Cancer: Battle in the Cell**: Aired as an episode of Spectrum.<br />
+**Cancer: The Search**: Aired as an episode of Spectrum.<br />
+**A Candle to Nature**: Aired as an episode of Spectrum.<br />
+**Canterbury Choir Boy**: produced in 1963 by Associated British-Pathe Limited, England. Aired as an episode of Music Strip.<br />
+**Cape Kennedy Special**: Aired as an episode of Spectrum.<br />
+**Cape Kennedy: Space Report**: Aired as an episode of What's New.<br />
+**Caribou Hunters and Point Pelee**: Aired as an episode of What's New.<br />
+**Carl Sandburg Remembered**: produced in 1968 by NET. Aired as an episode of NET Festival.<br />
+**Carlos Chavez**: produced in 1968 by NET by KQED. Aired as an episode of NET Festival.<br />
+**Carmen**<br />
+**Carmina Burana**: produced in 1968 by NET. Aired as an episode of NET Festival.<br />
+**Carmina Burana**: 1 hour program, produced in 1964, originally shot on videotape in black and white.<br />
+**Carpenters of the Forest and Land of the Long Day**: Aired as an episode of What's New.<br />
+**Case Studies in Practical Politics**: produced in 1958 by WQED, originally shot on film<br />
+**Cash!**: Aired as an episode of Fanfare.<br />
+**Casino Society**<br />
+**The Cast Iron Southerner**: Aired as an episode of What's New.<br />
+**The Cathode Colors Them Human**: produced in 1965 by Canadian Broadcasting Corporation. Aired as an episode of Intertel.<br />
+**Cathy Come Home**: Aired as an episode of NET Playhouse.<br />
+**The Cattle Crisis**: produced in 1964 by KUON. Aired as an episode of Local Issue.<br />
+**Ceremony of Innocence**: 90 minute program, produced in 1970, originally shot on videotape in color.<br />
+**The Chain of Life in the Sea**: Aired as an episode of What's New.<br />
+**Challenge and Response**: Aired as an episode of Perspectives.<br />
+**Challenge of Change: Case for Counseling**: 30 minute program, produced in 1962 by Louis de Rochemont, originally shot on film.<br />
+**The Chamizal Story**: produced in 1964 by KUHT. Aired as an episode of Local Issue.<br />
+**The Chamizal Story**: Aired as an episode of What's New.<br />
+**Changing the Weather**: Aired as an episode of Spectrum.<br />
+**Changing UN**: 30 minute program<br />
+**Charles Ives: Symphony No. 4**: produced in 1965. Aired as an episode of NET Festival.<br />
+**Charley's Aunt**: Aired as an episode of NET Playhouse.<br />
+**Che Guevara: End of Revolution?**<br />
+**Chicago Double Bill**: produced in 1968 by WTTW. Aired as an episode of NET Festival.<br />
+**Chicago Jazz**: 30 minute program, produced in 1968 by WTTW, originally shot on videotape.<br />
+**Chicago Picasso: Greatness in the Making**: produced in 1967 by NET. Aired as an episode of NET Festival.<br />
+**Chicago Symphony**: Aired as an episode of NET Symphony.<br />
+**Chicago: Native View**: 30 minute program<br />
+**Chief of State: Archbishop Makarios**: 1 hour program, produced in 1963 by NET.<br />
+**Chief of State: Mohammad Ayub Khan**: 1 hour program, produced in 1963 by NET, originally shot on film in color.<br />
+**Child Psychology: They Can Go Home Again**: Aired as an episode of Spectrum.<br />
+**A Child's Christmas in Wales**: 30 minute program, produced in 1963 by Marvin Lichtner and Margin Productions Ltd., originally shot on film.<br />
+**Child's Diary**<br />
+**Children and Snowy Heron**: Aired as an episode of What's New.<br />
+**Children in the Balance**: produced in 1969 by NET. Aired as an episode of NET Journal.<br />
+**Children of the Revolution**: produced in 1965 by Rediffusion Television. Aired as an episode of Intertel.<br />
+**Children of the World**: 1 hour program, produced in 1971 by the European Broadcasting Union, originally shot in color.<br />
+**Children's Circus**: Aired as an episode of What's New.<br />
+**Children's Poetry**: Aired as an episode of What's New.<br />
+**Children's Puppet Special**<br />
+**Children's West. Part 1**: Aired as an episode of What's New.<br />
+**Children's West. Part 2**: Aired as an episode of What's New.<br />
+**Children's West. Part 3**: Aired as an episode of What's New.<br />
+**China and the US: The Next Decade**: 1 hour program, produced in 1969 by NET, originally shot on videotape in color.<br />
+**China in the 70s**: produced in 1970 by University of Minnesota in cooperation with KTCA. Aired as an episode of NET Journal.<br />
+**Chinese Art**: 1 hour program, originally shot on film.<br />
+**Chinese in the Far East**<br />
+**Chopin: A Question of Stature**: produced in 1968 by BBC. Aired as an episode of NET Festival.<br />
+**Chou En-Lai**: 90 minute program, produced in 1960 by WGBH, originally shot on videotape.<br />
+**The Christmas Boycott**: produced in 1963 by NET. Aired as an episode of At Issue.<br />
+**Christmas in New England**: 30 minute program, produced in 1958 by WGBH, originally shot on film.<br />
+**Christmas in the Marketplace**<br />
+**The Christmas Painting**: 30 minute program, produced in 1958 by Greensboro Studio of WUNC.<br />
+**Cincinnati Symphony. Part 1**: Aired as an episode of NET Symphony.<br />
+**Cincinnati Symphony. Part 2**: Aired as an episode of NET Symphony.<br />
+**Cinderella**: Aired as an episode of Fanfare.<br />
+**Circus Museum**: Aired as an episode of What's New.<br />
+**Circus Parade**: Aired as an episode of What's New.<br />
+**The Cities: A Question of Survival**: 1 hour program, produced in 1971 by NET Division of the Educational Broadcasting Corporation, originally shot in color.<br />
+**Citizen Diplomacy**: 30 minute program, originally shot on film in color.<br />
+**City at Night: Mathematica**: 45 minute program, produced by KTLA, originally shot on videotape.<br />
+**Civil Rights Summer '66**: 1 hour program, produced in 1966 by NET, originally shot on videotape.<br />
+**Civil Rights: What Next?**: 1 hour program, produced in 1968, originally shot on videotape.<br />
+**Civil Rights: What Now**<br />
+**Civil War Roundtable**: 1 hour program, produced in 1960, originally shot on videotape.<br />
+**Cleveland Symphony Orchestra. Part 1**: Aired as an episode of NET Symphony.<br />
+**Cleveland Symphony Orchestra. Part 2**: Aired as an episode of NET Symphony.<br />
+**Cleveland Symphony Orchestra. Part 3**: Aired as an episode of NET Symphony.<br />
+**Cliff's Sore Foot**<br />
+**Close Up of Jean Cocteau**: 30 minute program, produced in 1963 by RTF, originally shot on film.<br />
+**Close Up on Germany**<br />
+**Colette: My Mother's House**: 90 minute program, produced in 1972 by the Educational Broadcasting Corporation, originally shot in color.<br />
+**Colloquy**: 30 minute program<br />
+**Colombe**: produced in 1961 by BBC. Aired as an episode of NET Drama Festival.<br />
+**Color by Design/Color and Brightness**: 15 minute program, produced in 1967 by CBS, originally shot on film.<br />
+**Color Her Sunshine**<br />
+**Color Us Black**: produced in 1968 by NET. Aired as an episode of NET Journal.<br />
+**Comden and Green**<br />
+**Come Blow Your Horn**: 30 minute program, produced in 1968 by Jefferson.<br />
+**Comedy of Errors**: Aired as an episode of NET Playhouse.<br />
+**The Coming Space Age**: 1 hour program, produced in 1958 by KRMA, originally shot on videotape.<br />
+**Communication System**<br />
+**Comparisons: Courtship**: 1 hour program, produced by NFB.<br />
+**Comparisons: Four Teachers**: 1 hour program, produced by NFB.<br />
+**Comparisons: Of Sport and Men**: produced by NFB. Aired as an episode of Perspectives.<br />
+**A Concert for Strings and Woodwinds**: produced in 1963 by WTTW. Aired as an episode of Music Strip.<br />
+**Concert of the Nations**: 90 minute program, produced in 1965 by Zweites Deutsches Fernsehen, originally shot on videotape.<br />
+**Concerto Baroque and Apollo**: 30 minute program<br />
+**Conference on Education**<br />
+**Conference on World Tensions**: 1 hour program, produced in 1961 by WTTW, originally shot on videotape.<br />
+**Conflict with Canada**: produced in 1964 by NET. Aired as an episode of At Issue.<br />
+**Confrontation**: produced in 1969 by WQED. Aired as an episode of NET Playhouse.<br />
+**Confronted**: 1 hour program, produced in 1963 by WGBH, originally shot on film.<br />
+**Congress 1967**: 90 minute program<br />
+**Congress and Ethics**: produced in 1966 by NET. Aired as an episode of At Issue.<br />
+**Congress of Strings 1963**: Aired as an episode of Music Strip.<br />
+**Congressional Clinic**: 30 minute program, produced in 1959 by Potomac Films.<br />
+**Congressional Clinic II**: 30 minute program<br />
+**Conservative Mr. Buckley**: produced in 1969 by NET. Aired as an episode of NET Journal.<br />
+**Consumer Information Pilot**: 30 minute program, produced in 1963, originally shot on videotape in color.<br />
+**Controlling the Future**: Aired as an episode of Spectrum.<br />
+**Conversation with Dean Rusk**: 1 hour program, produced in 1967 by NET.<br />
+**Conversation with Earl Warren**: 1 hour program, produced in 1969 by McClatchy Broadcasting Co., originally shot in color.<br />
+**Conversation with George London and Marcia Davenport**: 30 minute program, produced in 1970 by NET, originally shot on videotape in color.<br />
+**Conversation with Ingrid Bergman**: 1 hour program, produced in 1967 by NET and KCET.<br />
+**Conversation with James Reston**: 1 hour program, produced in 1966 by NET, originally shot on videotape.<br />
+**Conversation with Milovan Djilas**: 1 hour program, produced in 1968 by NET, originally shot on videotape in color.<br />
+**Conversation with Muhammad Ali**: 30 minute program, produced in 1968 by WGBH, originally shot in black and white.<br />
+**Conversation with President Kennedy's Biographer**: 30 minute program, produced in 1963 by NET, originally shot on videotape.<br />
+**Conversation with Richard Nixon**: produced in 1967 by NET. Aired as an episode of NET Journal.<br />
+**Conversation with Saul Alinsky**: 1 hour program, produced in 1965 by WTTW, originally shot on videotape.<br />
+**Conversation with Sir Laurence Olivier**: 1 hour program, produced in 1967 by WGBH, originally shot on videotape.<br />
+**A Conversation with Stewart Udall**: produced in 1964. Aired as an episode of At Issue.<br />
+**Conversation with Svetlana Allilu**: produced in 1967 by WGBH. Aired as an episode of NET Journal.<br />
+**A Conversation with Willard Wirtz**: produced in 1964 by NET. Aired as an episode of At Issue.<br />
+**Coppelia**: produced in 1969 by BBC. Aired as an episode of NET Festival.<br />
+**The Count Down: A Study of World Disarmament**: 30 minute program, produced in 1958 by UN-TV, originally shot on kinescope.<br />
+**Count Ory**: 100 minute program, produced in 1962 by Radio-Televisione Italiana (RAI), originally shot on videotape.<br />
+**Countdown on Civil Rights**: produced in 1964 by NET. Aired as an episode of At Issue.<br />
+**Countdown: NORAD**: 95 minute program, produced in 1962 by WRKB, originally shot on film.<br />
+**Courts, Warts, and All**: 30 minute program, produced in 1970 by KCET, originally shot in color.<br />
+**A Crack in the Ice**: Aired as an episode of NET Playhouse.<br />
+**Cranko's Castle**: produced in 1969 by BBC. Aired as an episode of NET Festival.<br />
+**Crime and Punishment**: 2 hour program, produced in 1966 by Rediffusion Television, Ltd., originally shot on videotape.<br />
+**Crime and the Urban Crisis**: 1 hour program, produced in 1969 by KQED, originally shot in black and white.<br />
+**The Crisis in the Atlantic Alliance**: produced in 1966 by NET. Aired as an episode of At Issue.<br />
+**Crisis in the Skies**<br />
+**Crisis of the American Newspaper**: 1 hour program, produced in 1965 by NET, originally shot on videotape.<br />
+**Crisis on Campus**: 1 hour program, produced in 1970 by NET, originally shot in color.<br />
+**Cross Country Skiing**: Aired as an episode of What's New.<br />
+**Cuba Today**: 1 hour program, produced in 1967 by NET, originally shot on film in color.<br />
+**Cuba, Si!**: Aired as an episode of Intertel.<br />
+**Cuban Revolution**<br />
+**The Cultural Explosion**: produced in 1966 by Canadian Broadcasting Corporation. Aired as an episode of Intertel.<br />
+**Czechoslovakia: The Wayward Satellite**: produced in 1968 by NET. Aired as an episode of NET Journal.<br />
+**D-Day and 25**: produced in 1969 by NCRV, Dutch Television. Aired as an episode of NET Journal.<br />
+**Dallas Symphony**: 1 hour program<br />
+**Danby Stream**<br />
+**Dance Concert**<br />
+**Dance Theatre of Jose Limon**: produced in 1965 by WGBH. Aired as an episode of NET Festival.<br />
+**Dancer's World**: 30 minute program, produced in 1958 by WQED, originally shot on film.<br />
+**Dandelion**: produced in 1970 by the NET Division of the Educational Broadcasting Corporation.<br />
+**Dandy Dick**: produced in 1963 by Associated-Rediffusion. Aired as an episode of NET Drama Festival.<br />
+**Danger Frontier: The Other Port**: 1 hour program, produced by Telepool-Munich, originally shot on videotape.<br />
+**Dante Gabriel Rosetti**: Aired as an episode of NET Playhouse Biography.<br />
+**Dante's Inferno**: 90 minute program<br />
+**Darwin**: produced in 1968 by Canadian Broadcasting Corporation. Aired as an episode of NET Journal.<br />
+**Dateline: Eastern Europe**: 1 hour program, produced in 1969 by NET.<br />
+**Dateline: Southeast Asia**: 1 hour program, produced in 1969 by NET, originally shot on videotape in black and white.<br />
+**David Ben-Gurion**: produced in 1960 by WGBH.<br />
+**David Lean: A Self Portrait**: Aired as an episode of Realities.<br />
+**Dawn Over the Mountains**: produced in 1961 by NHK. Aired as an episode of Intertel.<br />
+**A Day in June**: Aired as an episode of What's New.<br />
+**A Day with the Incas**: Aired as an episode of What's New.<br />
+**Dean Rusk**<br />
+**Dean Rusk: Senate Foreign Relations Hearings**: produced in 1968 by NET.<br />
+**Dear Liar**: 90 minute program, produced in 1965 by WGBH, originally shot on videotape.<br />
+**Death of a Small Farm**: produced in 1967 by KUON. Aired as an episode of Local Issue.<br />
+**Death on the Highway**: produced in 1965 by NET. Aired as an episode of At Issue.<br />
+**Death Penalty**: produced by BBC. Aired as an episode of Perspectives.<br />
+**Debate: Baldwin vs. Buckley**: 1 hour program, produced in 1965 by BBC, originally shot on videotape.<br />
+**Decade of Living with Russia**<br />
+**Deer Tracks**: Aired as an episode of What's New.<br />
+**Defection: The Case of Colonel Petrov**: Aired as an episode of NET Playhouse.<br />
+**The Defense Cutback**: produced in 1964 by NET. Aired as an episode of At Issue.<br />
+**Demonstrations: Exploring the University and Ragtime Era**<br />
+**Demonstrations: The Playwright and Main Street**<br />
+**Desert Detective**: Aired as an episode of What's New.<br />
+**Detroit Symphony Orchestra**: Aired as an episode of NET Symphony.<br />
+**Development of Instrument**: Aired as an episode of What's New.<br />
+**Devi**: Aired as an episode of NET Playhouse.<br />
+**Devil in the Backlands**: 1 hour program, produced in 1965 by Adrian Cowell, originally shot on film and transferred to videotape.<br />
+**Dialogue on Red China**: 1 hour program, produced in 1964 by NET, originally shot on videotape.<br />
+**Dialogue with Malcolm Boyd**: 1 hour program<br />
+**Dialogue: Martin Buber and Israel**<br />
+**Diary of a Student Revolution**: produced in 1969 by NET. Aired as an episode of NET Journal.<br />
+**Dick Gregroy is Alive and Well**: 1 hour program, produced in 1970 by NET.<br />
+**Dies Irae**<br />
+**The Difference Between Us**: produced in 1966 by NET. Aired as an episode of Intertel.<br />
+**Dinoland**: Aired as an episode of What's New.<br />
+**Dinoland**: Aired as an episode of What's New.<br />
+**Dinoland**: Aired as an episode of What's New.<br />
+**Dinoland**: Aired as an episode of What's New.<br />
+**Dinoland**: Aired as an episode of What's New.<br />
+**The Discontented**<br />
+**The Discounters**<br />
+**A Discussion with J. Reston**<br />
+**The Disordered Mind**: produced in 1967 by Canadian Broadcasting Corporation. Aired as an episode of NET Journal.<br />
+**The Dispersed**: 1 hour program, produced in 1964 by Television Reporters International, originally shot on videotape.<br />
+**Divided We Stand**: 1 hour program, originally shot in color.<br />
+**Do You Know the Milky Way?**: 90 minute program<br />
+**Do You Wanna Hear Some Ragtime?**: 1 hour program, produced in 1970 by WHYY.<br />
+**Doctors of Hope**: 1 hour program, produced in 1961 by WOSU-TV and NET, originally shot on videotape.<br />
+**A Doll's House**: produced in 1964 by Associated-Rediffusion. Aired as an episode of NET Drama Festival.<br />
+**The Dollar: Poor Apology**<br />
+**Don Carlos**: 180 minute program, produced by Bavaria Atelier.<br />
+**Don Giovanni**: produced in 1966 by Harmomy Films Ltd.. Aired as an episode of NET Festival.<br />
+**Don Pasquale**: 1 hour program, produced by KRMA, originally shot on videotape.<br />
+**Don't Label Me**: produced in 1962 by Canadian Broadcasting Corporation. Aired as an episode of Intertel.<br />
+**Don't Shoot the Composer**<br />
+**Done**<br />
+**Double Concerto**: produced in 1968 by BBC. Aired as an episode of NET Festival.<br />
+**Doughnuts from Homer Price**: Aired as an episode of What's New.<br />
+**Downeast Smile-In**: 30 minute program, produced in 1970 by Maine ETV Network, originally shot in color.<br />
+**Dr. John H. Knowles: A Case of Politics**: 30 minute program, produced in 1969 by NET, originally shot on videotape in color.<br />
+**Dr. Knock**: Aired as an episode of NET Playhouse.<br />
+**Dr. Stanton's Speech**: 18 minute program, originally shot on videotape.<br />
+**The Dream**: Aired as an episode of Fanfare.<br />
+**The Dream Still Lives**: 1 hour program<br />
+**The Drinking American**: Aired as an episode of NET Journal.<br />
+**Drugs are Like That**<br />
+**Dublin One**: Aired as an episode of NET Playhouse.<br />
+**Dubliners**: 30 minute program, produced in 1963 by Associated Rediffusion, originally shot on film.<br />
+**DuBridge Goes to Washington**: 30 minute program, produced in 1969 by KCET, originally shot in color.<br />
+**The Duel**: Aired as an episode of NET Playhouse.<br />
+**Duke Ellington at the Cote D'Azur**: Aired as an episode of NET Festival.<br />
+**Duke Ellington: A Concert of Sacred Music**: produced in 1967 by KQED. Aired as an episode of NET Festival.<br />
+**Duke Ellington: Love You Madly**: produced in 1967 by KQED. Aired as an episode of NET Festival.<br />
+**Dwight David Eisenhower**: 1 hour program, produced by NET, originally shot in black and white.<br />
+**Dylan Thomas: The World I Breathe**: produced in 1968 by NET. Aired as an episode of NET Festival.<br />
+**Earl Scruggs: His Family and Friends**: produced in 1971 by Amram Nowak Associates. Aired as an episode of Fanfare.<br />
+**Earth Day**: 6 hour and 30 minute program, produced in 1970 by NET, originally shot in color.<br />
+**East Africa Today**: Aired as an episode of What's New.<br />
+**East Africa Today**: Aired as an episode of What's New.<br />
+**Eastern European Transition**: produced in 1965 by NET. Aired as an episode of At Issue.<br />
+**Eastman Theatre Gala**<br />
+**Eat Africa: Man and Beast**: Aired as an episode of What's New.<br />
+**The Ecumenical Century**: 1 hour program, produced by Time-Life Broadcast, Inc., originally shot on videotape.<br />
+**Ed and Frank**: 34 minute program, produced in 1962 by BBC and NET, originally shot on film.<br />
+**Edge of Endurance**: Aired as an episode of Spectrum.<br />
+**Edge of the Sea**: Aired as an episode of What's New.<br />
+**Educational Television 1959**: 15 minute program, produced in 1959, originally shot on kinescope.<br />
+**Edward Weeks**: produced in 1960.<br />
+**Eggs and Dairy**: Aired as an episode of What's New.<br />
+**Eigth Wonder**: Aired as an episode of What's New.<br />
+**Einstein**: 1 hour program, produced in 1966 by BBC, originally shot on videotape.<br />
+**Einstein: Story of the Man**<br />
+**Eisenhower vs. Khrushchev: The Issues**: 30 minute program, produced in 1959, originally shot on film.<br />
+**El Teatro Campesino**: Aired as an episode of NET Playhouse.<br />
+**Eleanor Roosevelt**: 10 minute program, produced in 1960 by USIA.<br />
+**Election in Britain**: 30 minute program, produced by Rediffusion Television, Ltd., originally shot on videotape.<br />
+**Election Specials**: produced in 1970.<br />
+**Elections '70. Part 1: Mandate for Tomorrow**<br />
+**Elections '70. Part 2**<br />
+**Elementary Russian**: 30 minute program<br />
+**Elizabeth R**: 90 minute program, produced by BBC, originally shot in color.<br />
+**Elizabeth Schwarzkopf**: Aired as an episode of NET Festival.<br />
+**The Emperor with Grant Johannesen**: 1 hour program<br />
+**Emperor's New Clothes**: Aired as an episode of What's New.<br />
+**The Enclosure**: produced in 1970 by NET. Aired as an episode of NET Journal.<br />
+**Encore Paris**: produced in 1969 by Frederic Rossif. Aired as an episode of NET Festival.<br />
+**Encounter at Trinity**: Aired as an episode of What's New.<br />
+**End of a Revolution**: 1 hour program, produced in 1968 by NET, originally shot on videotape in black and white and color sections.<br />
+**Enemies**: 2 hour program<br />
+**An Enemy of the People**: produced in 1966 by NET. Aired as an episode of NET Playhouse.<br />
+**Enough to Live On**: produced in 1968 by KVIE. Aired as an episode of Local Issue.<br />
+**Environmental Theatre: Elia Kazan**<br />
+**Environmental Theatre: Mr. Silver**<br />
+**Epilepsy, Gibberellin, Volcano**: Aired as an episode of Spectrum.<br />
+**Ernest Ansermet**: 30 minute program, produced in 1968 by Swiss Television, originally shot on videotape.<br />
+**Eroica**: produced in 1968 by WCET. Aired as an episode of NET Festival.<br />
+**Eskimo Arts and Crafts**: Aired as an episode of What's New.<br />
+**Eskimo Summer and Corral**: Aired as an episode of What's New.<br />
+**An Essay on Death: A Memorial to John F. Kennedy**: 1 hour program, produced in 1964 by NET.<br />
+**The Essential Nehru**: 1 hour program, produced in 1964 by Arnold Michaelis, originally shot on film.<br />
+**Eternal Tramp: Charlie Chaplin**: produced in 1969 by Harry Hurwitz. Aired as an episode of NET Festival.<br />
+**Eton**: produced in 1967 by BBC. Aired as an episode of NET Journal.<br />
+**Eugene Onegin**: Aired as an episode of NET Festival.<br />
+**Europa**: 10 minute program, produced by Pelican Films Inc..<br />
+**Eurovision Song Contest**: Aired as an episode of Fanfare.<br />
+**An Evening with the Vienna Philharmonic**: Aired as an episode of Fanfare.<br />
+**An Evening's Journey to Conway, Mass.**: Aired as an episode of NET Playhouse.<br />
+**Ever on Sunday: Children's Jazz Festival**<br />
+**Every 7th Child**: 1 hour program<br />
+**Every Tenth Man: A Study of Homosexuality**: produced in 1965 by Canadian Broadcasting Corporation. Aired as an episode of Intertel.<br />
+**Everyman**: Aired as an episode of NET Playhouse.<br />
+**The Evil Queen**: produced in 1963 by Swedish TV. Aired as an episode of Music Strip.<br />
+**The Expanding City**<br />
+**Experiement in Ignorance**: produced in 1964. Aired as an episode of At Issue.<br />
+**Experiment in Freedom**<br />
+**The Exploding Culture**: 30 minute program, produced by WQED.<br />
+**Explorations Decemeber 24, 1954**<br />
+**Eye on You**: Aired as an episode of What's New.<br />
+**Face of Excellence**: Aired as an episode of Spectrum.<br />
+**Face of the World**: 30 minute program, produced in 1962 by Lewis Jacobs Productions.<br />
+**Face to Face with China**: produced in 1970 by German TV. Aired as an episode of NET Journal.<br />
+**Face to Face: Albert Finney**<br />
+**Face to Face: O'Hair vs. Bauman**: produced in 1970 by KLRN. Aired as an episode of Realities.<br />
+**Factory**: Aired as an episode of Realities.<br />
+**Faith Healing**: produced in 1965 by KUHT. Aired as an episode of Local Issue.<br />
+**Family Finance**: 30 minute program, produced in 1964 by Vision Associates, originally shot on film.<br />
+**The Fanatics**: produced in 1968 by Granada TV. Aired as an episode of NET Festival.<br />
+**The Far Right in Southern California**: produced in 1964.<br />
+**Farewell to Arabia**: produced in 1967 by INTERTEL. Aired as an episode of NET Journal.<br />
+**Fashion**<br />
+**Fasten Your Seat Belts: A Report on the Crisis in the Air**: produced in 1968 by Canadian Broadcasting Corporation. Aired as an episode of NET Journal.<br />
+**The Father**: Aired as an episode of NET Playhouse.<br />
+**Father and Son**<br />
+**Father Berrigan: The Holy Outlaw**: produced in 1970 by NET. Aired as an episode of NET Journal.<br />
+**Faure Requiem**<br />
+**Federal Aid to Education Special**: 30 minute program, produced by WFIL, originally shot on film.<br />
+**The Federal Government and NET**<br />
+**Fes and the Koran**: Aired as an episode of NET Festival.<br />
+**Festival Dubrovnik**: Aired as an episode of NET Festival.<br />
+**Festival Orchestra of New York**: produced in 1965 by NET. Aired as an episode of NET Festival.<br />
+**A Few Castles in Spain**: produced in 1967 by BBC. Aired as an episode of NET Journal.<br />
+**Fiddle and Faddle**<br />
+**Fidel**: produced in 1969 by KQED. Aired as an episode of NET Journal.<br />
+**The Fifty First State: Harlem Schools**<br />
+**The Fight for an Equal Vote**: produced in 1964. Aired as an episode of At Issue.<br />
+**The Films of George Melies**: 1 hour program, produced in 1964 by KQED.<br />
+**Fine Arts Quartet with J. P. Rampal**<br />
+**The Fir Tree**: Aired as an episode of What's New.<br />
+**The First Gentleman**: produced in 1964 by Southern Television. Aired as an episode of NET Drama Festival.<br />
+**The First Priority**: 30 minute program, produced in 1961 by UN-TV.<br />
+**Fischer-Dieskau Recital**: Aired as an episode of NET Festival.<br />
+**Fishing**: Aired as an episode of What's New.<br />
+**Fisk Jubilee Singers**<br />
+**Five College Presidents: An Exchange of Views**: 1 hour program, produced in 1965 by WNDT, originally shot on videotape.<br />
+**Five Faces of Jazz: Newport 1967**: Aired as an episode of NET Festival.<br />
+**Five Tomorrows**: Aired as an episode of NET Playhouse.<br />
+**Flies Eyes**: Aired as an episode of Spectrum.<br />
+**Florence: Days of Destruction**: 1 hour program, produced in 1966 by Radio-Televisione Italiana (RAI), originally shot on videotape.<br />
+**The Flowering Cherry**: Aired as an episode of NET Playhouse.<br />
+**Flowers on a One Way Street**: Aired as an episode of NET Journal.<br />
+**Flying at the Bottom of the Sea**: Aired as an episode of Spectrum.<br />
+**Folk Songs. Part 1**: Aired as an episode of What's New.<br />
+**Folk Songs. Part 2**: Aired as an episode of What's New.<br />
+**Folk Songs. Part 3**: Aired as an episode of What's New.<br />
+**Food From the Sea**: Aired as an episode of What's New.<br />
+**For Freedom Now**: produced in 1963 by WGBH. Aired as an episode of Perspectives.<br />
+**For Those Who Stay**: 24 minute program, produced in 1964 by the Woodrow Wilson School of Public and International Affairs, Princeton University, originally shot on film.<br />
+**The Forgotten War**: 1 hour program<br />
+**Formosa and Chiang Kai-shek's Dream**: 1 hour program, produced in 1965 by Zweites Deutsches Fernsehen, originally shot on videotape.<br />
+**Forty Million Shoes**: produced in 1962 by Canadian Broadcasting Corporation. Aired as an episode of Intertel.<br />
+**Foul**: Aired as an episode of NET Playhouse.<br />
+**Foul/Actor's Choice: Lewis Carroll**: produced in 1970 by WNET. Aired as an episode of NET Playhouse.<br />
+**Four Billion Puppets - Count 'em!**: 1 hour program, produced in 1970 by NET, originally shot in color.<br />
+**Four Families**: 1 hour program, produced in 1961 by the National Film Board of Canada, originally shot on film.<br />
+**Four Religions**: 1 hour program, produced in 1961 by the National Film Board of Canada, originally shot on film.<br />
+**The Fourth R**: 30 minute program, produced in 1962 by WSBT-TV, originally shot on videotape.<br />
+**France**<br />
+**France is Dead, Long Live France**: Aired as an episode of NET Journal.<br />
+**Frederick Delius: A Song of Summer**: Aired as an episode of NET Playhouse.<br />
+**Free at Last**: Aired as an episode of Realities.<br />
+**Free Time**<br />
+**Freedom and Famine**: produced in 1968 by Rediffusion Television. Aired as an episode of NET Journal.<br />
+**Freedom in September**: produced in 1964 by Associated-Rediffusion. Aired as an episode of NET Drama Festival.<br />
+**Freeway**<br />
+**French Eyes on the Future**: 1 hour program, produced in 1966 by BBC, originally shot on videotape.<br />
+**Freud: Man and His Mind**: Aired as an episode of NET Journal.<br />
+**Friends and Love**: 1 hour program<br />
+**From Bach to Rock**: 30 minute program<br />
+**From Protest to Resistance**: Aired as an episode of NET Journal.<br />
+**From Sea to Shining Sea**: 30 minute program<br />
+**From the House of the Dead**: produced in 1969 by NET- Produced through the facilities of NET Boston affiliate WGBH. Aired as an episode of Fanfare.<br />
+**From the Mind of Man: Common Manifesto**<br />
+**Fuel for the Future**: Aired as an episode of Spectrum.<br />
+**The Future of the Liberal Arts College**: 1 hour program, produced in 1967 by NET, originally shot on videotape.<br />
+**G.I. Joe/Vietnam**: 30 minute program, produced in 1966 by Studio Hamburg, West Germany, originally shot on videotape.<br />
+**Gabor Rejto and Adolph Baller**: produced in 1962 by KQED. Aired as an episode of Music Strip.<br />
+**Galbraith vs. Buckley: A Debate**: produced in 1970 by SECA. Aired as an episode of Realities.<br />
+**Galileo**: Aired as an episode of NET Playhouse Biography.<br />
+**Games People Play. Part 1**: Aired as an episode of Spectrum.<br />
+**Games People Play. Part 2**: Aired as an episode of Spectrum.<br />
+**General Douglas MacArthur Obituary**<br />
+**General George C. Marshall Obituary**: 90 minute program, produced in 1959 by the United States Information Agency, originally shot on film in color.<br />
+**Geogria Brown Sings Kurt Weil**: Aired as an episode of Fanfare.<br />
+**George Cukor**: produced in 1970 by Darry Moore Productions. Aired as an episode of NET Festival.<br />
+**George Eliot**: Aired as an episode of NET Playhouse Biography.<br />
+**George Jacques Danton**: Aired as an episode of NET Playhouse Biography.<br />
+**George Szell: One Man's Triumph**: produced in 1970 by Henry Jaffe Enterprises. Aired as an episode of NET Festival.<br />
+**George Wallace on his Politics and the Presidency**: produced in 1968 by APT (Alabama PTV). Aired as an episode of NET Journal.<br />
+**George Washington: Portrait of the Hero as a Young Man**: Aired as an episode of NET Playhouse Biography.<br />
+**Germ Free Medicine**: Aired as an episode of Spectrum.<br />
+**Germany After the Fall**: produced in 1969. Aired as an episode of NET Journal.<br />
+**Germany and Its Shadow**: produced in 1967 by NET. Aired as an episode of Intertel.<br />
+**Gertrude Stein: When You See This, Remember Me**: Aired as an episode of Fanfare.<br />
+**Ghandi's India**: produced in 1969 by BBC. Aired as an episode of NET Journal.<br />
+**Ghost Sonata**: produced in 1965 by BBC. Aired as an episode of NET Festival.<br />
+**Ghosts**: produced in 1966 by BBC. Aired as an episode of NET Festival.<br />
+**Gilbert Becaud**: Aired as an episode of Fanfare.<br />
+**Girard Trust**<br />
+**Girl in Danger: Afraid of School**<br />
+**Giselle**<br />
+**Glacier Legacy**<br />
+**Glass Magic. Part 1**: Aired as an episode of What's New.<br />
+**Glass Magic. Part 2**: Aired as an episode of What's New.<br />
+**Glenn Gould: Off the Record**: 30 minute program, produced in 1962 by the National Film Board of Canada, originally shot on film.<br />
+**Glenn Gould: On the Record**: 30 minute program, produced by the National Film Board of Canada, originally shot on film.<br />
+**A Glimpse of China**: produced in 1970 by Canadian Broadcasting Corporation. Aired as an episode of NET Journal.<br />
+**Glory Hallelujah**: Aired as an episode of NET Playhouse.<br />
+**Glyndebourne Journal 1967**: produced in 1967 by NET by Filmline Ltd.. Aired as an episode of NET Festival.<br />
+**God in Japan**<br />
+**God is Dead**: produced in 1966 by WGTV. Aired as an episode of Local Issue.<br />
+**The Golden Gate**: 10 minute program<br />
+**The Golden Ring**: 90 minute program, produced in 1967 by BBC and the Austrian Television Service, originally shot on videotape.<br />
+**Goldwater: The European Response**: produced in 1964 by NET. Aired as an episode of At Issue.<br />
+**The Good Guys**<br />
+**Good Housing in Good Neighborhoods**: 30 minute program, produced in 1960 by WQED, originally shot on videotape.<br />
+**Good Things Happen over Coffee**: 30 minute program<br />
+**Goodbye, City Hall**: 1 hour program, produced in 1969 by NET's Special Projects Unit, originally shot in color.<br />
+**The Gospel According to Peanuts**: 30 minute program, produced in 1966 by KPIX-TV, originally shot on videotape.<br />
+**Governor's Collin's Address: Man's Responsibility to Man**: 15 minute program, produced in 1962 by WETA, originally shot on film.<br />
+**Grassroots**: 35 minute program, produced in 1961 by BBC and NET, originally shot on film.<br />
+**Great American Dream: Three Views**<br />
+**Great Label Mystery**: produced in 1965 by NET. Aired as an episode of At Issue.<br />
+**The Great Rivals**: 1 hour program, produced in 1964 by NET, originally shot on videotape in color.<br />
+**The Great Society and the GOP**: produced in 1965. Aired as an episode of At Issue.<br />
+**The Great Swamp**: Aired as an episode of What's New.<br />
+**The Green Table**: Aired as an episode of NET Playhouse.<br />
+**Groove Tube**: 1 hour program<br />
+**Groovy**: Aired as an episode of What's New.<br />
+**Growing Up Together**<br />
+**Guatemala**: Aired as an episode of What's New.<br />
+**Guests of the Planet**: Aired as an episode of Realities.<br />
+**H. G. Wells: Man of Science**: Aired as an episode of Spectrum.<br />
+**H. L. Hunt: The Richest and the Rightest**: Aired as an episode of NET Journal.<br />
+**The Ham's Wide World**: 30 minute program, produced in 1970 by the American Radio Relay League, originally shot on film in color.<br />
+**Hamile**: Aired as an episode of NET Playhouse.<br />
+**Hamlet**: produced in 1964 by Associated-Rediffusion. Aired as an episode of NET Drama Festival.<br />
+**Hamlet Revisited**: Aired as an episode of NET Festival.<br />
+**A Hand Up**: 30 minute program, produced by World Neighbors.<br />
+**Hands that Made America**: 25 minute program, produced in 1958 by Life Magazine, originally shot on film.<br />
+**Hans Brinker Midnight Sun**: Aired as an episode of What's New.<br />
+**Hansel and Gretel**: produced in 1970 by Canadian Broadcasting Corporation, NET, and British Broadcasting Corporation. Aired as an episode of Fanfare.<br />
+**Happy New Yves**: Aired as an episode of Fanfare.<br />
+**Hard Times in the Country**: Aired as an episode of NET Journal.<br />
+**Hard Travelin'**: Aired as an episode of NET Playhouse.<br />
+**Hard-a-lee**: Aired as an episode of What's New.<br />
+**Harold Urey: The Man and the Moon**: 1 hour program, produced in 1969 by KEBS.<br />
+**Harriet Beecher Stowe**: Aired as an episode of NET Playhouse Biography.<br />
+**Hatred in America**: produced in 1963 by NET. Aired as an episode of At Issue.<br />
+**Haydn Workshop**: 1 hour program<br />
+**Headstart in Mississippi**: produced in 1966 by NET. Aired as an episode of NET Journal.<br />
+**Health Heroes**: Aired as an episode of What's New.<br />
+**The Heartbeat of France**: produced in 1971 by Associated-Rediffusion. Aired as an episode of Intertel.<br />
+**Heartmakers: Life Insurance**: 1 hour program, produced in 1969 by NET, originally shot in color.<br />
+**Heimskringla**: Aired as an episode of NET Playhouse.<br />
+**Helen Hayes: Portrait of an American Artists**: Aired as an episode of NET Playhouse.<br />
+**Her Majesty, Queen Elizabeth Christmas Message to the Commonwealth**: 25 minute program, originally shot in color.<br />
+**Herbert Hoover Obituary**: 10 minute program, produced in 1960, originally shot on film.<br />
+**Heredity: Life's Biggest Gamble**: Aired as an episode of Spectrum.<br />
+**Hidden Frontiers**<br />
+**Higher Education in the USSR**: 30 minute program, produced in 1959 by the University of Pittsburgh, originally shot on kinescope.<br />
+**Higher Place of the Mind: Return to Cambridge**<br />
+**Hiroshima**: produced in 1965 by NET. Aired as an episode of At Issue.<br />
+**Hiroshima-Nagasaki**: Aired as an episode of NET Journal.<br />
+**History of Frivolity**: produced in 1969 by Television Espanola. Aired as an episode of NET Festival.<br />
+**History of Herbology**<br />
+**History of Mourning Dove**<br />
+**History of St. Bernard Dogs**: Aired as an episode of What's New.<br />
+**History: Layer by Layer**: Aired as an episode of Spectrum.<br />
+**Hogan's Goat**: produced in 1971 by NET Division, Educational Broadcasting Corporation. Aired as an episode of NET Playhouse.<br />
+**Hollywood and Its Movies**: Aired as an episode of NET Playhouse.<br />
+**Home on the Cliff**: Aired as an episode of What's New.<br />
+**Home. Part 1**: Aired as an episode of NET Playhouse.<br />
+**Home. Part 2**: Aired as an episode of NET Playhouse.<br />
+**Homefront 1967**: produced in 1967 by NET. Aired as an episode of NET Journal.<br />
+**Homefront 1971: The President, the Press, and the Public**: 1 hour program, originally shot in color.<br />
+**Homosexuality in Men and Women**: produced in 1966 by Rediffusion Television. Aired as an episode of Intertel.<br />
+**Honey Bees and Pollination**: Aired as an episode of What's New.<br />
+**Hong Kong and African Revolutionary**: 30 minute program, produced in 1966 by Studio Hamburg and BBC.<br />
+**Hospital**: produced in 1969 by NET. Aired as an episode of NET Journal.<br />
+**An Hour with Joan Sutherland**: produced in 1965 by NET at WGBH. Aired as an episode of NET Festival.<br />
+**A House Divided**: produced in 1964 by KUED. Aired as an episode of Local Issue.<br />
+**A House in the Jungle**: produced in 1970 by Australian TV. Aired as an episode of NET Journal.<br />
+**The House on the Beach**: produced in 1965 by Rediffusion Television. Aired as an episode of Intertel.<br />
+**Houston Symphony. Part 1**: Aired as an episode of NET Symphony.<br />
+**Houston Symphony. Part 2**: Aired as an episode of NET Symphony.<br />
+**How a Commercial Artist Works**: 15 minute program<br />
+**How Mass Media Affects Children**: 1 hour program, produced in 1970.<br />
+**How the Press Was Won**: produced in 1964 by NET. Aired as an episode of At Issue.<br />
+**How to Be a Witch. Part 1**: Aired as an episode of What's New.<br />
+**How to Be a Witch. Part 2**: Aired as an episode of What's New.<br />
+**How to Be First**: produced in 1966 by BBC. Aired as an episode of NET Journal.<br />
+**How to Stop Smoking**: produced in 1964. Aired as an episode of At Issue.<br />
+**Hubert Humphrey on Government and the Presidency**: produced in 1968 by KCET. Aired as an episode of NET Journal.<br />
+**Huelga**: produced in 1968 by KING. Aired as an episode of NET Journal.<br />
+**Human Aggression**: Aired as an episode of Spectrum.<br />
+**Human Cargo**: Aired as an episode of NET Journal.<br />
+**Human Environment and World Order**: 1 hour program, produced in 1970 by KLRN, originally shot in color.<br />
+**Human Rights Day Concert**: produced in 1968 by NET.<br />
+**The Human X Factor**: Aired as an episode of Spectrum.<br />
+**Hunger in Chicago: To Save the Hungry**<br />
+**Hunger: A National Disgrace. Part 1**: 1 hour program, produced in 1969 by NET, originally shot in color.<br />
+**Hunger: A National Disgrace. Part 1**: 1 hour program, produced in 1969 by NET, originally shot in color.<br />
+**Hypnosis: Myth or Medicine**: Aired as an episode of Spectrum.<br />
+**I, the Aboriginal**: 1 hour program, produced in 1964 by the Australian Broadcasting Commission, originally shot on film.<br />
+**The Idea of North**: produced by Canadian Broadcasting Corporation. Aired as an episode of Realities.<br />
+**An Ideal Husband**: Aired as an episode of NET Playhouse.<br />
+**Identity**: 1 hour program, produced in 1968 by the Rensselaer Polytechnic Institute, originally shot on videotape.<br />
+**If Eugene Talmadge Were Alive Today, He'd Turn Over in His Grave**: Aired as an episode of Realities.<br />
+**If I Don't Agree Must I Go Away**: Aired as an episode of NET Journal.<br />
+**Igor Stravinsky**: produced in 1966 by National Film Board of Canada and WGBH. Aired as an episode of NET Festival.<br />
+**The Imperfect Society**<br />
+**The Importance of Being Earnest**: Aired as an episode of NET Playhouse.<br />
+**In Color, In Color**: 30 minute program<br />
+**In Fashion**: 30 minute program, produced in 1968 by NET, originally shot on film in color.<br />
+**In Memorium: Coleman Hawkins**: produced in 1969 by WTTW. Aired as an episode of NET Festival.<br />
+**In My Memory**<br />
+**In Pursuit of Happiness**: 1 hour program, produced in 1959 by the Adult Education Association of USA, originally shot on videotape.<br />
+**In Search of Hart Crane**<br />
+**In Search of Rembrandt**: produced in 1969 by NET. Aired as an episode of NET Festival.<br />
+**In Search of Space and Outdoor Recreation**: Aired as an episode of What's New.<br />
+**In Search of Strindberg**: Aired as an episode of NET Playhouse Biography.<br />
+**In the Beginning**: Aired as an episode of Spectrum.<br />
+**In The Company of Men**: Aired as an episode of NET Journal.<br />
+**In the Name of Allah**: produced in 1970 by NET-BBC-Bavarian TV. Aired as an episode of NET Festival.<br />
+**In the National Interest**<br />
+**Independent Mr. Jefferson**: 30 minute program, produced by the State University of Iowa.<br />
+**The Independent Society**<br />
+**Indian Canoemen and Saddlemaker**: Aired as an episode of What's New.<br />
+**The Individual and the Universe**: 50 minute program, produced in 1961 by BBC, originally shot on kinescope.<br />
+**Indonesia: The New Order**: produced in 1967 by NET. Aired as an episode of NET Journal.<br />
+**Inflation**<br />
+**The Influential Americans**: 1 hour program, produced in 1960 by CBS.<br />
+**The Information War**: produced in 1966 by NET. Aired as an episode of At Issue.<br />
+**Inheritance**: 30 minute program, produced in 1964 by Mithras Films Ltd, originally shot on film.<br />
+**The Inland Sea**<br />
+**Inland Waterway. Part 1**: Aired as an episode of What's New.<br />
+**Inland Waterway. Part 2**: Aired as an episode of What's New.<br />
+**Innocent by Reason of Insanity: The Psychiatrist in Court **: produced in 1964 by NET. Aired as an episode of At Issue.<br />
+**The Innocents**: 1 hour program, produced in 1961 by WGBH, originally shot on film.<br />
+**Insect Comedy**: produced by BBC. Aired as an episode of NET Drama Festival.<br />
+**Inside China**: 1 hour program, produced in 1965 by Telepool-Munich, originally shot on videotape.<br />
+**Inside the Foreign Office**: Aired as an episode of Intertel.<br />
+**Inside the Ghetto**: produced in 1965 by NET. Aired as an episode of At Issue.<br />
+**Integration: Two Towns in Texas**: produced in 1968 by KUHT. Aired as an episode of Local Issue.<br />
+**International Indian Ocean Expedition**: 30 minute program, produced in 1967 by Screen Presentations, Inc., originally shot on film in color.<br />
+**Interplanetary Science**: Aired as an episode of Spectrum.<br />
+**An Interview with Linus Pauling**: produced by National Film Board of Canada. Aired as an episode of Perspectives.<br />
+**Interview with Sergeant Shriver**: produced in 1964 by NET. Aired as an episode of At Issue.<br />
+**Intolleranza**: produced in 1966 by WGBH. Aired as an episode of NET Festival.<br />
+**Introducing Roy Buchanan**: 90 minute program, produced in 1971 by the NET Division of the Educational Broadcasting Corporation, originally shot in color.<br />
+**The Intruders**: 30 minute program, produced in 1964 by Highroad Productions, originally shot on film.<br />
+**The Iron Horse**<br />
+**Irregular Verb to Love**: 100 minute program, produced in 1965 by Majestic Productions, originally shot on videotape.<br />
+**Is Somebody There?**: produced in 1970 by WITF. Aired as an episode of NET Festival.<br />
+**Isadora Duncan: The Biggest Dancer in the World**: Aired as an episode of NET Playhouse Biography.<br />
+**Island of Fronzen Sea**<br />
+**Island on the Frozen Sea**: Aired as an episode of What's New.<br />
+**Isolation: Two Views**: 90 minute program, produced in 1971 by WMPB, originally shot in color.<br />
+**Israel Philharmonic Orchestra with Leonard Bernstein**<br />
+**Israel's Frontier**<br />
+**Israeli Science: A Question of Integration**: Aired as an episode of Spectrum.<br />
+**Israeli Science: In Search of a Future**: Aired as an episode of Spectrum.<br />
+**The Issue is Foreign Aid**: 1 hour program, produced in 1958 by William Resnick, originally shot on videotape.<br />
+**It All Started with a Lion Cub**: Aired as an episode of What's New.<br />
+**Jack Beeson**: 30 minute program, produced in 1967 by WGBH, originally shot on videotape.<br />
+**Jacobian's Changling**: Aired as an episode of NET Playhouse.<br />
+**James Buswell at Castle Hill**: 1 hour program<br />
+**James Oliver Buswell III at Castle Hill**<br />
+**Japanese Medicine: The Silent Invader**: Aired as an episode of Spectrum.<br />
+**Jazz a la Montreaux**: produced in 1971 by NET and Swiss Television. Aired as an episode of Special of the Week.<br />
+**Jazz a la Montreaux**<br />
+**Jazz at Tanglewood: Judy Collins and Don Ellis**: produced in 1969 by WGBH. Aired as an episode of Fanfare.<br />
+**Jazz at Tanglewood: Moden Jazz Quartet**: produced in 1969 by WGBH. Aired as an episode of Fanfare.<br />
+**Jazz at the Overseas Press Club**<br />
+**Jazz from Newport, 1966**: 1 hour program, produced in 1967 by WGBH, originally shot in color.<br />
+**Jerome Hines with Elliot Norton**: 30 minute program, produced in 1963 by WGBH, originally shot on videotape.<br />
+**Jet Age, Jet Problems**: produced in 1967 by WTTW. Aired as an episode of Local Issue.<br />
+**The Jet Train in Here**: Aired as an episode of Spectrum.<br />
+**Jetport**: Aired as an episode of What's New.<br />
+**JFK: His Last Trip Abroad**: 1 hour program, produced in 1964 by Deutsche Wochenschau of Germany, originally shot on videotape.<br />
+**JFK: His Place in History**: 30 minute program, produced in 1963, originally shot on videotape.<br />
+**Joanna Featherstone**: Aired as an episode of What's New.<br />
+**The Job Corps**: produced in 1965 by KOAP-TV. Aired as an episode of Local Issue.<br />
+**The Job Corps**: produced in 1966 by NET. Aired as an episode of At Issue.<br />
+**Joe**<br />
+**John and Sam Adams**: produced in 1971 by WQED. Aired as an episode of NET Playhouse Biography.<br />
+**John F. White**<br />
+**John Foster Dulles: Obituary**: 15 minute program, produced in 1959 by the United States Information Agency, originally shot on film.<br />
+**John Glenn Story**: 30 minute program, produced in 1963 by NASA, originally shot on film in color.<br />
+**Josh Logan with Elliot Norton**: 30 minute program, produced in 1963 by WGBH, originally shot on videotape.<br />
+**Journey into Nutrition**: Aired as an episode of What's New.<br />
+**Journey of the Fifth Horse**: produced in 1966 by NET. Aired as an episode of NET Playhouse.<br />
+**Journey of the Fifth Horse**: 135 minute program, produced in 1969 by NET.<br />
+**Journey to the Moon. Part 1**: Aired as an episode of What's New.<br />
+**Journey to the Moon. Part 2**: Aired as an episode of What's New.<br />
+**Journey Toward Progress**: 30 minute program, produced in 1963 by NET, originally shot on videotape.<br />
+**Julius Caesar**: produced in 1971 by BBC. Aired as an episode of NET Playhouse Biography.<br />
+**Julius Caesar**: produced by Stuart Burge. Aired as an episode of NET Drama Festival.<br />
+**Julius Monk's Plaza 9**: produced in 1968 by NET. Aired as an episode of NET Playhouse.<br />
+**The Julliard Quartet**: produced in 1965 by WNDT. Aired as an episode of NET Festival.<br />
+**June 1968: A Summer of Music**: Aired as an episode of NET Festival.<br />
+**June Moon**: 90 minute program<br />
+**Jungle Wildlife. Part 2**: Aired as an episode of What's New.<br />
+**Junior Rocketry**: Aired as an episode of What's New.<br />
+**Just Jazz**<br />
+**Justice and the Poor**: produced in 1967 by NET. Aired as an episode of NET Journal.<br />
+**The Justice of Law**: Aired as an episode of NET Drama Festival.<br />
+**Juvenille Court**: produced in 1974 by Zipporah Films. Aired as an episode of Special of the Week.<br />
+**Kaddish**: produced in 1969 by Radio Bremen. Aired as an episode of NET Journal.<br />
+**Kennedy**: 30 minute program, produced by WTTW.<br />
+**Kennedy International Awards**: 1 hour program, produced in 1966 by WGBH, originally shot on videotape.<br />
+**The Kiddie Market**: produced in 1964 by NET. Aired as an episode of At Issue.<br />
+**The Killing of the King**: produced in 1964 by Associated-Rediffusion. Aired as an episode of NET Drama Festival.<br />
+**King Lear**: 2 hour program<br />
+**A King's Revolution**: produced in 1964 by Associated-Rediffusion. Aired as an episode of Intertel.<br />
+**A Knife in the Water**: produced in 1967 by Kamera Unit of Film Polski. Aired as an episode of NET Playhouse.<br />
+**Knowledge and Ideas**<br />
+**Kremlinology**: 90 minute program, produced in 1963 by WNDT, originally shot on videotape.<br />
+**Kress Collection**: 17 minute program, produced by the University of Arizona, originally shot on film.<br />
+**Kuwait**: produced in 1968 by BBC. Aired as an episode of NET Journal.<br />
+**L'ajo nell'imbaraazo**: 1 hour program, produced in 1968 by Cine Lirica.<br />
+**L'Aventura**: produced in 1966 by Janus Films. Aired as an episode of NET Playhouse.<br />
+**L'Aventura**: 145 minute program, produced in 1966 by NET.<br />
+**L'Heure Espagnole**: 30 minute program, produced in 1960 by WGBH, originally shot on videotape.<br />
+**La Finta Giardiniera**: 171 minute program, produced in 1959 by WGBH.<br />
+**La Malade Imaginaire**: produced by Radiodiffusion Television Francaise. Aired as an episode of NET Drama Festival.<br />
+**La Mama Playwrights**: produced in 1967 by NET. Aired as an episode of NET Playhouse.<br />
+**La Marmite**: produced in 1966 by Marie-Josphe Dubergey. Aired as an episode of NET Playhouse.<br />
+**La Otra**: Aired as an episode of NET Playhouse.<br />
+**La Rodine**: 90 minute program<br />
+**La Scala di Seta**: produced in 1963 by Cine Lirica Italiana. Aired as an episode of Music Strip.<br />
+**La Serva Padrona**: produced in 1963 by Cine Lirica Italiana. Aired as an episode of Music Strip.<br />
+**La Serva Padrona**: 65 minute program, produced in 1963 by CLI.<br />
+**La Terna Magica**<br />
+**La Traviata**: produced in 1963 by Radio-Televisione Italiana. Aired as an episode of Music Strip.<br />
+**Laboratory Detectives**: Aired as an episode of Spectrum.<br />
+**Lady with the Dog**: produced in 1967 by Lenfilm Studios. Aired as an episode of NET Playhouse.<br />
+**Land Grant Murals**: 15 minute program, produced by Penn State.<br />
+**The Land That Waited**: 50 minute program, produced in 1963 by the Australian Broadcasting Commission, originally shot on film.<br />
+**Landmarks for Liberty**<br />
+**Landmarks of Liberty**: Aired as an episode of What's New.<br />
+**Language of Birds**<br />
+**The Language of Gesture**: 30 minute program, produced in 1963 by UNESCO Paris, originally shot on film in black and white.<br />
+**Language of the Deaf. Part 1**: Aired as an episode of What's New.<br />
+**Language of the Deaf. Part 2**: Aired as an episode of What's New.<br />
+**The Last Campaign of Robert Kennedy**: produced in 1969 by TV Fernsehen. Aired as an episode of NET Journal.<br />
+**The Last Chance**: produced in 1966. Aired as an episode of NET Journal.<br />
+**The Last Menominee**: produced in 1966 by WHA-TV. Aired as an episode of Local Issue.<br />
+**Laudes Evangelli**: produced in 1968 by Rediffusion Television. Aired as an episode of NET Festival.<br />
+**Law and Order**<br />
+**Law and Order: A Study of Police in Four Countries**: produced in 1970 by Intertel. Aired as an episode of Intertel.<br />
+**Lay Down Your Arms**: produced in 1971 by London Weekend Television. Aired as an episode of NET Playhouse.<br />
+**Lay My Burden Down**: produced in 1966 by NET. Aired as an episode of NET Journal.<br />
+**Lay My Burden Down**: 1 hour program, produced in 1966 by NET.<br />
+**Layman and the Arts**: 30 minute program, produced in 1961 by WMSB, originally shot on videotape.<br />
+**LBC Chorale in Disneyland**<br />
+**LBJ: An Unposed Profile**: 30 minute program, produced in 1964 by NET, originally shot on videotape.<br />
+**Learn Russian**: 30 minute program, produced by KQED.<br />
+**Learning to Love**: Aired as an episode of Spectrum.<br />
+**Leinsdorf Recreates**: produced in 1968 by WGBH. Aired as an episode of NET Festival.<br />
+**The Leisure Boom: An Examination of the American Pursuit of Pleasure**: produced in 1965 by NET. Aired as an episode of At Issue.<br />
+**The Lenox Quartet**: Aired as an episode of Music Strip.<br />
+**Leonard Bernstein and the London Philharmonic**: 3 hour program<br />
+**Leopold Stokowski**: produced in 1970 by NET. Aired as an episode of Fanfare.<br />
+**Lerhuset Mud House**: Aired as an episode of What's New.<br />
+**Less Than President**<br />
+**The Lesson of Thalidomide**: produced in 1963 by NET. Aired as an episode of At Issue.<br />
+**Let Me Hear You Whisper**: produced in 1969 by NET Division, Educational Broadcasting Corporation. Aired as an episode of NET Playhouse.<br />
+**Let Them Learn**<br />
+**Let Us Begin**: produced in 1961 by Image Productions.<br />
+**Let's Figure It**<br />
+**Let's Talk**<br />
+**The Letter**: Aired as an episode of What's New.<br />
+**Life and Times of Bertrand Russell**: 1 hour program, produced in 1965 by BBC, originally shot on videotape.<br />
+**The Life and Times of John Huston**: produced in 1967 by Allan King Associates. Aired as an episode of NET Festival.<br />
+**Life and Times of Leopold Stokowski**: 1 hour program<br />
+**Life and Times of Marshall Tito**: 1 hour program, produced in 1964 by BBC, originally shot on videotape.<br />
+**Life in the Woodlot and How to Build an Igloo**: Aired as an episode of What's New.<br />
+**Life of Adolf Hitler**: 90 minute program, produced in 1968 by Transocean International of Germany, originally shot on videotape in black and white.<br />
+**Life of Henry V**: produced in 1958 by BBC. Aired as an episode of NET Drama Festival.<br />
+**Life of the Desert**: Aired as an episode of What's New.<br />
+**Life Style**: produced in 1969 by NET. Aired as an episode of NET Journal.<br />
+**Life, Death, Japanese Music**<br />
+**Light of Asia**: produced in 1967 by Associated Television, London. Aired as an episode of NET Journal.<br />
+**Like a Bird**: Aired as an episode of What's New.<br />
+**LINC with Tomorrow**: Aired as an episode of Spectrum.<br />
+**Lincoln Center Day**: Aired as an episode of NET Festival.<br />
+**Lincoln Center Ground Breaking Ceremony**: 1 hour program, produced in 1959 by WCBS, originally shot on videotape.<br />
+**Lincoln Center Stage Five: Ballets of the Five Senses**: 1 hour program, produced in 1967 by NET, originally shot on videotape.<br />
+**Lincoln Center Stage Five: The Victim**: 1 hour program, produced in 1966 by NET, originally shot on videotape.<br />
+**Lincoln Center Stage Five: Three Premiers**: 1 hour program, produced in 1965 by NET, originally shot on videotape.<br />
+**Lincoln Center: A Legend in Born**: 30 minute program<br />
+**Lincoln Day Concert**: 2 hour program, produced in 1969 by NET, originally shot in color.<br />
+**The Lion and the Eagle**: produced in 1966 by Rediffusion Television. Aired as an episode of Intertel.<br />
+**Lisa's World**: Aired as an episode of What's New.<br />
+**Little Claus and Big Claus**: Aired as an episode of What's New.<br />
+**The Living Stone**: Aired as an episode of Spectrum.<br />
+**The Living Stone**: Aired as an episode of What's New.<br />
+**Living with a Giant**: produced in 1962 by Associated-Rediffusion. Aired as an episode of Intertel.<br />
+**Lizzie Borden**: produced in 1967 by WGBH. Aired as an episode of NET Festival.<br />
+**Local Issue: Enough to Live on**<br />
+**Log Drive**: Aired as an episode of What's New.<br />
+**London: Capital City. Part 1**: produced in 1963 by Associated-Rediffusion. Aired as an episode of Perspectives.<br />
+**London: Capital City. Part 2**: produced in 1963 by Associated-Rediffusion. Aired as an episode of Perspectives.<br />
+**Long Train West**: Aired as an episode of What's New.<br />
+**The Long Walk**: produced in 1970 by KQED. Aired as an episode of NET Journal.<br />
+**Longfellow. Part 5**: Aired as an episode of What's New.<br />
+**Look Around You. Part 1**: Aired as an episode of What's New.<br />
+**Look: Shelducks**: Aired as an episode of What's New.<br />
+**Lord Byron**: Aired as an episode of NET Playhouse Biography.<br />
+**Lord Kenneth Clark Interview**<br />
+**Lorin Hollander: Up Against the Wall**<br />
+**Lorraine Hansberry: To Be Young, Gifted and Black**: produced in 1972 by NET Division, Educational Broadcasting Corporation. Aired as an episode of NET Playhouse Biography.<br />
+**Lorraine Hansberry: To Be Young, Gifted and Black**<br />
+**Los Angeles Philharmonic**: Aired as an episode of NET Symphony.<br />
+**Los Pastores**: 30 minute program, produced in 1962 by KUHT, originally shot on film.<br />
+**Losing Just the Same**: produced in 1966 by KQED. Aired as an episode of NET Journal.<br />
+**Lost Apple**: produced in 1963 by Talent Associates. Aired as an episode of Perspectives.<br />
+**Lost Pony**: Aired as an episode of What's New.<br />
+**Louisiana Diary**: 1 hour program, produced in 1964 by KQED, originally shot on film.<br />
+**Lower Depths**: Aired as an episode of NET Drama Festival.<br />
+**Lower Depths**: 125 minute program, produced in 1959 by BBC.<br />
+**Loyalties**: 30 minute program, produced in 1959 by KQED.<br />
+**LSD: Lettvin vs Leary**: produced in 1967 by WGBH. Aired as an episode of NET Journal.<br />
+**Luboshutz and Nemenoff**: Aired as an episode of NET Playhouse.<br />
+**Ludwig Van Beethoven**: produced in 1971. Aired as an episode of NET Playhouse Biography.<br />
+**Macbeth**: produced in 1964 by Associated-Rediffusion. Aired as an episode of NET Drama Festival.<br />
+**Madame India**: 30 minute program, produced in 1966 by BBC, originally shot on videotape.<br />
+**Madras House**: produced in 1968 by Granada TV. Aired as an episode of NET Playhouse.<br />
+**Maggie and the Beautiful Machine**<br />
+**Magic Lantern Christmas**: 30 minute program, produced in 1961 by KRMA, originally shot on kinescope.<br />
+**Magically Yours**: Aired as an episode of What's New.<br />
+**Main Street USA**: 30 minute program, produced in 1962 by the Independent Television Corporation of Great Britain, originally shot on film.<br />
+**Main Street: Lansing**<br />
+**Majesty in Mantua**<br />
+**Making Money**: Aired as an episode of NET Playhouse.<br />
+**Making Money/13 Other Very Short Plays/A Slight Accident**: produced in 1970 by New York Television Theatre. Aired as an episode of NET Playhouse.<br />
+**A Man Alone: Charles de Gaulle**: 1 hour program, produced in 1965 by BBC, originally shot on videotape.<br />
+**Man at the Met**<br />
+**The Man From Independence: Harry S. Truman Obituary**<br />
+**Man Meets Duck**<br />
+**A Man on Her Back**: produced in 1969 by BBC. Aired as an episode of NET Playhouse.<br />
+**The Man Shakespeare**: produced in 1964 by BBC. Aired as an episode of NET Festival.<br />
+**Man Toward the Light**: 15 minute program<br />
+**The Man Who Sprang G. Blake**<br />
+**Mandate Monday**: 1 hour program, produced in 1970 by James Karayn, NET, originally shot on videotape in color.<br />
+**Manitas at the Bull Ring**: 30 minute program<br />
+**Marat/Sade**: Aired as an episode of NET Playhouse.<br />
+**Marathon**: produced in 1971 by NET Division, Educational Broadcasting Corporation. Aired as an episode of Realities.<br />
+**Marcel Marceau on Mime**: 30 minute program, produced by WGBH.<br />
+**The March King: John Philip Sousa**: Aired as an episode of Fanfare.<br />
+**Margaret Mead: New Lives for Old**: 90 minute program<br />
+**Margaret Mead's New Guinea Journal**: produced in 1968 by NET Division, Educational Broadcasting Corporation. Aired as an episode of NET Festival.<br />
+**Marginal Merchants: The Negro in Business**: produced in 1966 by WVIZ. Aired as an episode of Local Issue.<br />
+**Mariner II Press Conference**: 1 hour program, produced in 1963 by NASA, originally shot on videotape.<br />
+**Mariner to Mars**: 1 hour program, produced in 1969 by KCET, originally shot in color, with black and white segments.<br />
+**Mark Twain's Hannibal**: Aired as an episode of What's New.<br />
+**The Marriage of Charles the Bold**: 1 hour program, produced by Radio-TV-Belge.<br />
+**The Marriage of Figaro**: produced in 1963 by Radio-Televisione Italiana. Aired as an episode of Music Strip.<br />
+**The Marshes of Two Streets**<br />
+**Martha Graham: Night Journey**: 1 hour program, produced in 1965, originally shot on videotape.<br />
+**Marxism and Chile: An Enigma**: 30 minute program, produced in 1970 by NET, originally shot in black and white.<br />
+**Mary Queen of Scots**: Aired as an episode of NET Playhouse Biography.<br />
+**Masada Today**: Aired as an episode of What's New.<br />
+**A Masked Ball**: produced in 1963 by Radio-Televisione Italiana. Aired as an episode of Music Strip.<br />
+**Mason Williams: A Gift of Song**: produced in 1970 by Creative Film Associates. Aired as an episode of NET Festival.<br />
+**The Master of Santiago**: produced in 1965 by BBC. Aired as an episode of NET Festival.<br />
+**The Masterbuilder**: produced by BBC. Aired as an episode of NET Drama Festival.<br />
+**Masters of the Desert**: Aired as an episode of Spectrum.<br />
+**Mastery of Space**: 1 hour program, produced in 1962 by NASA.<br />
+**Mata Hari**: 1 hour program, produced in 1966 by BBC, originally shot on videotape.<br />
+**Matador**: produced in 1969 by BBC. Aired as an episode of NET Journal.<br />
+**Mathematics Through Discovery**: 30 minute program, produced in 1963 by the United States Office of Education, originally shot on film.<br />
+**Mathematics: Infinity**: produced in 1958 by NBC.<br />
+**Mathematics: Unending Search for Excellence**: 30 minute program, produced by DHEW.<br />
+**Matter of Acceptable Risk**: Aired as an episode of Spectrum.<br />
+**A Matter of Protection**: 30 minute program, produced in 1963 by Louis de Rochemont Associates, originally shot on film in color.<br />
+**A Matter of Survival**: 1 hour program, produced in 1970 by NET, originally shot in color.<br />
+**A Matter of Time**: produced in 1969 by Canadian Broadcasting Corporation. Aired as an episode of NET Journal.<br />
+**Maureen Forrester**: 1 hour program, produced in 1966 by NET.<br />
+**Maybe Tomorrow**<br />
+**The Mayfly and the Frog**: produced in 1968 by BBC. Aired as an episode of NET Playhouse.<br />
+**McCarthy and the Presidency**: Aired as an episode of NET Journal.<br />
+**Medical Care for Adolescents**: 30 minute program, produced by Merck Sharp and Dohme, originally shot on film.<br />
+**Medical Care: Are We Getting the Best?**: produced in 1965 by NET. Aired as an episode of At Issue.<br />
+**Medical Technology: Exploring with Sound**: Aired as an episode of Spectrum.<br />
+**Medicine at the Crossroads**<br />
+**Medicine Men of Africa**<br />
+**Medicine Men. Part 1**: Aired as an episode of Spectrum.<br />
+**Medicine Men. Part 2**: Aired as an episode of Spectrum.<br />
+**Meeting of Minds: New Perspectives in Education**<br />
+**The Meeting; German Clock**: Aired as an episode of What's New.<br />
+**Melina Mecouri: I Was Born Greek**: produced in 1970 by Allan King Associates. Aired as an episode of Fanfare.<br />
+**Melina Mercouri**: 1 hour program<br />
+**Melon in the River**: produced in 1965 by WMHT. Aired as an episode of Local Issue.<br />
+**Melting of Molly**<br />
+**Men Against Cancer**: produced in 1968 by Rediffusion Television. Aired as an episode of NET Journal.<br />
+**Men Against Cancer**<br />
+**Men for Others**: produced in 1965 by Canadian Broadcasting Corporation. Aired as an episode of Intertel.<br />
+**Men in Black**: produced in 1966 by Rediffusion Television. Aired as an episode of Intertel.<br />
+**Men in Orbit (aka Men in Space)**: 1 hour program, produced in 1959 by KUHT, originally shot on film.<br />
+**Merely Players**: produced in 1968 by WGBH. Aired as an episode of NET Festival.<br />
+**Messenger from Violet Drive**: 30 minute program, produced in 1964 by KQED, originally shot on videotape.<br />
+**Messiah**: produced in 1964 by WGBH. Aired as an episode of NET Festival.<br />
+**Mid Channel**: 75 minute program, produced in 1967 by Granada.<br />
+**Mid-Channel**: produced in 1967 by Granada TV. Aired as an episode of NET Playhouse.<br />
+**Middle East: Search for a Solution**: 1 hour program, produced in 1969 by NET, originally shot in color.<br />
+**Middle East: UN Disaster**: 30 minute program, produced in 1958 by WGBH.<br />
+**Midsummer 1967**: produced in 1967 by NET. Aired as an episode of NET Journal.<br />
+**Midsummer Night's Dream**: produced in 1962 by BBC. Aired as an episode of NET Drama Festival.<br />
+**The Mighty Warrior**<br />
+**Migrant Labor**: 30 minute program, produced in 1965 by Harry McCarthy, originally shot on videotape.<br />
+**Migrant Workers**<br />
+**Miguel**: Aired as an episode of What's New.<br />
+**Miguel**: Aired as an episode of What's New.<br />
+**Mikado**: produced in 1963 by BBC. Aired as an episode of NET Festival.<br />
+**Mike Makes His Mark**<br />
+**Milhaud: A Portrait**: 1 hour program, produced in 1963 by KQED, originally shot on film.<br />
+**The Mind of Man**: produced in 1970 by NET, BBC, and Swedish and Bavarian Television. Aired as an episode of Realities.<br />
+**Mind of Man**: 2 hour program<br />
+**Mingus**: produced in 1971 by Thomas Reichman. Aired as an episode of Fanfare.<br />
+**Miniature War**: Aired as an episode of Spectrum.<br />
+**Minneapolis Symphony. Part 1**: Aired as an episode of NET Symphony.<br />
+**Minneapolis Symphony. Part 2**: Aired as an episode of NET Symphony.<br />
+**Minority Candidates: Where They Stand**: 1 hour program, produced in 1968 by KQED, originally shot on videotape in Color.<br />
+**Misalliance**: produced in 1967 by NET. Aired as an episode of NET Playhouse.<br />
+**Mission Control**: Aired as an episode of What's New.<br />
+**A Mission of Discovery**: 30 minute program<br />
+**Mission to Moscow**: 1 hour program, produced in 1959 by KQED, originally shot on videotape.<br />
+**Mississippi**: Aired as an episode of What's New.<br />
+**Mississippi**: Aired as an episode of What's New.<br />
+**Mississippi: A Conversation with James W. Silver**: produced in 1964. Aired as an episode of At Issue.<br />
+**Modern Women: The Uneasy Life**: produced in 1966 by NET. Aired as an episode of NET Journal.<br />
+**Moment of Impact/The Uprooted**: 1 hour program, produced in 1966 by the Canadian Broadcasting Corporation, originally shot on videotape.<br />
+**A Month in the Country**: produced in 1964 by Associated-Rediffusion. Aired as an episode of NET Drama Festival.<br />
+**Monument: Three Epitaphs**<br />
+**The Moon Doctors**: 30 minute program, produced in 1969 by KEBS, originally shot in color.<br />
+**Moon Shots**: Aired as an episode of What's New.<br />
+**Moor's Payene**<br />
+**Morning Incident**<br />
+**Morning Instrument**: Aired as an episode of What's New.<br />
+**Moscow Story**: 1 hour program, produced in 1963 by the Australian Broadcasting Corporation, originally shot on film.<br />
+**A Mother for Janek**: produced in 1967 by WQED. Aired as an episode of NET Playhouse.<br />
+**Mountain/Fall And Rise of the House of Krupp**: 30 minute program, produced in 1965 by the Canadian Broadcasting Corporation, originally shot on videotape.<br />
+**The Mounting Millions**: produced in 1967 by NET. Aired as an episode of Intertel.<br />
+**The Movie Crazy Years**: produced in 1971 by NET Division, Educational Broadcasting Corporation. Aired as an episode of NET Playhouse.<br />
+**Moving On**<br />
+**Mozart Concertos: Lili Kraus**: produced in 1967 by WNDT/NET. Aired as an episode of NET Festival.<br />
+**Mozart's Requiem**: 90 minute program<br />
+**Mr. Agnew and the News**: 1 hour program, produced in 1969, originally shot in color.<br />
+**Mr. Ambassador**: produced in 1964. Aired as an episode of At Issue.<br />
+**Mr. Broadway**<br />
+**Mr. Germany**: 30 minute program, produced in 1966 by the Office of Radio-Television Francaise, originally shot on videotape.<br />
+**Mr. Secretary**: produced in 1960 by Center for Mass Communications. Aired as an episode of Perspectives.<br />
+**Mr. Smith and Other Nonsense**<br />
+**Mrs. Eleanor Roosevelt: Obituary**<br />
+**Much Ado About Nothing**: produced in 1974 by Joseph Papp. Aired as an episode of Special of the Week.<br />
+**Much Ado About Nothing. Part 1**: produced in 1971 by BBC. Aired as an episode of NET Playhouse.<br />
+**Much Ado About Nothing. Part 2**: produced in 1971 by BBC. Aired as an episode of NET Playhouse.<br />
+**Multiply and Subdue the Earth**<br />
+**Muppets on Puppets**: 1 hour program, produced in 1970 by WITF, originally shot in black and white.<br />
+**Murl Deusing Panama**: Aired as an episode of What's New.<br />
+**Music in Color**: Aired as an episode of What's New.<br />
+**Music in Color**: Aired as an episode of What's New.<br />
+**Music Machine**<br />
+**Music Makers of Blue Ridge**: produced in 1966 by NET. Aired as an episode of NET Festival.<br />
+**Music Makers of Blue Ridge**: produced in 1966 by NET.<br />
+**Music Men: A Look at Barber Shopping**: 30 minute program<br />
+**Music Now**: Aired as an episode of Fanfare.<br />
+**The Music of Harry Partch**: 30 minute program<br />
+**Music on the River**: produced in 1962 by Nathan Kroll. Aired as an episode of NET Festival.<br />
+**A Musical Visit to Prague**: produced in 1968 by NET. Aired as an episode of NET Festival.<br />
+**Must I Serve**: produced in 1968 by NET. Aired as an episode of NET Journal.<br />
+**Must I, May I**<br />
+**My Heart's in the Highland**: produced in 1970 by WGBH. Aired as an episode of NET Festival.<br />
+**My Name is Children**: produced in 1967 by Quest Production. Aired as an episode of NET Journal.<br />
+**The Mysterious Mr. Eliot**: produced in 1972 by WNET and BBC. Aired as an episode of Special of the Week.<br />
+**Mystic Hunter**: 30 minute program<br />
+**Myths and Man Eaters**: Aired as an episode of Spectrum.<br />
+**Naked Island**: Aired as an episode of NET Playhouse.<br />
+**Nancy Hanks**: 30 minute program<br />
+**Nation 110: Uganda**: 30 minute program, produced in 1963 by BBC.<br />
+**National Music Camp**<br />
+**National Symphony**: Aired as an episode of NET Symphony.<br />
+**National Theater of the Deaf**: Aired as an episode of NET Playhouse.<br />
+**National Theater of the Deaf: Encore**: Aired as an episode of NET Playhouse.<br />
+**NATO at the Crossroads**: produced in 1964 by NET. Aired as an episode of At Issue.<br />
+**Navajo: White Arrow**<br />
+**NDEA**: 90 minute program<br />
+**The Negro and the American Promise**: produced by WGBH. Aired as an episode of Perspectives.<br />
+**The Negro Voice. Part 1**: produced in 1964. Aired as an episode of At Issue.<br />
+**The Negro Voice. Part 2**: produced in 1964 by NET. Aired as an episode of At Issue.<br />
+**Nepal: Experiment in Education**: 30 minute program<br />
+**NET Opera Theater: La Rodine**: produced in 1972 by Canadian Broadcasting Corporation. Aired as an episode of Special of the Week.<br />
+**NET Opera: Abduction from the Seraglio**: produced in 1970 by NET.<br />
+**NET Opera: The Abduction of the Seraglio**: Aired as an episode of Fanfare.<br />
+**NET Present NY Festival Orchestra**: Aired as an episode of NET Festival.<br />
+**NET Presents Miss Peggy Lee**: Aired as an episode of Fanfare.<br />
+**NET: That Other TV**: produced by NET.<br />
+**New Conservatism**<br />
+**New Dimensions of Learning in a Free Society**: 30 minute program<br />
+**The New Italian**: produced in 1964 by NET and Westinghouse Broadcasting Corporation. Aired as an episode of Intertel.<br />
+**New Leader in Canada**: produced in 1968. Aired as an episode of NET Journal.<br />
+**New Man on Campus**: 1 hour program<br />
+**New Salem**: Aired as an episode of What's New.<br />
+**New Visions for Television**<br />
+**New Voices in Africa**<br />
+**New York Tribune Annual Forum: Constructive Action in Tension Areas: Africa**: 30 minute program, produced in 1958 by the Herald Tribune.<br />
+**Newport Jazz Festival 1967**: Aired as an episode of NET Festival.<br />
+**News Front**: 1 hour program, produced in 1970 by NET.<br />
+**The Next Step for East and West**: produced in 1963. Aired as an episode of At Issue.<br />
+**Next Time I'll Sing to You**: Aired as an episode of NET Playhouse.<br />
+**Next Year is Now**: 30 minute program, produced in 1962 by the Guggenheim Association.<br />
+**Nguyen Cao Ky at the National Press Club**: 1 hour program<br />
+**A Nice Place to Visit**: Aired as an episode of NET Playhouse.<br />
+**The Night After Christmas**: produced in 1963 by NET. Aired as an episode of At Issue.<br />
+**Night Journal**<br />
+**Nighttime in Misteroger's Neighborhood**<br />
+**Nike-X**: produced in 1966 by NET. Aired as an episode of At Issue.<br />
+**Nina Simone: The Sound of Soul**: Aired as an episode of NET Festival.<br />
+**Ninety Days**<br />
+**The Ninety First Day**: produced by Vision Associates.<br />
+**The Nixon Administration**<br />
+**Nixon Inauguration**: Aired as an episode of NET Journal.<br />
+**Nixon Press Conference on March 4, 1971**<br />
+**Nixon Press Conference on May 8, 1970**<br />
+**Nixon: First Hundred Days**: 1 hour program, produced in 1969 by NET.<br />
+**Nixon's Address to the American Society of Newspaper Editors**<br />
+**Nixon's Address: Prospects on Vietnam**<br />
+**Nobel Special**: 1 hour program<br />
+**Noise: The New Pollutant**: Aired as an episode of Spectrum.<br />
+**The Noisemakers**: produced in 1964 by NET. Aired as an episode of At Issue.<br />
+**Non-violence in Mississippi**: 15 minute program, produced in 1963 by W. Germany.<br />
+**North Vietnam**: produced in 1967 by NET. Aired as an episode of NET Journal.<br />
+**Nur Ein Tag**: 90 minute program<br />
+**Nuremberg and Vietnam: Who is Guilty?**: 150 minute program<br />
+**Obscenity and the Law**: produced in 1966 by NET. Aired as an episode of At Issue.<br />
+**Odds Against**<br />
+**Of Monkeys and Men**: produced in 1967 by WDCN. Aired as an episode of Local Issue.<br />
+**Of Time, Work and Leisure**: produced by Tangeney. Aired as an episode of Perspectives.<br />
+**Ofoeti**: Aired as an episode of NET Playhouse.<br />
+**Oil, Coffee and Democracy**: 1 hour program, produced in 1963 by NET.<br />
+**Okefenokee Swamp. Part 2**: Aired as an episode of What's New.<br />
+**The Old Glory: Benito Cereno**: produced in 1965 by NET. Aired as an episode of NET Festival.<br />
+**The Old Homestead**: Aired as an episode of What's New.<br />
+**Oldest City**: Aired as an episode of What's New.<br />
+**Olive Latimer's Husband**: Aired as an episode of NET Playhouse.<br />
+**Olympiad. Part 1**: produced in 1968 by NET. Aired as an episode of NET Festival.<br />
+**Olympiad. Part 2**: produced in 1968 by NET. Aired as an episode of NET Festival.<br />
+**Olympiad. Part 3**: produced in 1968 by NET. Aired as an episode of NET Festival.<br />
+**Olympiad. Part 4**: produced in 1968 by NET. Aired as an episode of NET Festival.<br />
+**Olympic Boy. Part 1**: Aired as an episode of What's New.<br />
+**Olympic Boy. Part 2**: Aired as an episode of What's New.<br />
+**Olympics in Innsbruck and Tokyo 1964**<br />
+**On Call to a Nation**: 75 minute program, produced in 1961 by BBC.<br />
+**One in a Hundred**<br />
+**One in Every Hundred**: produced in 1966 by R and Y. Aired as an episode of Intertel.<br />
+**One Man's Hunger**: 1 hour program, produced in 1963 by Rediffusion Television, Ltd..<br />
+**One to One with John Gardner**: 30 minute program, produced in 1970 by WETA.<br />
+**Onion Johnny**: 30 minute program, produced in 1963 by BBC.<br />
+**The Only War We Seek**: 30 minute program, produced by A.I.D..<br />
+**Opium Trail**: produced in 1966 by ITC. Aired as an episode of NET Journal.<br />
+**Oresteia of Aerchylus**<br />
+**Orfeo**: Aired as an episode of NET Festival.<br />
+**Orpheus in the Underworld**: Aired as an episode of NET Playhouse.<br />
+**Orpheus Then and Now**: Aired as an episode of Fanfare.<br />
+**Oscar Brand's Cornwall**<br />
+**Oscar Brand's Gettysburg**<br />
+**Otello**: produced by Radio-Televisione Italiana. Aired as an episode of Music Strip.<br />
+**The Other Side of Paradise**: Aired as an episode of Intertel.<br />
+**Our Living Language**<br />
+**Our World Interconnect**<br />
+**Outlook on Cancer**: produced in 1964 by NET. Aired as an episode of At Issue.<br />
+**Oxford**: 1 hour program, produced in 1963 by ITC / ATV.<br />
+**Oxford Action**<br />
+**Pablito**: Aired as an episode of What's New.<br />
+**Pacific Cocktail**: produced in 1963 by ABC. Aired as an episode of Intertel.<br />
+**Pancho Villa**: Aired as an episode of What's New.<br />
+**Paradise Lost**: Aired as an episode of NET Playhouse.<br />
+**Paraproprietal Society**: 30 minute program, produced in 1961 by KETC.<br />
+**Paris Must Burn**: 1 hour program, produced in 1966 by German TV.<br />
+**Part of the Family**: 90 minute program<br />
+**Particles are a Family Affair**: Aired as an episode of Spectrum.<br />
+**Passage to India**: Aired as an episode of NET Playhouse.<br />
+**Past Intruding**: Aired as an episode of NET Playhouse.<br />
+**Pastore Hearings: Violence and Television**<br />
+**Patterns in Mathematics**<br />
+**Pauling-Teller Debate**: 1 hour program<br />
+**People in Politics**<br />
+**The People Question Vice President Humphrey**: Aired as an episode of NET Journal.<br />
+**Perfection in Skating**: Aired as an episode of What's New.<br />
+**Perfection in Skating**: Aired as an episode of What's New.<br />
+**Peter and the Wolf**<br />
+**Peter Grimes**: Aired as an episode of NET Playhouse Biography.<br />
+**Peter Grimes**: 150 minute program<br />
+**Peter, Paul and Mary: The Song is Love**: Aired as an episode of Fanfare.<br />
+**The Philippines: Guns Before Bread**: Aired as an episode of NET Journal.<br />
+**A Piece of Cake**: 1 hour program, produced in 1969.<br />
+**The Pitchmen**: 30 minute program<br />
+**Pittsburgh Symphony Orchestra. Part 1**: Aired as an episode of NET Symphony.<br />
+**Pittsburgh Symphony Orchestra. Part 2**: Aired as an episode of NET Symphony.<br />
+**A Plague on Your Children**: produced in 1968 by BBC. Aired as an episode of NET Journal.<br />
+**Play Ball!**: Aired as an episode of Realities.<br />
+**The Play of Daniel**: Aired as an episode of NET Festival.<br />
+**Plaza Nine**<br />
+**Plumes for My Rich Aunt**: produced in 1968 by BBC. Aired as an episode of NET Journal.<br />
+**Point of View**: 30 minute program<br />
+**Poisons, Pests and People**: 1 hour program, produced in 1962 by the National Film Board of Canada.<br />
+**Poland: Between East and West**: 1 hour program, produced in 1964 by NET and German TV.<br />
+**Police Power**: produced in 1964 by NET. Aired as an episode of At Issue.<br />
+**Police Report**<br />
+**Politics '68**: produced in 1968 by NET. Aired as an episode of NET Journal.<br />
+**The Politics and Comedy of Woody Allen**<br />
+**Politics of Survival**: 30 minute program<br />
+**The Pony Trail**: Aired as an episode of What's New.<br />
+**Poor Pay More**<br />
+**Population Problem**: produced in 1968. Aired as an episode of Local Issue.<br />
+**Portland Mileage**<br />
+**Portrait of a Revolution**: 30 minute program, produced in 1959 by Potomac Films.<br />
+**Portrait Souvenir: Marcel Proust**: 90 minute program<br />
+**Postscript to Empire**: produced in 1961 by NET and Westinghouse Broadcasting Corporation. Aired as an episode of Intertel.<br />
+**Potomac Horse Show**: Aired as an episode of What's New.<br />
+**Power and Responsibility of the Press**: 30 minute program, produced in 1964 by NET.<br />
+**President and the News**: produced in 1965 by NET. Aired as an episode of At Issue.<br />
+**The President and the Press**: produced in 1964. Aired as an episode of At Issue.<br />
+**President Eisenhower's Final Press Conference**: 30 minute program<br />
+**President Ford's Speech at the Univeristy of Michigan**<br />
+**President Nixon on Cambodia**<br />
+**The President's Decision: LBJ**<br />
+**The Press and Mrs. Nhu**: produced in 1963 by NET. Aired as an episode of At Issue.<br />
+**The Price of Life**<br />
+**The Princess and the Pea**<br />
+**Princess and the Swineherd**: Aired as an episode of What's New.<br />
+**Prison**: Aired as an episode of Realities.<br />
+**Prisoners of Conscience**<br />
+**A Probing Mind**: 30 minute program, produced in 1962 by NET.<br />
+**The Prodigal**: Aired as an episode of NET Playhouse.<br />
+**Productivity: The Key to America's Economic Growth**<br />
+**Profile of a Southern Moderate**: 1 hour program, produced by WGTV.<br />
+**A Profile of KQED**: 20 minute program, produced by KQED.<br />
+**Progress Parade: Photography**<br />
+**Project Mohole**: 1 hour program, produced by NSF.<br />
+**Project Security**<br />
+**Projections in Indian Art**<br />
+**Prokofiev**: 1 hour program, produced by WNDT.<br />
+**The Promise of the College Graduate: From Rhetoric to Reality **: produced in 1964 by NET. Aired as an episode of At Issue.<br />
+**The Proud Breed**: Aired as an episode of What's New.<br />
+**Public Hearing on Vietnam**: 1 hour program, produced in 1965 by NET.<br />
+**Puerto Rico: Workshop for Americans**: 30 minute program<br />
+**Purposeful American**<br />
+**Quartet**: Aired as an episode of Fanfare.<br />
+**Quasars: A Key to Infinity**: Aired as an episode of Spectrum.<br />
+**The Queen and the Welshman**: Aired as an episode of NET Playhouse.<br />
+**Queen of Spades**: Aired as an episode of Fanfare.<br />
+**Quest for Peace**: 30 minute program<br />
+**The Question of Violence**: produced in 1968 by NET. Aired as an episode of NET Journal.<br />
+**Quiet Conflict, Brunswick, GA**: produced in 1965 by NET. Aired as an episode of At Issue.<br />
+**The Quiet Invasion**: Aired as an episode of Realities.<br />
+**The Quiet Sun**: Aired as an episode of Spectrum.<br />
+**The Quiet Takeover**: 1 hour program, produced in 1965 by the Canadian Broadcasting Corporation.<br />
+**The Quiet War**: produced in 1961 by Associated-Rediffusion. Aired as an episode of Intertel.<br />
+**R and D: March on Time**: Aired as an episode of Spectrum.<br />
+**Rabindranath Tagore: Founder of Modern Indian Culture**: 30 minute program<br />
+**Radiation: Fact and Controversy**: Aired as an episode of Perspectives.<br />
+**The Radical Right in Southern California**: produced in 1964 by KCET. Aired as an episode of Local Issue.<br />
+**Radical Theatre**<br />
+**Radio Radio**: Aired as an episode of What's New.<br />
+**The Railroad War**: produced in 1964 by NET. Aired as an episode of At Issue.<br />
+**Rainbow**: Aired as an episode of What's New.<br />
+**Ralph Bunche: The New Nations**: 30 minute program<br />
+**Rapunzel**: 30 minute program<br />
+**Rayburn: Close Up Camera**<br />
+**Reading, Writing and Race**: produced in 1964 by WNDT. Aired as an episode of Local Issue.<br />
+**Red Army Singers and Dancers**: 1 hour program, produced in 1965 by BBC.<br />
+**Red China: Power House or Paper Giant**: Aired as an episode of Perspectives.<br />
+**Red Chinese Medicine. Part 1**: Aired as an episode of Spectrum.<br />
+**Red Chinese Medicine. Part 2**: Aired as an episode of Spectrum.<br />
+**The Red Madonna**: 30 minute program, produced in 1965 by German TV.<br />
+**Rediscovered Film/Once in a Lifetime**: Aired as an episode of NET Playhouse.<br />
+**Redistricting the Congress**: produced in 1964 by NET. Aired as an episode of At Issue.<br />
+**Reform Before the Revolution**<br />
+**Reindeer**: Aired as an episode of What's New.<br />
+**The Rejected**: 1 hour program, produced by KQED.<br />
+**The Relay**<br />
+**Rembrandt van Rijn**: Aired as an episode of NET Playhouse.<br />
+**A Renaissance Life**: 1 hour program<br />
+**Report from Cuba**: Aired as an episode of Intertel.<br />
+**Report from Moscow**<br />
+**Report from Saigon**: produced in 1970 by NET. Aired as an episode of NET Journal.<br />
+**Report from Stowe**: 90 minute program, produced in 1961.<br />
+**Report from Vietnam. Part 1: Mills of the Gods**: 90 minute program<br />
+**Report from Vietnam. Part 2: Western Eyewitness in North Vietnam**: 1 hour program<br />
+**Report on Indo-china**<br />
+**Report on Soviet Medicine**<br />
+**Report on World Population**: produced in 1960 by UN-TV.<br />
+**Republicans: The New Breed**: 30 minute program, produced in 1965 by Louis de Rochemont.<br />
+**Research Environment in Industry**: 1 hour program, produced in 1969 by UPJOHN.<br />
+**Return Journey: Dylan Thomas**<br />
+**Return to Florence**<br />
+**The Rhymers of Eldritch**: Aired as an episode of NET Playhouse.<br />
+**Riches of the Earth and Shepard**: Aired as an episode of What's New.<br />
+**Rise and Fall of Wolfgang Amadeus Mozart**: produced in 1969 by BBC. Aired as an episode of NET Festival.<br />
+**The Rise of Louis XIV**: produced in 1972 by Radiodiffusion Television Francaise. Aired as an episode of NET Playhouse Biography.<br />
+**Rise of New Towns**<br />
+**Rita**: Aired as an episode of Music Strip.<br />
+**Rite of Spring**: produced in 1968 by KCET. Aired as an episode of NET Festival.<br />
+**The Rivals**: produced in 1965 by BBC. Aired as an episode of NET Festival.<br />
+**River Traffic. Part 1**: Aired as an episode of What's New.<br />
+**River Traffic. Part 2**: Aired as an episode of What's New.<br />
+**Riverboat**: Aired as an episode of What's New.<br />
+**The Riverboat Race**: Aired as an episode of What's New.<br />
+**The Road is Long**: 42 minute program, produced in 1959.<br />
+**Road to Suez**<br />
+**Roberta Peters**: Aired as an episode of Fanfare.<br />
+**Robinson Crusoe and Ancient Builders**: Aired as an episode of What's New.<br />
+**Rockefeller and the Presidency**: produced in 1968. Aired as an episode of NET Journal.<br />
+**Romeo and Juliet**: produced in 1964 by Associated-Rediffusion. Aired as an episode of NET Drama Festival.<br />
+**Room Down Under**: produced in 1964 by NET and Westinghouse Broadcasting Corporation. Aired as an episode of Intertel.<br />
+**Roots of Freedom**<br />
+**Rose Festival Parade**<br />
+**Rosemary Brown**<br />
+**Rosmerholm**: Aired as an episode of NET Playhouse.<br />
+**Royal Philharmonic Orchestra. Part 1**: Aired as an episode of NET Symphony.<br />
+**Royal Philharmonic Orchestra. Part 2**: Aired as an episode of NET Symphony.<br />
+**Rudolph Firkunsky**: Aired as an episode of NET Playhouse.<br />
+**Run for Your Life**<br />
+**Running for Life**<br />
+**Russia**: Aired as an episode of NET Journal.<br />
+**Russia 1963: Coexistence and Conflict**: produced in 1963.<br />
+**Russian Ballet School**<br />
+**Sabel Island**: Aired as an episode of What's New.<br />
+**Sahara**: 1 hour program, produced in 1961 by German TV.<br />
+**Sailing. Part 1**: Aired as an episode of What's New.<br />
+**Sailing. Part 1**: Aired as an episode of What's New.<br />
+**Sailing. Part 2**: Aired as an episode of What's New.<br />
+**The Salmon's Struggle to Survive**: Aired as an episode of What's New.<br />
+**San Francisco Rock at the Family Dog**: Aired as an episode of Fanfare.<br />
+**San Francisco Rock: Go Ride the Music**: Aired as an episode of Fanfare.<br />
+**San Francisco Symphony**: Aired as an episode of NET Symphony.<br />
+**The Sand Castle**: Aired as an episode of NET Playhouse.<br />
+**The Sand Castle/The Tape Recorder**: Aired as an episode of NET Playhouse.<br />
+**Sandburg Memorial**: 135 minute program, produced in 1969 by Finnish TV.<br />
+**Saugus**: Aired as an episode of What's New.<br />
+**The Scarecrow**: 110 minute program<br />
+**A Scent of Flowers**: Aired as an episode of NET Playhouse.<br />
+**Schizophrenia: The Shattered Mirror**: produced in 1966 by Harold Mayer Productions. Aired as an episode of NET Journal.<br />
+**School Caste System**: produced in 1965 by WGTV. Aired as an episode of Local Issue.<br />
+**School for Scandal**: Aired as an episode of NET Festival.<br />
+**Science and Conscience**: Aired as an episode of Intertel.<br />
+**Science and Politics. Part 1**: Aired as an episode of Spectrum.<br />
+**Science and Politics. Part 2**: Aired as an episode of Spectrum.<br />
+**Science and Society**: Aired as an episode of Spectrum.<br />
+**Science and Technology in Communist China**<br />
+**Science Fare. Part 11B**: Aired as an episode of What's New.<br />
+**Science Fare. Part 12B**: Aired as an episode of What's New.<br />
+**Science Fare. Part 13B**: Aired as an episode of What's New.<br />
+**Science Fare. Part 14**: Aired as an episode of What's New.<br />
+**Science Fare. Part 15**: Aired as an episode of What's New.<br />
+**Science Fare. Part 16**: Aired as an episode of What's New.<br />
+**Science Goes to Washington**: produced in 1963. Aired as an episode of At Issue.<br />
+**Science Through Discovery**: 30 minute program, produced in 1963 by NET.<br />
+**Scientists Look at Love**: Aired as an episode of Spectrum.<br />
+**Scott's Last Journey**: 1 hour program, produced in 1963 by BBC.<br />
+**The Sculptor's Landscape**<br />
+**Sea Shell Safari. Part 1**: Aired as an episode of What's New.<br />
+**Sea Shell Safari. Part 2**: Aired as an episode of What's New.<br />
+**Seagull**: Aired as an episode of NET Playhouse.<br />
+**Seantors' Dissent on Vietnam: Anti-war Senators**: Aired as an episode of NET Journal.<br />
+**Search for Cancer Viruses**: Aired as an episode of Spectrum.<br />
+**Search for Excellence**: 30 minute program<br />
+**Search for Strindberg**<br />
+**Search for the Lost Self**: produced in 1966 by NET. Aired as an episode of NET Journal.<br />
+**Second Look-see**<br />
+**The Second Mrs. Tanqueray**: 90 minute program, produced in 1955 by BBC.<br />
+**The Second Summer: Calm or Chaos**: 1 hour program<br />
+**Secret of the Desert**<br />
+**Secrets of the Desert. Part 1**: Aired as an episode of What's New.<br />
+**Secrets of the Desert. Part 2**: Aired as an episode of What's New.<br />
+**Secrets of the Desert. Part 3**: Aired as an episode of What's New.<br />
+**The Seekers: The Idealists**: Aired as an episode of NET Playhouse.<br />
+**The Seekers: The Materialists**: Aired as an episode of NET Playhouse.<br />
+**The Senate and Politics: 1964**: produced in 1963 by NET. Aired as an episode of At Issue.<br />
+**Sense of Captivity**: produced in 1967 by Canadian Broadcasting Corporation. Aired as an episode of Intertel.<br />
+**The Serpent**: Aired as an episode of NET Playhouse.<br />
+**Seven Against Thebes**<br />
+**Seven Days Document**<br />
+**Seven Who Dared**: 1 hour program, produced in 1964 by WGBH.<br />
+**The Sexual Offender: Safe to be at Large?**: produced in 1966 by KWSC-TV. Aired as an episode of Local Issue.<br />
+**Shakers**: Aired as an episode of What's New.<br />
+**The Shepherds and the Magi**<br />
+**Shostakovich**: Aired as an episode of Fanfare.<br />
+**Sibelius 1865-1995**: Aired as an episode of NET Festival.<br />
+**Sibelius: A Symphony of Finland**: Aired as an episode of NET Festival.<br />
+**Siegfried Sassoon**: Aired as an episode of NET Playhouse Biography.<br />
+**Sigfried Idyll**: Aired as an episode of NET Playhouse Biography.<br />
+**Silent Song**: Aired as an episode of NET Playhouse.<br />
+**Silverbird: The Birth of a Navajo Rock Group**: Aired as an episode of Fanfare.<br />
+**Sinai: The Mountain of God**: Aired as an episode of Realities.<br />
+**Sir Alexander Fleming**: Aired as an episode of NET Playhouse Biography.<br />
+**Sister Balonika**: Aired as an episode of NET Playhouse.<br />
+**Sisu: Finland's Road Between East and West**: 1 hour program, produced in 1963 by German TV.<br />
+**Skiing. Part 1**: Aired as an episode of What's New.<br />
+**Skiing. Part 2**: Aired as an episode of What's New.<br />
+**The Skin of Our Teeth**<br />
+**A Sleep of Prisoners**: Aired as an episode of NET Playhouse.<br />
+**Slowdown in Congress**: produced in 1963. Aired as an episode of At Issue.<br />
+**The Smile**<br />
+**Smoke? Why Not?**<br />
+**Smoking and Health: Questions**: 30 minute program<br />
+**Smoking and Health: The Mark Waters Story**: 30 minute program<br />
+**The Smoking Spiral**: produced in 1967 by NET. Aired as an episode of NET Journal.<br />
+**The Snow Maiden**: 30 minute program<br />
+**Snow White and Rose Red**: 30 minute program<br />
+**So Where are You God?**: 30 minute program<br />
+**The Society We Live in**: 1 hour program<br />
+**Socrates**: 90 minute program<br />
+**A Soldier's Tale**: Aired as an episode of NET Playhouse.<br />
+**Soldiers Who Search and Dissent**: Aired as an episode of Realities.<br />
+**The Solitary Billionaire**: 1 hour program, produced in 1964 by BBC.<br />
+**Some of My Best Friends are Horses**: Aired as an episode of What's New.<br />
+**Somebody Take My Hand**: Aired as an episode of Spectrum.<br />
+**Someone Must Govern**: Aired as an episode of Intertel.<br />
+**Son of Liberty**: 30 minute program, produced by Associated Rediffusion.<br />
+**A Song Recital**: 1 hour program<br />
+**Sonny Brown and Fallen Sparrows**: 90 minute program<br />
+**Sons and Daughters: That’s' What Life is All About**<br />
+**A Sort of Paradise and Pocomania**: 1 hour program, produced in 1966 by BBC.<br />
+**The South**<br />
+**South Africa and the UN**: produced in 1963. Aired as an episode of At Issue.<br />
+**South America Today**<br />
+**South America: Votes or Violence**: Aired as an episode of Intertel.<br />
+**South American Essay**<br />
+**South Pole Expedition**: Aired as an episode of Spectrum.<br />
+**Soviet Medicine**: Aired as an episode of Spectrum.<br />
+**Space with Dan Posin. Part 1**: Aired as an episode of What's New.<br />
+**Space with Dan Posin. Part 2**: Aired as an episode of What's New.<br />
+**Space with Dan Posin. Part 3**: Aired as an episode of What's New.<br />
+**Space with Dan Posin. Part 4**: Aired as an episode of What's New.<br />
+**Space with Dan Posin. Part 5**: Aired as an episode of What's New.<br />
+**Spain**<br />
+**Speak Out on Drugs**: produced in 1969 by WGBH. Aired as an episode of NET Festival.<br />
+**Speaking of Russia**: 30 minute program, produced in 1959 by WTTW.<br />
+**Special Kind of Morning**: Aired as an episode of What's New.<br />
+**A Speck of Progress**: 12 minute program<br />
+**Sports Professor**: Aired as an episode of What's New.<br />
+**Sports Professor**: Aired as an episode of What's New.<br />
+**Spring in Ethiopia**: Aired as an episode of NET Journal.<br />
+**The Squeeze**<br />
+**St. Lawrence Seaway and Land of the Long Day**: Aired as an episode of What's New.<br />
+**Staggerlee: A Conversation with Bobby Seale**: produced in 1970 by KQED. Aired as an episode of NET Journal.<br />
+**The Stakes in Vietnam**: produced in 1964 by NET. Aired as an episode of At Issue.<br />
+**The Starwagon**: Aired as an episode of NET Playhouse.<br />
+**State Department Briefing**: produced in 1963. Aired as an episode of At Issue.<br />
+**State Department Briefing: Disarmament**: Aired as an episode of Perspectives.<br />
+**State of the Union 1967 with David Niven**<br />
+**State of the Union 1970**: produced in 1970 by NET.<br />
+**State of the Union 1971**<br />
+**State of the Union Rebuttal**<br />
+**Statistics**<br />
+**Staunch Tin Soldiers**: Aired as an episode of What's New.<br />
+**Steeltown Blues**: produced in 1965 by WQED. Aired as an episode of Local Issue.<br />
+**Stokowski Rehearses**: produced in 1971 by NET Division, Educational Broadcasting Corporation. Aired as an episode of Fanfare.<br />
+**Stone Age to Atom Age**: 1 hour program, produced by the National Film Board of Canada.<br />
+**Stone Mountain**: Aired as an episode of What's New.<br />
+**Stop and Go Genetics**: Aired as an episode of Spectrum.<br />
+**Storks in Bavaria**: Aired as an episode of What's New.<br />
+**Story Friends**<br />
+**The Story of Navigation**: Aired as an episode of Spectrum.<br />
+**Story of Palomar**: Aired as an episode of Spectrum.<br />
+**Story of Photography**: Aired as an episode of What's New.<br />
+**Story Theater**: Aired as an episode of NET Playhouse.<br />
+**Story Theatre**: Aired as an episode of What's New.<br />
+**The Stowaway and Fisherman**: Aired as an episode of What's New.<br />
+**Strategy of Truth**: 1 hour program, produced in 1961.<br />
+**Stravinsky: A Portrait**: 1 hour program<br />
+**Strong Since the War**: Aired as an episode of Intertel.<br />
+**Structure of Life**: Aired as an episode of Spectrum.<br />
+**Struggle for China**: 90 minute program<br />
+**Struggle for Peace**: 1 hour program<br />
+**The Subect of Sex**: produced in 1967 by KRMA. Aired as an episode of Local Issue.<br />
+**Suburban Living**: produced by the National Film Board of Canada.<br />
+**The Successor**: 1 hour program, produced in 1966 by Anglia.<br />
+**The Suez Affair**: 1 hour program, produced in 1966 by ITC.<br />
+**Sukarno: Prophet or Demogogue**: produced in 1965 by German TV.<br />
+**Summer in Lebanon**: 1 hour program, produced in 1962 by BBC.<br />
+**The Sun and Richard Lippold**<br />
+**Sun, Sand and Sea**: Aired as an episode of Spectrum.<br />
+**Sunday Night: Death of Socreates**<br />
+**Surveillance: Who is Watching?**: 90 minute program<br />
+**Survival in Space**: Aired as an episode of Spectrum.<br />
+**Swallow Tailed Butterfly**: Aired as an episode of What's New.<br />
+**Swan Lake**: Aired as an episode of Fanfare.<br />
+**Symphony in Concrete**<br />
+**T. E. Lawrence**: 1 hour program, produced in 1966.<br />
+**Take Me Out of the Ball Game**: Aired as an episode of Realities.<br />
+**Take this Hammer**: 45 minute program, produced by KQED.<br />
+**The Taking**: Aired as an episode of NET Playhouse.<br />
+**Tales of Genji. Part 1**: Aired as an episode of NET Playhouse.<br />
+**Tales of Genji. Part 2**: Aired as an episode of NET Playhouse.<br />
+**Tales of Genji. Part 3**: Aired as an episode of NET Playhouse.<br />
+**Tales of Genji. Part 4**: Aired as an episode of NET Playhouse.<br />
+**Tales of Genji. Part 5**: Aired as an episode of NET Playhouse.<br />
+**Tales of Genji. Part 6**: Aired as an episode of NET Playhouse.<br />
+**Tales of Genji. Part 7**: Aired as an episode of NET Playhouse.<br />
+**Tales of Genji. Part 8**: Aired as an episode of NET Playhouse.<br />
+**Tales of Hoffman**: Aired as an episode of NET Playhouse.<br />
+**Talk to Me Like the Rain**: Aired as an episode of NET Playhouse.<br />
+**A Talk with Dr. Urey**: Aired as an episode of Spectrum.<br />
+**Talking to a Stranger. Part 1: Anytime You're Ready, I'll Sparkle**: produced in 1970 by BBC. Aired as an episode of NET Playhouse.<br />
+**Talking to a Stranger. Part 2: No Skill of Special Knowledge Required**: produced in 1970 by BBC. Aired as an episode of NET Playhouse.<br />
+**Talking to a Stranger. Part 3: Gladly My Cross-eyed Bear**: produced in 1970 by BBC. Aired as an episode of NET Playhouse.<br />
+**Talking to a Stranger. Part 4: The Innocent Must Suffer**: produced in 1970 by BBC. Aired as an episode of NET Playhouse.<br />
+**The Tape Recorder/A Slight Accident**: Aired as an episode of NET Playhouse.<br />
+**Teacher's Gap**<br />
+**Television Comes to the Land**: 25 minute program<br />
+**Tempo**<br />
+**Ten Blocks on the Camino Real**: Aired as an episode of NET Playhouse.<br />
+**Ten Million Strong**: produced in 1963 by ABC. Aired as an episode of Intertel.<br />
+**Ten Years of Turmoil**: 1 hour program, produced in 1958 by SSF.<br />
+**The Tenement**<br />
+**Tennessee Williams**<br />
+**Tennessee Williams: Dragon Country**: Aired as an episode of NET Playhouse.<br />
+**The Tenth Annual Monterey Jazz Festival. Part 1**: produced in 1968 by KQED. Aired as an episode of NET Festival.<br />
+**The Tenth Annual Monterey Jazz Festival. Part 2**: produced in 1968 by KQED. Aired as an episode of NET Festival.<br />
+**The Tenth Annual Monterey Jazz Festival. Part 3**: produced in 1968 by KQED. Aired as an episode of NET Festival.<br />
+**The Tenth Annual Monterey Jazz Festival. Part 4**: produced in 1968 by KQED. Aired as an episode of NET Festival.<br />
+**The TFX**: produced in 1963 by NET. Aired as an episode of At Issue.<br />
+**Thailand**: produced in 1967 by German TV. Aired as an episode of Intertel.<br />
+**Thailand**: produced in 1967 by German TV. Aired as an episode of NET Journal.<br />
+**That Old Quack Magic**: Aired as an episode of Spectrum.<br />
+**That Was the Election That Was**: Aired as an episode of NET Journal.<br />
+**Theatre America: A Celebration for William Jennings Bryan**: Aired as an episode of NET Playhouse.<br />
+**Theatre America: A Place for the Playwright**: produced in 1970 by NET. Aired as an episode of Realities.<br />
+**These Children/Our Children**: produced in 1968 by WMVS. Aired as an episode of Local Issue.<br />
+**These Humble Shores and Aga Khan**: 1 hour program, produced in 1966 by BBC.<br />
+**They**: Aired as an episode of NET Playhouse.<br />
+**They Came Singing**<br />
+**This is Art**<br />
+**This Land**<br />
+**This Land is**: Aired as an episode of Realities.<br />
+**This Question of Color**: Aired as an episode of Intertel.<br />
+**Thoughts of an Artist on Leaving the 60s**: 90 minute program<br />
+**Three Boys in Taiwan. Part 1**: Aired as an episode of What's New.<br />
+**Three Boys in Taiwan. Part 2**: Aired as an episode of What's New.<br />
+**Three Boys in Taiwan. Part 3**: Aired as an episode of What's New.<br />
+**Three by Martha Graham**: Aired as an episode of NET Festival.<br />
+**Three Magical Tales with Sheri Lewis**: 1 hour program, produced in 1970 by NET.<br />
+**Three Men**: Aired as an episode of Intertel.<br />
+**The Three Musketeers**: 2 hour program<br />
+**The Three Rs and Sex Education**: Aired as an episode of Realities.<br />
+**The Three Sisters**: 90 minute program<br />
+**Through My Eyes**: 1 hour program<br />
+**Ti-Jean Goes Lumbering**: Aired as an episode of What's New.<br />
+**Ti-Jean Goes West**: Aired as an episode of What's New.<br />
+**Ti-Jean in the Land of Iron**: Aired as an episode of What's New.<br />
+**Tijuana Brass: Kraft Music Hall**<br />
+**Till the Butcher Cut Him**<br />
+**Timber**: Aired as an episode of What's New.<br />
+**A Time and Place for Study**: 30 minute program<br />
+**Time Enough to See the World**: 30 minute program<br />
+**The Time of Their Lives**: 30 minute program<br />
+**The Tin Whistle**: produced in 1969 by WQED. Aired as an episode of NET Playhouse.<br />
+**Tinder Box**: Aired as an episode of What's New.<br />
+**To Be a Composer**<br />
+**To Be a Man**<br />
+**To Be a Performer**<br />
+**To Build a Schoolhouse**: 30 minute program, produced in 1964 by EFL.<br />
+**To Calm a Troubled Campus**: produced in 1969 by NET. Aired as an episode of NET Journal.<br />
+**To Feed The Hungry: Harris Commission on Hunger in Chicago**: 1 hour program, produced in 1970 by WTTW.<br />
+**To Live Till You Die**: Aired as an episode of Intertel.<br />
+**To Save a City**: produced in 1966 by WMVS. Aired as an episode of Local Issue.<br />
+**To Save Tomorrow**: produced in 1969 by WTTW. Aired as an episode of NET Journal.<br />
+**To Sleep Perchance to Dream**: Aired as an episode of Spectrum.<br />
+**To Speak with Friends**: 30 minute program, produced in 1960 by DHEW.<br />
+**Tobacco Troubles**: produced in 1963. Aired as an episode of At Issue.<br />
+**Tocqueville's America**: Aired as an episode of Realities.<br />
+**Tomorrow's Newspapers**: Aired as an episode of Perspectives.<br />
+**Top Hand**: Aired as an episode of What's New.<br />
+**Tosca**: produced in 1963 by Radio-Televisione Italiana. Aired as an episode of Music Strip.<br />
+**A Tour of the US Capitol**: Aired as an episode of What's New.<br />
+**Trading with Communist Countries**: produced in 1964 by NET. Aired as an episode of At Issue.<br />
+**The Trail of Tears: John Ross**: produced in 1971 by NET Division, Educational Broadcasting Corporation. Aired as an episode of NET Playhouse Biography.<br />
+**Train to Calcutta**: Aired as an episode of NET Festival.<br />
+**Transantarctic Expedition**: 1 hour program, produced in 1959 by BBC.<br />
+**Transatlantic Inquiry**: 30 minute program, produced in 1965 by BBC.<br />
+**The Transition: Richard Nixon**: Aired as an episode of NET Journal.<br />
+**Transitions: Conversations with Wendell Castle**<br />
+**Traveling in Iceland**: Aired as an episode of What's New.<br />
+**Traveller Without Luggage**: Aired as an episode of NET Playhouse.<br />
+**Trembling Earth**: Aired as an episode of Spectrum.<br />
+**Triptych for a Christmas Eve**: 20 minute program<br />
+**Triumph of Christy Brown**: produced in 1970. Aired as an episode of Realities.<br />
+**Tropical Folk Songs**<br />
+**The Trumpet**: Aired as an episode of What's New.<br />
+**Trumpeter and Carkow**: Aired as an episode of What's New.<br />
+**Tucson Boys Choir**: Aired as an episode of What's New.<br />
+**Tun Hwang**: produced by NHK. Aired as an episode of NET Drama Festival.<br />
+**The Turkish Question**: produced in 1963 by NET and Westinghouse Broadcasting Corporation. Aired as an episode of Intertel.<br />
+**The Turtle**<br />
+**TV and the White House**: Aired as an episode of NET Journal.<br />
+**TV in Samoa**: Aired as an episode of Spectrum.<br />
+**Twelfth Night**: produced in 1964 by Associated-Rediffusion. Aired as an episode of NET Drama Festival.<br />
+**Twelve Flags South**: produced in 1963 by ABC. Aired as an episode of Intertel.<br />
+**Two Arctic Tales**<br />
+**Two by Martha Graham**: Aired as an episode of Fanfare.<br />
+**Two Faces of Japan**: 1 hour program<br />
+**Two Orchestras**: 50 minute program, produced in 1965 by NET.<br />
+**Two Roads to the Center**: 1 hour program<br />
+**Two Trumpets for St. Andrew**: 1 hour program, produced in 1969 by Australian TV.<br />
+**Two Views**: Aired as an episode of NET Journal.<br />
+**The Typewriter**: produced in 1964 by Associated-Rediffusion. Aired as an episode of NET Drama Festival.<br />
+**U.N. Special: The Congo Crisis**<br />
+**Un Ballo in Maschera**: 90 minute program<br />
+**UN Communications**: Aired as an episode of What's New.<br />
+**UN Day 1970**: Aired as an episode of Fanfare.<br />
+**UN Hearing on Skyjacking**: 1 hour program<br />
+**UN International School**: Aired as an episode of What's New.<br />
+**UN Interpreters**: Aired as an episode of What's New.<br />
+**UN Reporting**: Aired as an episode of What's New.<br />
+**UN: VIP Tours**: Aired as an episode of What's New.<br />
+**Uncle Vanya**: Aired as an episode of NET Playhouse.<br />
+**Uneasy Alliance in the Americas**: Aired as an episode of Perspectives.<br />
+**The Unemployed**: produced in 1964 by NET. Aired as an episode of At Issue.<br />
+**The Unfinished Revolution**: produced in 1962 by NET and Westinghouse Broadcasting Corporation. Aired as an episode of Intertel.<br />
+**Unfolding Vision**<br />
+**The Union Man**: Aired as an episode of Intertel.<br />
+**Unions: Who Needs Them?**: Aired as an episode of Perspectives.<br />
+**University of Pennsylvania**: Aired as an episode of NET Journal.<br />
+**University Power**: produced in 1967 by WGBH. Aired as an episode of NET Journal.<br />
+**The Unknown War**: produced in 1967 by Associated Television, London. Aired as an episode of NET Journal.<br />
+**Unman Wittering and Zigo**: Aired as an episode of NET Playhouse.<br />
+**Unmarried Mothers**: 1 hour program, produced in 1966 by Granada.<br />
+**Unusual Lies**<br />
+**Urban Crisis**: 30 minute program, produced in 1958 by WKAR.<br />
+**The US and Modern World**<br />
+**The US and the Non-western World**: 30 minute program, produced in 1960 by KETC.<br />
+**The US Army Presents: The Big City**<br />
+**USA in New Dimensions**: 30 minute program, produced in 1958 by WGBH.<br />
+**USA: Art as Religion**<br />
+**Ustinov Ad Lib**: Aired as an episode of NET Playhouse.<br />
+**Ustinov on the Ustinovs**: produced in 1967 by BBC. Aired as an episode of NET Festival.<br />
+**Utah Symphony. Part 1**: Aired as an episode of NET Symphony.<br />
+**Valpone**: Aired as an episode of NET Playhouse.<br />
+**Vanishing Newspapers**<br />
+**Vegetables and Fruit**: Aired as an episode of What's New.<br />
+**Venereal Disease Seminar**: 1 hour program<br />
+**Venezuela: The Making of a Government**: 1 hour program, produced in 1964 by NET.<br />
+**Venice 34**: Aired as an episode of NET Festival.<br />
+**Venice Today**: 30 minute program, produced in 1962 by Radio-Televisione Italiana (RAI).<br />
+**Venture into Space**: 30 minute program, produced by KTCA.<br />
+**Vice President Hubert Humphrey**: produced in 1965 by NET. Aired as an episode of At Issue.<br />
+**Victoria Regina: Autumn**: Aired as an episode of NET Playhouse.<br />
+**Victoria Regina: Spring**: Aired as an episode of NET Playhouse.<br />
+**Victoria Regina: Summer**: Aired as an episode of NET Playhouse.<br />
+**Victoria Regina: Winter**: Aired as an episode of NET Playhouse.<br />
+**Vienna Philharmonic**: 90 minute program<br />
+**Vienna Symphony**: Aired as an episode of NET Symphony.<br />
+**Vietnam Moratorium**: 1 hour program<br />
+**Vietnam: A Different View**<br />
+**Vietnam: Coups and Crises**: 1 hour program, produced in 1964 by German TV.<br />
+**The View from Brazil**: produced in 1964 by NET. Aired as an episode of At Issue.<br />
+**View From Latitude Zero**: 1 hour program<br />
+**The View from Panama**: produced in 1964. Aired as an episode of At Issue.<br />
+**The View from Venezuela**: produced in 1964 by NET. Aired as an episode of At Issue.<br />
+**Villanova Jazz Festival**: 90 minute program, produced in 1963 by WHYY.<br />
+**Vision of William Blake**: 30 minute program<br />
+**The Vital Ocean**: 30 minute program, produced in 1967 by NATO.<br />
+**Viva Mexico**<br />
+**The Volunteers**: Aired as an episode of Intertel.<br />
+**Walls of Jericho**: Aired as an episode of NET Playhouse.<br />
+**Walt Harper at Falling Water**: 1 hour program<br />
+**War and the People**: 1 hour program<br />
+**War and the Wasteland: Dulce of Decorum**<br />
+**War and the Wasteland: Sweeny Among the Nightengales**<br />
+**War Relived**: Aired as an episode of NET Playhouse.<br />
+**Warfront '68**: Aired as an episode of NET Journal.<br />
+**The Warren Years**: produced by NET. Aired as an episode of NET Journal.<br />
+**Warsaw Ghetto**: 1 hour program, produced in 1966 by BBC.<br />
+**Warsaw Philharmonic. Part 1**: Aired as an episode of NET Symphony.<br />
+**Washington Deadlock**: Aired as an episode of Perspectives.<br />
+**Washington from the Potomic**: Aired as an episode of What's New.<br />
+**Washington Theatre Club**: 90 minute program<br />
+**Washington Week in Review**: 30 minute program<br />
+**Watch on the Mekong**: 1 hour program, produced in 1962 by Rediffusion Television, Ltd..<br />
+**Water Everywhere**: 15 minute program<br />
+**Waves Across the Pacific**: Aired as an episode of Spectrum.<br />
+**The Way and the Word**: 30 minute program<br />
+**The Way it is**: Aired as an episode of NET Journal.<br />
+**We are on Our Way**: Aired as an episode of What's New.<br />
+**We Shall Overcome**: 30 minute program, produced by WGBH.<br />
+**We Speak Russian**: 30 minute program<br />
+**Weapons of Gordon Parks**: 30 minute program<br />
+**Wedding on Saturday**: 30 minute program, produced in 1966 by Granada.<br />
+**Welcome to the Fillmore East**: Aired as an episode of Fanfare.<br />
+**The Welfare Revolt**: produced in 1967 by NET. Aired as an episode of NET Journal.<br />
+**Well Tempered Listener**: Aired as an episode of Fanfare.<br />
+**Weston's Report: Poverty**<br />
+**What Happened Up There**: produced in 1967 by NET. Aired as an episode of NET Journal.<br />
+**What Harvest for the Reaper**: produced in 1968 by NET. Aired as an episode of NET Journal.<br />
+**What Has TV Done to Politics**: 1 hour program<br />
+**What Price Poverty**: produced in 1964. Aired as an episode of At Issue.<br />
+**What's Happening to Television?**: produced in 1966 by NET. Aired as an episode of At Issue.<br />
+**What's in a Word**<br />
+**When Peace Comes**: produced in 1968 by KEBS. Aired as an episode of Local Issue.<br />
+**Where They Stand**: Aired as an episode of NET Journal.<br />
+**Whirligig of Life**<br />
+**White Arrow**: Aired as an episode of What's New.<br />
+**White House Conference on Children: A Preview**: 1 hour program, produced in 1970 by WETA.<br />
+**White House Red Carpet with Julia Child**: produced in 1968 by WGBH. Aired as an episode of NET Festival.<br />
+**The White South: Two Views: The Southern Conservative**: 30 minute program<br />
+**The White South: Two Views: The Southern Liberal**: 30 minute program<br />
+**Who Does the Negro Think He is?**: 1 hour program, produced in 1965 by NET.<br />
+**Who Invited Us**: produced in 1970 by NET. Aired as an episode of NET Journal.<br />
+**Who Killed Mary**<br />
+**Who Needs an Upper Crust**: produced in 1967 by German TV. Aired as an episode of NET Journal.<br />
+**Who Speaks for Man**: Aired as an episode of NET Journal.<br />
+**Whooping the Blues**<br />
+**Whose Right to Know?**: produced in 1966 by WHYY. Aired as an episode of Local Issue.<br />
+**Why Save Florence**: Aired as an episode of NET Festival.<br />
+**The Wild Duck**: produced in 1964 by Associated-Rediffusion. Aired as an episode of NET Drama Festival.<br />
+**The Wilderness Controversy**: produced in 1964 by KNME. Aired as an episode of Local Issue.<br />
+**Will the Real Norman Mailer Please Stand Up**: produced in 1968 by NET. Aired as an episode of NET Festival.<br />
+**William Blake: As a Man is**<br />
+**William Pereira**: Aired as an episode of Spectrum.<br />
+**Win, Place and Show**<br />
+**Winston Churchill Obituary**: 30 minute program<br />
+**Winter in the Archipelago**: Aired as an episode of What's New.<br />
+**A Winter's Tale**: Aired as an episode of NET Festival.<br />
+**WNET Opera Theater: Myshkin**: produced in 1973 by WNET. Aired as an episode of Special of the Week.<br />
+**WNET Opera Theater: The Death Goddess**<br />
+**Woman of No Importance**: produced by Associated-Rediffusion. Aired as an episode of NET Drama Festival.<br />
+**Women Beware Women**: Aired as an episode of NET Playhouse.<br />
+**The Wonder of Beginning**<br />
+**The Wonder of Beginning**<br />
+**A Word About Rome**: 30 minute program, produced by Radio-Televisione Italiana (RAI).<br />
+**The Word and the Way**: 1 hour program<br />
+**World in a Marsh**: Aired as an episode of What's New.<br />
+**The World of Carl Sandburg**: produced in 1967 by Nathan Kroll. Aired as an episode of NET Festival.<br />
+**The World of David Amran**: 1 hour program<br />
+**The World of Hart Crane**: 90 minute program<br />
+**The World of Henry Miller**: Aired as an episode of Realities.<br />
+**The World of James Buswell**: Aired as an episode of NET Festival.<br />
+**The World of Kurt Weil**: Aired as an episode of NET Playhouse.<br />
+**World of Nicolai Gedda**: Aired as an episode of Fanfare.<br />
+**World of Piri Thomas**: Aired as an episode of NET Journal.<br />
+**The World of William Blake**: Aired as an episode of NET Festival.<br />
+**Wuthering Heights**: produced in 1965 by BBC. Aired as an episode of NET Festival.<br />
+**Yale Drama in Rehearsal: Trio for the Living**: Aired as an episode of NET Festival.<br />
+**The Year 2000**<br />
+**Years Without Harvest**: 30 minute program, produced in 1963 by WNDT.<br />
+**Yes is for a Very Young Man**: Aired as an episode of NET Playhouse.<br />
+**Yesterday the Children were Dancing**: Aired as an episode of NET Playhouse.<br />
+**You Can't Back Down**: 30 minute program, produced in 1968 by NFB.<br />
+**Young Audience: NY Woodwind Quartet**: 1 hour program<br />
+**The Young Elizabeth**: Aired as an episode of NET Playhouse.<br />
+**Young Filmmakers**: Aired as an episode of What's New.<br />
+**Young People's Film Festival**: 1 hour program<br />
+**Youth Dances**: 15 minute program, produced by the Dance in Education Fund.<br />
+**Yugoslavia: Education Builds a Nation**: 30 minute program<br />
