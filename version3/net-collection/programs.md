@@ -1,6 +1,6 @@
 #NET Collection
 
-##Individual Programs
+#Individual Programs
 
 **1984**: *Aired as an episode of [NET Playhouse](series/net-playhouse).*<br />
 **March 4, 1933**: 90 minute program, produced in 1963 by WNDT, originally shot on videotape.<br />
@@ -767,7 +767,7 @@
 **The Inland Sea**<br />
 **Inland Waterway. Part 1**: *Aired as an episode of [What's New](series/whats-new).*<br />
 **Inland Waterway. Part 2**: *Aired as an episode of [What's New](series/whats-new).*<br />
-**Innocent by Reason of Insanity: The Psychiatrist in Court **: produced in 1964 by NET. *Aired as an episode of [At Issue](series/at-issue).*<br />
+**Innocent by Reason of Insanity: The Psychiatrist in Court**: produced in 1964 by NET. *Aired as an episode of [At Issue](series/at-issue).*<br />
 **The Innocents**: 1 hour program, produced in 1961 by WGBH, originally shot on film.<br />
 **Insect Comedy**: produced by BBC. *Aired as an episode of [NET Drama Festival](series/net-drama-festival).*<br />
 **Inside China**: 1 hour program, produced in 1965 by Telepool-Munich, originally shot on videotape.<br />
