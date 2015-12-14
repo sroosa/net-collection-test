@@ -1,6 +1,6 @@
 #NET Collection
 
-#Individual Programs
+##Individual Programs
 
 **1984**: *Aired as an episode of [NET Playhouse](series/net-playhouse).*<br />
 **March 4, 1933**: 90 minute program, produced in 1963 by WNDT, originally shot on videotape.<br />
@@ -247,8 +247,7 @@
 **Carl Sandburg Remembered**: produced in 1968 by NET. *Aired as an episode of [NET Festival](series/net-festival).*<br />
 **Carlos Chavez**: produced in 1968 by NET by KQED. *Aired as an episode of [NET Festival](series/net-festival).*<br />
 **Carmen**<br />
-**Carmina Burana**: 1 hour program, produced in 1964, originally shot on videotape in black and white.<br />
-**Carmina Burana**: produced in 1968 by NET. *Aired as an episode of [NET Festival](series/net-festival).*<br />
+**Carmina Burana**: 1 hour program, produced in 1968, originally shot on videotape in black and white. *Aired as an episode of [NET Festival](series/net-festival).*<br />
 **Carpenters of the Forest and Land of the Long Day**: *Aired as an episode of [What's New](series/whats-new).*<br />
 **Case Studies in Practical Politics**: produced in 1958 by WQED, originally shot on film<br />
 **Cash!**: *Aired as an episode of [Fanfare](series/fanfare).*<br />
@@ -262,7 +261,7 @@
 **Challenge and Response**: *Aired as an episode of [Perspectives](series/perspectives).*<br />
 **Challenge of Change: Case for Counseling**: 30 minute program, produced in 1962 by Louis de Rochemont, originally shot on film.<br />
 **The Chamizal Story**: produced in 1964 by KUHT. *Aired as an episode of [Local Issue](series/local-issue).*<br />
-**The Chamizal Story**: *Aired as an episode of [What's New](series/whats-new).*<br />
+**The Chamizal Story**: produced in 1964 by KUHT. *Aired as an episode of [What's New](series/whats-new).*<br />
 **Changing the Weather**: *Aired as an episode of [Spectrum](series/spectrum).*<br />
 **Changing UN**: 30 minute program<br />
 **Charles Ives: Symphony No. 4**: produced in 1965. *Aired as an episode of [NET Festival](series/net-festival).*<br />
@@ -425,10 +424,6 @@
 **Dies Irae**<br />
 **The Difference Between Us**: produced in 1966 by NET. *Aired as an episode of [Intertel](series/intertel).*<br />
 **Dinoland**: *Aired as an episode of [What's New](series/whats-new).*<br />
-**Dinoland**: *Aired as an episode of [What's New](series/whats-new).*<br />
-**Dinoland**: *Aired as an episode of [What's New](series/whats-new).*<br />
-**Dinoland**: *Aired as an episode of [What's New](series/whats-new).*<br />
-**Dinoland**: *Aired as an episode of [What's New](series/whats-new).*<br />
 **The Discontented**<br />
 **The Discounters**<br />
 **A Discussion with J. Reston**<br />
@@ -467,7 +462,6 @@
 **Dylan Thomas: The World I Breathe**: produced in 1968 by NET. *Aired as an episode of [NET Festival](series/net-festival).*<br />
 **Earl Scruggs: His Family and Friends**: produced in 1971 by Amram Nowak Associates. *Aired as an episode of [Fanfare](series/fanfare).*<br />
 **Earth Day**: 6 hour and 30 minute program, produced in 1970 by NET, originally shot in color.<br />
-**East Africa Today**: *Aired as an episode of [What's New](series/whats-new).*<br />
 **East Africa Today**: *Aired as an episode of [What's New](series/whats-new).*<br />
 **Eastern European Transition**: produced in 1965 by NET. *Aired as an episode of [At Issue](series/at-issue).*<br />
 **Eastman Theatre Gala**<br />
@@ -731,7 +725,7 @@
 **The Human X Factor**: *Aired as an episode of [Spectrum](series/spectrum).*<br />
 **Hunger in Chicago: To Save the Hungry**<br />
 **Hunger: A National Disgrace. Part 1**: 1 hour program, produced in 1969 by NET, originally shot in color.<br />
-**Hunger: A National Disgrace. Part 1**: 1 hour program, produced in 1969 by NET, originally shot in color.<br />
+**Hunger: A National Disgrace. Part 2**: 1 hour program, produced in 1969 by NET, originally shot in color.<br />
 **Hypnosis: Myth or Medicine**: *Aired as an episode of [Spectrum](series/spectrum).*<br />
 **I, the Aboriginal**: 1 hour program, produced in 1964 by the Australian Broadcasting Commission, originally shot on film.<br />
 **The Idea of North**: produced by Canadian Broadcasting Corporation. *Aired as an episode of [Realities](series/realities).*<br />
@@ -799,7 +793,6 @@
 **James Buswell at Castle Hill**: 1 hour program<br />
 **James Oliver Buswell III at Castle Hill**<br />
 **Japanese Medicine: The Silent Invader**: *Aired as an episode of [Spectrum](series/spectrum).*<br />
-**Jazz a la Montreaux**<br />
 **Jazz a la Montreaux**: produced in 1971 by NET and Swiss Television. *Aired as an episode of [Special of the Week](series/special-of-the-week).*<br />
 **Jazz at Tanglewood: Judy Collins and Don Ellis**: produced in 1969 by WGBH. *Aired as an episode of [Fanfare](series/fanfare).*<br />
 **Jazz at Tanglewood: Moden Jazz Quartet**: produced in 1969 by WGBH. *Aired as an episode of [Fanfare](series/fanfare).*<br />
@@ -821,8 +814,7 @@
 **John Glenn Story**: 30 minute program, produced in 1963 by NASA, originally shot on film in color.<br />
 **Josh Logan with Elliot Norton**: 30 minute program, produced in 1963 by WGBH, originally shot on videotape.<br />
 **Journey into Nutrition**: *Aired as an episode of [What's New](series/whats-new).*<br />
-**Journey of the Fifth Horse**: 135 minute program, produced in 1969 by NET.<br />
-**Journey of the Fifth Horse**: produced in 1966 by NET. *Aired as an episode of [NET Playhouse](series/net-playhouse).*<br />
+**Journey of the Fifth Horse**: 135 minute program, produced in 1966 by NET. *Aired as an episode of [NET Playhouse](series/net-playhouse).*<br />
 **Journey to the Moon. Part 1**: *Aired as an episode of [What's New](series/whats-new).*<br />
 **Journey to the Moon. Part 2**: *Aired as an episode of [What's New](series/whats-new).*<br />
 **Journey Toward Progress**: 30 minute program, produced in 1963 by NET, originally shot on videotape.<br />
@@ -851,8 +843,7 @@
 **Kress Collection**: 17 minute program, produced by the University of Arizona, originally shot on film.<br />
 **Kuwait**: produced in 1968 by BBC. *Aired as an episode of [NET Journal](series/net-journal).*<br />
 **L'ajo nell'imbaraazo**: 1 hour program, produced in 1968 by Cine Lirica.<br />
-**L'Aventura**: 145 minute program, produced in 1966 by NET.<br />
-**L'Aventura**: produced in 1966 by Janus Films. *Aired as an episode of [NET Playhouse](series/net-playhouse).*<br />
+**L'Aventura**: 2 hour program, produced in 1966 by Janus Films. *Aired as an episode of [NET Playhouse](series/net-playhouse).*<br />
 **L'Heure Espagnole**: 30 minute program, produced in 1960 by WGBH, originally shot on videotape.<br />
 **La Finta Giardiniera**: 171 minute program, produced in 1959 by WGBH.<br />
 **La Malade Imaginaire**: produced by Radiodiffusion Television Francaise. *Aired as an episode of [NET Drama Festival](series/net-drama-festival).*<br />
@@ -861,15 +852,13 @@
 **La Otra**: *Aired as an episode of [NET Playhouse](series/net-playhouse).*<br />
 **La Rodine**: 90 minute program<br />
 **La Scala di Seta**: produced in 1963 by Cine Lirica Italiana. *Aired as an episode of [Music Strip](series/music-strip).*<br />
-**La Serva Padrona**: 65 minute program, produced in 1963 by CLI.<br />
-**La Serva Padrona**: produced in 1963 by Cine Lirica Italiana. *Aired as an episode of [Music Strip](series/music-strip).*<br />
+**La Serva Padrona**: 65 minute program, produced in 1963 by Cine Lirica Italiana. *Aired as an episode of [Music Strip](series/music-strip).*<br />
 **La Terna Magica**<br />
 **La Traviata**: produced in 1963 by Radio-Televisione Italiana. *Aired as an episode of [Music Strip](series/music-strip).*<br />
 **Laboratory Detectives**: *Aired as an episode of [Spectrum](series/spectrum).*<br />
 **Lady with the Dog**: produced in 1967 by Lenfilm Studios. *Aired as an episode of [NET Playhouse](series/net-playhouse).*<br />
 **Land Grant Murals**: 15 minute program, produced by Penn State.<br />
 **The Land That Waited**: 50 minute program, produced in 1963 by the Australian Broadcasting Commission, originally shot on film.<br />
-**Landmarks for Liberty**<br />
 **Landmarks of Liberty**: *Aired as an episode of [What's New](series/whats-new).*<br />
 **Language of Birds**<br />
 **The Language of Gesture**: 30 minute program, produced in 1963 by UNESCO Paris, originally shot on film in black and white.<br />
@@ -879,11 +868,9 @@
 **The Last Chance**: produced in 1966. *Aired as an episode of [NET Journal](series/net-journal).*<br />
 **The Last Menominee**: produced in 1966 by WHA-TV. *Aired as an episode of [Local Issue](series/local-issue).*<br />
 **Laudes Evangelli**: produced in 1968 by Rediffusion Television. *Aired as an episode of [NET Festival](series/net-festival).*<br />
-**Law and Order**<br />
 **Law and Order: A Study of Police in Four Countries**: produced in 1970 by Intertel. *Aired as an episode of [Intertel](series/intertel).*<br />
 **Lay Down Your Arms**: produced in 1971 by London Weekend Television. *Aired as an episode of [NET Playhouse](series/net-playhouse).*<br />
-**Lay My Burden Down**: 1 hour program, produced in 1966 by NET.<br />
-**Lay My Burden Down**: produced in 1966 by NET. *Aired as an episode of [NET Journal](series/net-journal).*<br />
+**Lay My Burden Down**: 1 hour program, produced in 1966 by NET. *Aired as an episode of [NET Journal](series/net-journal).*<br />
 **Layman and the Arts**: 30 minute program, produced in 1961 by WMSB, originally shot on videotape.<br />
 **LBC Chorale in Disneyland**<br />
 **LBJ: An Unposed Profile**: 30 minute program, produced in 1964 by NET, originally shot on videotape.<br />
@@ -942,7 +929,6 @@
 **Lord Byron**: *Aired as an episode of [NET Playhouse Biography](series/net-playhouse-biography).*<br />
 **Lord Kenneth Clark Interview**<br />
 **Lorin Hollander: Up Against the Wall**<br />
-**Lorraine Hansberry: To Be Young, Gifted and Black**<br />
 **Lorraine Hansberry: To Be Young, Gifted and Black**: produced in 1972 by NET Division, Educational Broadcasting Corporation. *Aired as an episode of [NET Playhouse Biography](series/net-playhouse-biography).*<br />
 **Los Angeles Philharmonic**: *Aired as an episode of [NET Symphony](series/net-symphony).*<br />
 **Los Pastores**: 30 minute program, produced in 1962 by KUHT, originally shot on film.<br />
@@ -950,8 +936,7 @@
 **Lost Apple**: produced in 1963 by Talent Associates. *Aired as an episode of [Perspectives](series/perspectives).*<br />
 **Lost Pony**: *Aired as an episode of [What's New](series/whats-new).*<br />
 **Louisiana Diary**: 1 hour program, produced in 1964 by KQED, originally shot on film.<br />
-**Lower Depths**: 125 minute program, produced in 1959 by BBC.<br />
-**Lower Depths**: *Aired as an episode of [NET Drama Festival](series/net-drama-festival).*<br />
+**Lower Depths**: 125 minute program, produced in 1959 by BBC. *Aired as an episode of [NET Drama Festival](series/net-drama-festival).*<br />
 **Loyalties**: 30 minute program, produced in 1959 by KQED.<br />
 **LSD: Lettvin vs Leary**: produced in 1967 by WGBH. *Aired as an episode of [NET Journal](series/net-journal).*<br />
 **Luboshutz and Nemenoff**: *Aired as an episode of [NET Playhouse](series/net-playhouse).*<br />
@@ -1026,7 +1011,6 @@
 **Melina Mercouri**: 1 hour program<br />
 **Melon in the River**: produced in 1965 by WMHT. *Aired as an episode of [Local Issue](series/local-issue).*<br />
 **Melting of Molly**<br />
-**Men Against Cancer**<br />
 **Men Against Cancer**: produced in 1968 by Rediffusion Television. *Aired as an episode of [NET Journal](series/net-journal).*<br />
 **Men for Others**: produced in 1965 by Canadian Broadcasting Corporation. *Aired as an episode of [Intertel](series/intertel).*<br />
 **Men in Black**: produced in 1966 by Rediffusion Television. *Aired as an episode of [Intertel](series/intertel).*<br />
@@ -1044,12 +1028,10 @@
 **Migrant Labor**: 30 minute program, produced in 1965 by Harry McCarthy, originally shot on videotape.<br />
 **Migrant Workers**<br />
 **Miguel**: *Aired as an episode of [What's New](series/whats-new).*<br />
-**Miguel**: *Aired as an episode of [What's New](series/whats-new).*<br />
 **Mikado**: produced in 1963 by BBC. *Aired as an episode of [NET Festival](series/net-festival).*<br />
 **Mike Makes His Mark**<br />
 **Milhaud: A Portrait**: 1 hour program, produced in 1963 by KQED, originally shot on film.<br />
-**Mind of Man**: 2 hour program<br />
-**The Mind of Man**: produced in 1970 by NET, BBC, and Swedish and Bavarian Television. *Aired as an episode of [Realities](series/realities).*<br />
+**The Mind of Man**: 2 hour program, produced in 1970 by NET, BBC, and Swedish and Bavarian Television. *Aired as an episode of [Realities](series/realities).*<br />
 **Mingus**: produced in 1971 by Thomas Reichman. *Aired as an episode of [Fanfare](series/fanfare).*<br />
 **Miniature War**: *Aired as an episode of [Spectrum](series/spectrum).*<br />
 **Minneapolis Symphony. Part 1**: *Aired as an episode of [NET Symphony](series/net-symphony).*<br />
@@ -1059,7 +1041,6 @@
 **Mission Control**: *Aired as an episode of [What's New](series/whats-new).*<br />
 **A Mission of Discovery**: 30 minute program<br />
 **Mission to Moscow**: 1 hour program, produced in 1959 by KQED, originally shot on videotape.<br />
-**Mississippi**: *Aired as an episode of [What's New](series/whats-new).*<br />
 **Mississippi**: *Aired as an episode of [What's New](series/whats-new).*<br />
 **Mississippi: A Conversation with James W. Silver**: produced in 1964. *Aired as an episode of [At Issue](series/at-issue).*<br />
 **Modern Women: The Uneasy Life**: produced in 1966 by NET. *Aired as an episode of [NET Journal](series/net-journal).*<br />
@@ -1093,9 +1074,7 @@
 **Muppets on Puppets**: 1 hour program, produced in 1970 by WITF, originally shot in black and white.<br />
 **Murl Deusing Panama**: *Aired as an episode of [What's New](series/whats-new).*<br />
 **Music in Color**: *Aired as an episode of [What's New](series/whats-new).*<br />
-**Music in Color**: *Aired as an episode of [What's New](series/whats-new).*<br />
 **Music Machine**<br />
-**Music Makers of Blue Ridge**: produced in 1966 by NET.<br />
 **Music Makers of Blue Ridge**: produced in 1966 by NET. *Aired as an episode of [NET Festival](series/net-festival).*<br />
 **Music Men: A Look at Barber Shopping**: 30 minute program<br />
 **Music Now**: *Aired as an episode of [Fanfare](series/fanfare).*<br />
@@ -1221,10 +1200,8 @@
 **People in Politics**<br />
 **The People Question Vice President Humphrey**: *Aired as an episode of [NET Journal](series/net-journal).*<br />
 **Perfection in Skating**: *Aired as an episode of [What's New](series/whats-new).*<br />
-**Perfection in Skating**: *Aired as an episode of [What's New](series/whats-new).*<br />
 **Peter and the Wolf**<br />
-**Peter Grimes**: 150 minute program<br />
-**Peter Grimes**: *Aired as an episode of [NET Playhouse Biography](series/net-playhouse-biography).*<br />
+**Peter Grimes**: 150 minute program. *Aired as an episode of [NET Playhouse Biography](series/net-playhouse-biography).*<br />
 **Peter, Paul and Mary: The Song is Love**: *Aired as an episode of [Fanfare](series/fanfare).*<br />
 **The Philippines: Guns Before Bread**: *Aired as an episode of [NET Journal](series/net-journal).*<br />
 **A Piece of Cake**: 1 hour program, produced in 1969.<br />
@@ -1363,7 +1340,6 @@
 **Sabel Island**: *Aired as an episode of [What's New](series/whats-new).*<br />
 **Sahara**: 1 hour program, produced in 1961 by German TV.<br />
 **Sailing. Part 1**: *Aired as an episode of [What's New](series/whats-new).*<br />
-**Sailing. Part 1**: *Aired as an episode of [What's New](series/whats-new).*<br />
 **Sailing. Part 2**: *Aired as an episode of [What's New](series/whats-new).*<br />
 **The Salmon's Struggle to Survive**: *Aired as an episode of [What's New](series/whats-new).*<br />
 **San Francisco Rock at the Family Dog**: *Aired as an episode of [Fanfare](series/fanfare).*<br />
@@ -1474,7 +1450,6 @@
 **Speaking of Russia**: 30 minute program, produced in 1959 by WTTW.<br />
 **Special Kind of Morning**: *Aired as an episode of [What's New](series/whats-new).*<br />
 **A Speck of Progress**: 12 minute program<br />
-**Sports Professor**: *Aired as an episode of [What's New](series/whats-new).*<br />
 **Sports Professor**: *Aired as an episode of [What's New](series/whats-new).*<br />
 **Spring in Ethiopia**: *Aired as an episode of [NET Journal](series/net-journal).*<br />
 **The Squeeze**<br />
@@ -1762,7 +1737,6 @@
 **WNET Opera Theater: The Death Goddess**<br />
 **Woman of No Importance**: produced by Associated-Rediffusion. *Aired as an episode of [NET Drama Festival](series/net-drama-festival).*<br />
 **Women Beware Women**: *Aired as an episode of [NET Playhouse](series/net-playhouse).*<br />
-**The Wonder of Beginning**<br />
 **The Wonder of Beginning**<br />
 **A Word About Rome**: 30 minute program, produced by Radio-Televisione Italiana (RAI).<br />
 **The Word and the Way**: 1 hour program<br />
