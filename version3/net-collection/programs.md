@@ -200,7 +200,7 @@
 **Boston Pops**: Aired as an episode of [NET Festival](net-collection/series/net-festival).<br />
 **Boston Pops I**: 135 minute program, produced in 1961 by WGBH, originally shot on videotape.<br />
 **Boston Pops II**: 90 minute program, produced in 1967 by WGBH, originally shot on videotape.<br />
-**Boston Pops III **: produced in 1968 by WGBH. Aired as an episode of [NET Festival](net-collection/series/net-festival).<br />
+**Boston Pops III**: produced in 1968 by WGBH. Aired as an episode of [NET Festival](net-collection/series/net-festival).<br />
 **Boston Symphony at Tanglewood**: produced in 1968 by WGBH. Aired as an episode of [NET Festival](net-collection/series/net-festival).<br />
 **Boston Symphony Orchestra II**<br />
 **Boulez: A Portrait in Three Movements**: 90 minute program, produced in 1971 by the Educational Broadcasting Corporation, originally shot in color.<br />
