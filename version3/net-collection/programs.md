@@ -1252,7 +1252,7 @@
 **Project Security**<br />
 **Projections in Indian Art**<br />
 **Prokofiev**: 1 hour program, produced by WNDT.<br />
-**The Promise of the College Graduate: From Rhetoric to Reality **: produced in 1964 by NET. *Aired as an episode of [At Issue](series/at-issue).*<br />
+**The Promise of the College Graduate: From Rhetoric to Reality**: produced in 1964 by NET. *Aired as an episode of [At Issue](series/at-issue).*<br />
 **The Proud Breed**: *Aired as an episode of [What's New](series/whats-new).*<br />
 **Public Hearing on Vietnam**: 1 hour program, produced in 1965 by NET.<br />
 **Puerto Rico: Workshop for Americans**: 30 minute program<br />
